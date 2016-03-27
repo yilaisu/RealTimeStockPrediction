@@ -1,0 +1,4 @@
+2009-08-27T00:00:00Z
+Missing Photos on the BlackBerry
+Some of my Outlook contact pictures won’t copy over to my BlackBerry when I synchronize it with my PC. Any ideas as to why some photos sync up and some don’t?
+

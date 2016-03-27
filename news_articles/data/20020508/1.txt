@@ -1,0 +1,5 @@
+2002-05-08T00:00:00Z
+Technology Briefing | Hardware: Competitor Aims At Blackberry
+Good Technology, a Silicon Valley start-up, yesterday introduced its first product, a mobile e-mail service that is intended to challenge Research in Motion's popularity among corporate customers. Good Technology, based in Sunnyvale, Calif., said it had signed up customers like VeriSign and Electronic Arts. The service, called GoodLink, which costs $45 a month, synchronizes messages, addresses and calendar items with Microsoft Exchange, the server behind Outlook. Chris Gaither (NYT)
+Good Technology introduces its first product, mobile e-mail service that is intended to challenge Research in Motion's popularity among corporate customers; Good Technology has signed up customers like VeriSign and Electronic Arts; GoodLink service costs $45 per month (S)
+

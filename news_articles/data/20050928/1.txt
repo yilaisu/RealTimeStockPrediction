@@ -1,0 +1,5 @@
+2005-09-28T00:00:00Z
+World Business Briefing | Americas: Canada: BlackBerry With Intel Inside
+Research in Motion said it would use a new chip from Intel for its next generation of BlackBerry wireless e-mail devices and phones. The new chip, code-named Hermon, will use very little power and work on networks using a cellular standard being developed that will offer very-high-speed Internet connections. Some earlier BlackBerry models used Intel processors, but they were modified versions of obsolete personal computer chips. The announcement by Research in Motion, which is based in Waterloo, Ontario, came a day after Palm and Microsoft said they would co-develop the next Treo wireless e-mail device. Ian Austen (NYT)
+Research in Motion says it will use new chip from Intel for its next generation of BlackBerry wireless e-mail devices and phones (S)
+

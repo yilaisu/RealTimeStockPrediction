@@ -1,0 +1,386 @@
+FWP 1 d136832dfwp.htm FREE WRITING PROSPECTUS
+Filed Pursuant to Rule 433
+Registration No. 333-188191
+Issuer Free Writing Prospectus dated February 16, 2016
+Relating to Preliminary Prospectus Supplement dated February 16, 2016
+APPLE INC.
+FINAL PRICING TERM SHEET
+Floating Rate Notes due 2019
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$500,000,000
+Maturity:	  	February 22, 2019
+Spread to LIBOR:	  	+82 basis points
+Designated LIBOR Page:	  	Reuters Page LIBOR 01
+Index Maturity:	  	3 Months
+Interest Reset Period:	  	Quarterly
+Initial Interest Rate:	  	Three month LIBOR plus 82 bps, determined on the second London business day preceding the scheduled closing date
+Price to Public:	  	100.00%
+Interest Payment Dates:	  	February 23, May 23, August 23, and November 23, commencing May 23, 2016
+Day Count Convention:	  	The actual number of days in an interest period and a 360-day year
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BR0 / US037833BR03
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                     Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+Floating Rate Notes due 2021
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$500,000,000
+Maturity:	  	February 23, 2021
+Spread to LIBOR:	  	+113 basis points
+Designated LIBOR Page:	  	Reuters Page LIBOR 01
+Index Maturity:	  	3 Months
+Interest Reset Period:	  	Quarterly
+Initial Interest Rate:	  	Three month LIBOR plus 113 bps, determined on the second London business day preceding the scheduled closing date
+Price to Public:	  	100.00%
+Interest Payment Dates:	  	February 23, May 23, August 23, and November 23, commencing May 23, 2016
+Day Count Convention:	  	The actual number of days in an interest period and a 360-day year
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BT6 / US037833BT68
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                     Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+1.300% Notes due 2018 (“2018 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$500,000,000
+Maturity:	  	February 23, 2018
+Coupon:	  	1.300%
+Price to Public:	  	99.957%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	0.750% due January 31, 2018
+Benchmark Treasury Yield:	  	0.722%
+Spread to Benchmark Treasury:	  	60 basis points
+Yield:	  	1.322%
+Redemption:	  	Apple Inc. may at its option redeem the 2018 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2018 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2018 Fixed Rate Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2018 Fixed Rate Notes) plus 10 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BN9 / US037833BN98
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+  	
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+1.700% Notes due 2019 (“2019 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$1,000,000,000
+Maturity:	  	February 22, 2019
+Coupon:	  	1.700%
+Price to Public:	  	99.983%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	0.750% due February 15, 2019
+Benchmark Treasury Yield:	  	0.906%
+Spread to Benchmark Treasury:	  	80 basis points
+Yield:	  	1.706%
+Redemption:	  	Apple Inc. may at its option redeem the 2019 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2019 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2019 Fixed Rate Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2019 Fixed Rate Notes) plus 12.5 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BQ2 / US037833BQ20
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+  	
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+2.250% Notes due 2021 (“2021 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$2,250,000,000
+Maturity:	  	February 23, 2021
+Coupon:	  	2.250%
+Price to Public:	  	99.929%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	1.375% due January 31, 2021
+Benchmark Treasury Yield:	  	1.215%
+Spread to Benchmark Treasury:	  	105 basis points
+Yield:	  	2.265%
+Redemption:	  	
+Prior to January 23, 2021, Apple Inc. may at its option redeem the 2021 Fixed Rate Notes, in whole or in part, at any time or from time to time, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2021 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2021 Fixed Rate Notes to be redeemed (assuming that such notes matured on January 23, 2021), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2021 Fixed Rate Notes) plus 15 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after January 23, 2021, Apple Inc. may redeem the 2021 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to 100% of the principal amount of the 2021 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BS8 / US037833BS85
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+2.850% Notes due 2023 (“2023 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$1,500,000,000
+Maturity:	  	February 23, 2023
+Coupon:	  	2.850%
+Price to Public:	  	99.893%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	1.750% due January 31, 2023
+Benchmark Treasury Yield:	  	1.517%
+Spread to Benchmark Treasury:	  	135 basis points
+Yield:	  	2.867%
+Redemption:	  	
+Prior to December 23, 2022, Apple Inc. may at its option redeem the 2023 Fixed Rate Notes, in whole or in part, at any time or from time to time, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2023 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2023 Fixed Rate Notes to be redeemed (assuming that such notes matured on December 23, 2022), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2023 Fixed Rate Notes) plus 20 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after December 23, 2022, Apple Inc. may redeem the 2023 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to 100% of the principal amount of the 2023 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds for the 2023 Fixed Rate Notes:	  	Net proceeds for the 2023 Fixed Rate Notes will be approximately $1.49 billion, after deducting underwriting discounts and pro rata offering expenses. Apple Inc. intends to allocate an amount equal to such net proceeds for investments in one or more Eligible Projects (as defined in the Preliminary Prospectus Supplement related to this
+  	offering), including new and ongoing development of such Eligible Projects. See the Preliminary Prospectus Supplement relating to this offering for more information about the eligibility criteria for such projects.
+CUSIP/ISIN:	  	037833 BU3 / US037833BU32
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+3.250% Notes due 2026 (“2026 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$2,000,000,000
+Maturity:	  	February 23, 2026
+Coupon:	  	3.250%
+Price to Public:	  	99.780%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	1.625% due February 15, 2026
+Benchmark Treasury Yield:	  	1.776%
+Spread to Benchmark Treasury:	  	150 basis points
+Yield:	  	3.276%
+Redemption:	  	
+Prior to November 23, 2025, Apple Inc. may at its option redeem the 2026 Fixed Rate Notes, in whole or in part, at any time or from time to time, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2026 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2026 Fixed Rate Notes to be redeemed (assuming that such notes matured on November 23, 2025), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2026 Fixed Rate Notes) plus 25 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after November 23, 2025, Apple Inc. may redeem the 2026 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to 100% of the principal amount of the 2026 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BY5/ US037833BY53
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+4.500% Notes due 2036 (“2036 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$1,250,000,000
+Maturity:	  	February 23, 2036
+Coupon:	  	4.500%
+Price to Public:	  	99.530%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	3.000% due November 15, 2045
+Benchmark Treasury Yield:	  	2.636%
+Spread to Benchmark Treasury:	  	190 basis points
+Yield:	  	4.536%
+Redemption:	  	
+Prior to August 23, 2035, Apple Inc. may at its option redeem the 2036 Fixed Rate Notes, in whole or in part, at any time or from time to time, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2036 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2036 Fixed Rate Notes to be redeemed (assuming that such notes matured on August 23, 2035), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2036 Fixed Rate Notes) plus 30 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after August 23, 2035, Apple Inc. may redeem the 2036 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to 100% of the principal amount of the 2036 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BW9 / US037833BW97
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+4.650% Notes due 2046 (“2046 Fixed Rate Notes”)
+ 
+Issuer:	  	Apple Inc.
+Principal Amount:	  	$2,500,000,000
+Maturity:	  	February 23, 2046
+Coupon:	  	4.650%
+Price to Public:	  	99.423%
+Interest Payment Dates:	  	February 23 and August 23, commencing August 23, 2016
+Day Count Convention:	  	30/360
+Benchmark Treasury:	  	3.000% due November 15, 2045
+Benchmark Treasury Yield:	  	2.636%
+Spread to Benchmark Treasury:	  	205 basis points
+Yield:	  	4.686%
+Redemption:	  	
+Prior to August 23, 2045, Apple Inc. may at its option redeem the 2046 Fixed Rate Notes, in whole or in part, at any time or from time to time, at a redemption price, calculated by Apple Inc., equal to the greater of (i) 100% of the principal amount of the 2046 Fixed Rate Notes to be redeemed; or (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2046 Fixed Rate Notes to be redeemed (assuming that such notes matured on August 23, 2045), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2046 Fixed Rate Notes) plus 30 basis points, plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after August 23, 2045, Apple Inc. may redeem the 2046 Fixed Rate Notes, in whole or in part, at any time or from time to time prior to their maturity, at a redemption price equal to 100% of the principal amount of the 2046 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Trade Date:	  	February 16, 2016
+Settlement Date:	  	February 23, 2016 (T+5)
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof
+Ratings: *	  	
+Aa1 (stable) by Moody’s Investors Service, Inc.
+AA+ (stable) by Standard & Poor’s Ratings Services
+Net Proceeds
+(excluding 2023 Fixed Rate Notes):
+  	Aggregate net proceeds from sale of all notes offered pursuant to this Pricing Term Sheet (other than the 2023 Fixed Rate Notes) will be approximately $10.44 billion, after deducting underwriting discounts and pro rata offering expenses.
+CUSIP/ISIN:	  	037833 BX7 / US037833BX70
+Underwriters:	  	
+Joint Book-Running Managers:	  	Goldman, Sachs & Co.
+  	
+Deutsche Bank Securities Inc.
+J.P. Morgan Securities LLC
+  	
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+Co-Managers:	  	
+Barclays Capital Inc.
+Standard Chartered Bank
+Wells Fargo Securities, LLC
+CastleOak Securities, L.P.
+Drexel Hamilton, LLC
+Loop Capital Markets LLC
+Samuel A. Ramirez & Company, Inc.
+ 
+*	Note: A securities rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.
+Under Rule 15c6-1 of the Exchange Act, trades in the secondary market generally are required to settle in three business days, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the third business day before the settlement date will be required, by virtue of the fact that the notes initially will settle in T+5, to specify alternative settlement arrangements to prevent a failed settlement.
+The issuer has filed a registration statement (including a prospectus) and a prospectus supplement with the Securities and Exchange Commission (“SEC”) for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement, the prospectus supplement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus and prospectus supplement if you request it by calling Goldman, Sachs & Co. toll free at 1-866-471-2526, Deutsche Bank Securities Inc. toll free at 1-800-503-4611, J.P. Morgan Securities LLC collect at 212-834-4533, Merrill Lynch, Pierce, Fenner & Smith Incorporated toll free at 1-800-294-1322, or by contacting Apple Inc.’s Investor Relations at http://investor.apple.com/contactUs.cfm.
+Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.

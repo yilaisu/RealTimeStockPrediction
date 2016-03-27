@@ -1,0 +1,64 @@
+EX-5.1 4 d31615dex51.htm EX-5.1
+Exhibit 5.1
+September 17, 2015
+The Board of Directors
+Apple Inc.
+1 Infinite Loop
+Cupertino, California 95014
+Apple Inc.
+€1,000,000,000 1.375% Notes due 2024
+€1,000,000,000 2.000% Notes due 2027
+Ladies and Gentlemen:
+We have acted as counsel to Apple Inc., a California corporation (the “Company”), in connection with the issuance and sale by the Company of €1,000,000,000 aggregate principal amount of the Company’s 1.375% Notes due 2024 (the “2024 Notes”) and €1,000,000,000 aggregate principal amount of the Company’s 2.000% Notes due 2027 (the “2027 Notes,” and, together with the 2024 Notes, the “Notes”) pursuant to the Underwriting Agreement, dated September 10, 2015 (the “Underwriting Agreement”), between the Company and Goldman, Sachs & Co., as representative of each of the underwriters listed on Schedule I thereto. The Notes will be issued pursuant to an indenture, dated as of April 29, 2013, between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”) (the “Base Indenture”) as supplemented by the officer’s certificate dated the date hereof relating to the Notes (such officer’s certificate, together with the Base Indenture, the “Indenture”).
+In connection with the foregoing transactions, we have reviewed originals or copies of the following documents:
+ 
+ 	
+(a)
+
+The Underwriting Agreement.
+
+ 
+ 	
+(b)
+
+The Indenture.
+
+ 
+ 	
+(c)
+
+The Paying Agent Agreement, among the Company, The Bank of New York Mellon, London Branch, as the paying agent, and The Bank of New York Mellon Trust Company, N.A., as the registrar, dated as of September 17, 2015.
+
+ 
+ 	
+(d)
+
+The Notes in global form as executed by the Company.
+
+The documents described in the foregoing clauses (a) through (d) are collectively referred to herein as the “Opinion Documents.”
+In our review of the Opinion Documents and other documents, we have assumed:
+(a) The genuineness of all signatures.
+(b) The authenticity of the originals of the documents submitted to us.
+(c) The conformity to authentic originals of any documents submitted to us as copies.
+(d) As to matters of fact, the truthfulness of the representations made in the Underwriting Agreement and the other Opinion Documents and in certificates of public officials and officers of the Company.
+(e) That each of the Opinion Documents is the legal, valid and binding obligation of each party thereto, other than the Company, enforceable against each such party in accordance with its terms.
+(f) That the execution, delivery and performance by the Company of the Opinion Documents to which it is a party do not:
+(A) except with respect to Generally Applicable Law, violate any law, rule or regulation applicable to it; or
+(B) result in any conflict with or breach of any agreement or document binding on it of which any addressee hereof has knowledge, has received notice or has reason to know.
+(g) Except with respect to Generally Applicable Law, no authorization, approval or other action by, and no notice to or filing with, any governmental authority or regulatory body or (to the extent the same is required under any agreement or document binding on it of which an addressee has knowledge, has received notice or has reason to know) any other third party is required for the due execution, delivery or performance by the Company of any Opinion Document to which it is a party or, if any such authorization, approval, action, notice or filing is required, it has been duly obtained, taken, given or made and is in full force and effect.
+We have not independently established the validity of the foregoing assumptions.
+“Generally Applicable Law” means the federal law of the United States of America, and the law of the States of New York and California (including the rules or regulations promulgated thereunder or pursuant thereto), that a New York or California lawyer exercising customary professional diligence would reasonably be expected to recognize as being applicable to the Company, the Opinion Documents or the transactions governed by the Opinion Documents, and for purposes of our assumptions paragraphs (f) and (g) above and our opinion below, the General Corporation Law of the State of California. Without limiting the generality of the foregoing definition of Generally Applicable Law, the term “Generally Applicable Law” does not include any law, rule or regulation that is applicable to the Company, the Opinion Documents or such transactions solely because such law, rule or regulation is part of a regulatory regime applicable to any party to any of the Opinion Documents or any of its affiliates due to the specific assets or business of such party or such affiliate.
+ 
+2
+Based upon the foregoing and upon such other investigation as we have deemed necessary and subject to the qualifications set forth below, we are of the opinion that the Notes have been duly authorized and executed by the Company and, when authenticated by the Trustee in accordance with the Indenture and delivered and paid for as provided in the Underwriting Agreement, the Notes will be legal, valid and binding obligations of the Company enforceable against the Company in accordance with their terms and entitled to the benefits of the Indenture.
+Our opinion expressed above is subject to the effect of (a) any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally (including without limitation all laws relating to fraudulent transfers) and (b) general principles of equity, including without limitation concepts of materiality, reasonableness, good faith and fair dealing (regardless of whether considered in a proceeding in equity or at law).
+Our opinion is limited to Generally Applicable Law, and we do not express any opinion herein concerning any other law.
+This opinion letter is rendered to you in connection with the transactions contemplated by the Opinion Documents.
+This opinion letter speaks only as of the date hereof. We expressly disclaim any responsibility to advise you of any development or circumstance of any kind, including any change of law or fact, that may occur after the date of this opinion letter that might affect the opinion expressed herein.
+We hereby consent to the filing of this opinion letter as an exhibit to the Current Report on Form 8-K dated the date hereof filed by the Company and incorporated by reference into the Registration Statement on Form S-3ASR (File No. 333-188191) filed by the Company to effect the registration of the Notes under the Securities Act of 1933, as amended (the “Securities Act”), and to the use of our name under the heading “Legal Matters” in the prospectus supplement constituting a part of such Registration Statement. In giving this consent, we do not hereby admit that we are in the category of persons whose consent is required under Section 7 of the Securities Act or the rules and regulations of the Securities and Exchange Commission promulgated thereunder.
+Very truly yours,
+/s/ Shearman & Sterling LLP
+JDW/NFM/SJL
+ADS
+ 
+3

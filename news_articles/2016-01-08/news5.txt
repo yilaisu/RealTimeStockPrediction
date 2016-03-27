@@ -1,0 +1,57 @@
+By Paul Carsten and Yimou Lee
+
+BEIJING/HONG KONG (Reuters) - Google, part of Alphabet Inc , aims to launch the China version of its Google Play smartphone app store next year, according to people familiar with the matter, its first major foray in the market since ending localised product support in 2010.
+
+The Google Play app store would be set up specifically for China, and not connected to overseas versions of Google Play, two of the people said.
+
+They said Google intends to comply with Chinese laws on filtering content that might be viewed as sensitive by the ruling Communist Party, and laws requiring the company to store the app store's data within China.
+
+A Singapore-based Google spokesman declined to comment.
+
+Google largely pulled its services out of China five years ago after refusing to continue self-censoring its search results. It has maintained a limited presence in the world's biggest smartphone market, but most of its services, including Play, have been rendered borderline inaccessible.
+
+The U.S. company would use a successful app store as a launch pad to place other products and services in China, said two people familiar with Google's thinking.
+
+They said, however, that the company has not settled on which product might come next.
+
+Chief Executive Sundar Pichai and other top brass have made no secret that the company wants to get back into China, and Google Play would likely be its first foray.
+
+But critics say Google has lost basically all ground in most of its major services, especially search and video streaming, to Chinese players.
+
+The biggest competition might come from products on the wrong side of the law, said technology analyst Rob Enderle.
+
+"There are a substantial number of free ways people get music in China that makes it difficult for any service, especially from the West, to get into the market," he said.
+
+BREAKING THE ICE
+
+For Google, having a product in China would be a symbolic gesture to show that the company values the market, said Shen Si, CEO of Chinese mobile advertising company PapayaMobile and a former Google employee.
+
+"If they want to break the ice with the Chinese market then they have to pick a pretty important product to make available to the Chinese people and make it really localised," she said.
+
+"Google Play would be a really good product for that because it's not very sensitive."
+
+Chris MacDonald, a business ethics expert at Toronto's Ryerson University, agreed Google Play was a safer bet than search or Gmail in China but said Google should take its time deciding what product to bring to the market next.
+
+"Which ones involve the least consumer data? Which ones are least likely to be politically sensitive or serve as a means of expression for political dissidents?" asked MacDonald.
+
+If Google wants to penetrate the Chinese market in a meaningful way it has to be led by search, said Enderle.
+
+"How do you use YouTube without search? Everything they've got hinges on search. In the end if they can't get search in everything it is going to be even more crippled than it already is," he said.
+
+Google has had its employees working hard in China to lay the ground for the app store's launch, said one of the people with knowledge of executives' plans.
+
+The U.S.-based firm is hoping to launch Google Play in China some time after Chinese New Year in February next year, and before early summer, that person said. Another person at a company in China that works with Google said the store will go live in 2016.
+
+The company hopes the app store will include as payment options Alipay, the online payment service from Alibaba Group Holding Ltd's finance arm Ant Financial Services Group [ANTFIN.UL], and Tencent Holding Ltd's <0700.HK> WeChat Payment, said the person familiar with executives' thinking.
+
+Rather than requiring explicit approval from China's government to launch the app store, Google just needs to comply with Chinese laws including those governing data storage and content filtering, the person added. That was echoed by PapayaMobile's Shen.
+
+Spokeswomen for Ant Financial and Tencent declined to comment.
+
+TOO BIG TO IGNORE
+
+China is too big a market for Google to ignore. Apple Inc complies with local laws and made $58.7 billion last in the year ended Sept. 26 in Greater China, which includes the mainland, Hong Kong and Taiwan, making it its second-biggest market.
+
+Last month, Google said it would take a minority stake in Beijing-based artificial intelligence firm Mobvoi as part of a $75 million fundraising round, as the U.S. search giant tries to rebuild its presence in China.
+
+Because services like its search, e-mail and mapping are blocked in China, the U.S. firm is trying to cement partnerships with domestic providers like Mobvoi, which offers technology similar to Apple's Siri and Google's own version.

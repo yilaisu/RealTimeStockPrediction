@@ -1,0 +1,11 @@
+Although the new Google+ design seemed to have quietly rolled out with only a handful of users commenting on it (or even noticing), Google recently revealed a new related feature that users may actually get excited about. Starting today, you won’t need a Google account to participate in Google Hangouts.
+
+According to the Google blog, they just made it easier to meet and communicate with anyone you want to, whether they have a Google account or not. Last year, Google Apps for Work was updated to allow users to invite outside guests to participate in Hangouts, but you still needed an account to participate — a requirement that has pestered users for some time. Now, however, in an attempt to make the feature more useful, the account requirement has been removed. If the Hangout host invites you to a video call and sends the link, you simply need to provide your name and request to join the call.
+
+Related: Google makes Hangouts calls to France free in aftermath of Paris attacks
+
+This is great news not just for people who didn’t want to set up accounts for Hangouts, but also for Apps customers who will no longer have to choose a different service such as Skype in order for non-account holding guests to participate. The process has been further simplified down to just one click in place of the previous need to fill out numerous forms just to get in on an audio or video call.
+
+And if you happen to have links set on Google Calendar, you can simply send calendar invites. If you don’t use Google Calendar, the link to the call is visible in the event’s description. Chromebox meetings are also more convenient, allowing customers to present content in meeting rooms through a much easier process than before.
+
+Even though Hangouts just recently passed 1 billion installs from the Google Play Store, many users suspect the new update is due in part to Skype’s newest feature allowing users without accounts the option to join in on calls via shareable links. The change, according to Google, is intended to “make it easy for Apps customers using Hangouts to meet with anyone, inside or outside their organization, with or without a Google account.”

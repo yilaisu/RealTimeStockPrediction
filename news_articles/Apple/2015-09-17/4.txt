@@ -1,0 +1,369 @@
+EX-4.1 3 d31615dex41.htm EX-4.1
+Exhibit 4.1
+APPLE INC.
+Officer’s Certificate
+Pursuant to Sections 102 and 301 of the Indenture dated as of April 29, 2013 (the “Indenture”) by and between Apple Inc. (the “Issuer”) and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), the undersigned officer does hereby certify, in connection with the issuance of (i) €1,000,000,000 aggregate principal amount of 1.375% Notes due 2024 (“2024 Notes”) and (ii) €1,000,000,000 aggregate principal amount of 2.000% Notes due 2027 (“2027 Notes” and, together with the 2024 Notes, the “Notes”), that the terms of the Notes are as follows:
+Capitalized terms used but not otherwise defined herein shall have the meanings specified in the Indenture.
+ 
+1.	2024 Notes
+ 
+Title:	  	1.375% Notes due 2024
+Issuer:	  	Apple Inc.
+Trustee, Registrar, Transfer Agent,
+and Authenticating Agent
+  	The Bank of New York Mellon Trust Company, N.A.
+Paying Agent	  	The Bank of New York Mellon, London Branch
+Aggregate Principal Amount at Maturity:	  	€1,000,000,000
+Principal Payment Date:	  	January 17, 2024
+Interest:	  	1.375% per annum
+Date from which Interest will Accrue:	  	September 17, 2015
+Interest Payment Date:	  	Annually on January 17, commencing January 17, 2016
+Optional Redemption:	  	
+The Issuer may at its option redeem the 2024 Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2024 Notes, at a redemption price equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2024 Notes being redeemed; or
+ 
+  	
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued as of the date of redemption), discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined in the 2024 Notes), plus 15 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to the date of redemption.
+Redemption for tax purposes:	  	If, as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after September 10, 2015 the Issuer becomes, or based upon a written opinion of independent counsel selected by the Issuer, will become obligated to pay additional amounts as described under Section 8 of Exhibit A hereto with respect to the 2024 Notes, then the Issuer may at its option redeem, in whole, but not in part, the 2024 Notes on not less than 30 nor more than 60 days prior notice, at a redemption price equal to 100% of their principal amount, together with interest accrued but unpaid on the 2024 Notes to the date fixed for redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	€100,000 and any integral multiple of €1,000 in excess thereof.
+Miscellaneous:	  	
+The terms of the 2024 Notes shall include such other terms as are set forth in the form of 2024 Notes attached hereto as Exhibit A and in the Indenture. In addition, the global notes for the 2024 Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+ 
+ 
+2
+  	
+“Depositary” means “EUROCLEAR/CLEARSTREAM” (as defined in the 2024 Note)
+ 
+Solely with respect to the 2024 Notes, Section 305(2) of the Indenture shall be amended and restated as follows:
+ 
+“Notwithstanding any other provision in this Indenture, and subject to such applicable provisions, if any, as may be specified as contemplated by Section 301, no Global Security may be exchanged in whole or in part for Securities registered, and no transfer of a Global Security in whole or in part may be registered, in the name of any Person other than the Depositary for such Global Security or a nominee thereof unless (A) such Depositary has notified the Company that it is unwilling or unable to continue as Depositary for such Global Security, (B) the Depositary ceases to be eligible under the Indenture and the Company does not appoint a successor Depositary within 90 days (C) there shall have occurred and be continuing an Event of Default with respect to such Global Security, (D) the Company so directs the Trustee by a Company Order or (E) there shall exist such circumstances, if any, in addition to or in lieu of the foregoing as have been specified for this purpose as contemplated by Section 301.”
+  	
+Solely with respect to the 2024 Notes, the final sentence of Section 1304(1) of the Indenture shall be amended and restated as follows:
+ 
+“As used herein, “U.S. Government Obligation” means (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a Person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.”
+ 
+3
+2.	2027 Notes
+ 
+Title:	  	2.000% Notes due 2027
+Issuer:	  	Apple Inc.
+Trustee, Registrar, Transfer Agent and Authenticating Agent	  	The Bank of New York Mellon Trust Company, N.A.
+Paying Agent	  	The Bank of New York Mellon, London Branch
+Aggregate Principal Amount at Maturity.	  	€1,000,000,000
+Principal Payment Date:	  	September 17, 2027
+Interest:	  	2.000% per annum
+Date from which Interest will Accrue:	  	September 17, 2015
+Interest Payment Date:	  	Annually on September 17, commencing on September 17, 2016
+Optional Redemption:	  	
+The Issuer may at its option redeem the 2027 Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2027 Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2027 Notes being redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued as of the date of redemption), discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined in the 2027 Notes), plus 20 basis points,
+ 
+ 
+4
+  	plus, in each case, accrued and unpaid interest thereon to the date of redemption.
+Redemption for tax purposes:	  	If, as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after September 10, 2015, the Issuer becomes, or based upon a written opinion of independent counsel selected by the Issuer, will become obligated to pay additional amounts as described under Section 8 of Exhibit B hereto with respect to the 2027 Notes, then the Issuer may at its option redeem, in whole, but not in part, the 2027 Notes on not less than 30 nor more than 60 days prior notice, at a redemption price equal to 100% of their principal amount, together with interest accrued but unpaid on the 2027 Notes to the date fixed for redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	€100,000 and any integral multiple of €1,000 in excess thereof.
+Miscellaneous:	  	
+The terms of the 2027 Notes shall include such other terms as are set forth in the form of 2027 Notes attached hereto as Exhibit B and in the Indenture. In addition, the global notes for the 2027 Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+ 
+“Depositary” means “EUROCLEAR/CLEARSTREAM” (as defined in the 2027 Note)
+ 
+ 
+5
+  	
+Solely with respect to the 2027 Notes, Section 305(2) of the Indenture shall be amended and restated as follows:
+ 
+“Notwithstanding any other provision in this Indenture, and subject to such applicable provisions, if any, as may be specified as contemplated by Section 301, no Global Security may be exchanged in whole or in part for Securities registered, and no transfer of a Global Security in whole or in part may be registered, in the name of any Person other than the Depositary for such Global Security or a nominee thereof unless (A) such Depositary has notified the Company that it is unwilling or unable to continue as Depositary for such Global Security, (B) the Depositary ceases to be eligible under the Indenture and the Company does not appoint a successor Depositary within 90 days (C) there shall have occurred and be continuing an Event of Default with respect to such Global Security, (D) the Company so directs the Trustee by a Company Order or (E) there shall exist such circumstances, if any, in addition to or in lieu of the foregoing as have been specified for this purpose as contemplated by Section 301.”
+  	
+Solely with respect to the 2027 Notes, the final sentence of Section 1304(1) of the Indenture shall be amended and restated as follows:
+ 
+“As used herein, “U.S. Government Obligation” means (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a Person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.”
+ 
+6
+Subject to the covenants described in the Indenture, as amended or supplemented from time to time, the Issuer shall be entitled, subject to authorization by the Board of Directors of the Issuer and an Officer’s Certificate, to issue additional notes from time to time under each series of notes issued hereby. Any such additional notes of a series shall have identical terms as the 2024 Notes and 2027 Notes, as the case may be, issued on the issue date, other than with respect to the date of issuance, the date interest begins to accrue, the first interest payment date, and the issue price (together, the “Additional Notes”); provided that the Additional Notes shall have a separate ISIN number unless the Additional Notes are fungible with the Outstanding Notes for U.S. federal income tax purposes. Any Additional Notes will be issued in accordance with Section 301 of the Indenture.
+The officer has read and understands the provisions of the Indenture and the definitions relating thereto. The statements made in this Officer’s Certificate are based upon the examination of the provisions of the Indenture and upon the relevant books and records of the Issuer. In such officer’s opinion, they have made such examination or investigation as is necessary to enable such officer to express an informed opinion as to whether or not the covenants and conditions of such Indenture relating to the issuance, authentication and delivery of the Notes have been complied with. In such officer’s opinion, such covenants and conditions have been complied with.
+ 
+7
+IN WITNESS WHEREOF, the undersigned officer of the Issuer has duly executed this certificate as of September 17, 2015.
+ 
+APPLE INC.
+By:	 	/s/ Gary Wipfler
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+[Signature Page to Officer’s Certificate Pursuant to the Indenture]
+EXHIBIT A
+FORM OF NOTE DUE 2024
+THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN. UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR BANK, SA/NV, AS OPERATOR OF THE EUROCLEAR SYSTEM (“EUROCLEAR”) AND CLEARSTREAM BANKING, SOCIÉTÉ ANONYME, LUXEMBOURG (“CLEARSTREAM, LUXEMBOURG” AND, TOGETHER WITH EUROCLEAR, “EUROCLEAR/CLEARSTREAM”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM (AND ANY PAYMENT IS MADE TO THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED, HAS AN INTEREST HEREIN.
+APPLE INC.
+1.375% Note due 2024
+ 
+No. 1	  	COMMON CODE No.: 129238496
+  	ISIN No.: XS1292384960
+  	€1,000,000,000
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to The Bank of New York Depository (Nominees) Limited or registered assigns the principal sum of 1,000,000,000 EUROS on January 17, 2024.
+Interest Payment Date: Annually on January 17, beginning on January 17, 2016, and on the principal payment date (each, an “Interest Payment Date”).
+Interest Record Date: Each January 3 preceding the relevant Interest Payment Date (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name:
+ 	Title:
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: September 17, 2015
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+1.375% Note due 2024
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from the most recent date to which interest has been paid; or, if no interest has been paid, from September 17, 2015. Interest on this Note will be paid to but excluding the relevant Interest Payment Date. The Issuer will pay interest annually in arrears on each Interest Payment Date, commencing January 17, 2016. Interest will be computed on the basis of the actual number of days in the period for which interest is being calculated and the actual number of days from and including the last date on which interest was paid on the Notes (or September 17, 2015 if no interest has been paid on the Notes), to but excluding the next scheduled Interest Payment Date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Market Association.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Registrar.
+Initially, The Bank of New York Mellon, London Branch, (the “Paying Agent”) will act as paying agent. The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will initially act as security registrar for the Notes. The Issuer may change any paying agent or security registrar upon notice to the Trustee.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 1.375% Notes due 2024 (the “Notes”) issued under an indenture dated as of April 29, 2013 (the “Base Indenture”) by and between the Issuer and the Trustee, as trustee, as supplemented by an Officer’s Certificate dated September 17, 2015, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+“Business Day” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Payment on the Notes
+All payments of principal of, the redemption price (if any), and interest and additional amounts (as provided in Section 8 hereof, if any), on the Notes, will be payable in euro, provided, that if on or after September 10, 2015, the euro is unavailable to the Issuer due to the imposition of exchange controls or other circumstances beyond the Issuer’s control or if the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the Notes will be made in U.S. dollars until the euro is again available to the Issuer or so used. The amount payable on any date in euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the Notes so made in U.S. dollars will not constitute an Event of Default under the Notes or the Indenture. Neither the Trustee nor the Paying Agent shall have any responsibility for any calculation or conversion in connection with the foregoing.
+ 
+ 	5.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of €100,000 and any integral multiple of €1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	6.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of a Note.
+ 	7.	Optional Redemption.
+The Issuer may at its option redeem any of the Notes in whole or in part at any time, each at a redemption price calculated by the Issuer equal to the greater of:
+(A) 100% of the principal amount of the Notes to be redeemed; and
+(B) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (exclusive of interest accrued to the date of redemption) discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below), plus 15 basis points,
+plus, in each case, accrued and unpaid interest thereon to the date of redemption.
+Notwithstanding the foregoing, installments of interest on Notes that are due and payable on Interest Payment Dates falling on or prior to a redemption date will be payable on the Interest Payment Date to the registered Holders as of the close of business on the Interest Record Date according to the Notes and the Indenture.
+“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an independent investment bank selected by the Issuer, a German government bond whose maturity is closest to the maturity of the Notes being redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by the Issuer, determine to be appropriate for determining the Comparable Government Bond Rate.
+“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the Notes, if they were to be purchased at such price on the third Business Day prior to the date fixed for redemption, would be equal to the gross redemption yield on such Business Day of the Comparable Government Bond on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such Business Day as determined by an independent investment bank selected by the Issuer.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Unless the Issuer defaults in the payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed shall be selected by the applicable depository procedures, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note; provided, however, that no Notes of a principal amount of €100,000 or less shall be redeemed in part.
+ 	8.	Payment of Additional Amounts
+All payments of principal and interest in respect of the Notes will be made free and clear of, and without deduction or withholding for or on account of any present or future taxes, duties, assessments or other governmental charges of whatsoever nature required to be deducted or withheld by the United States or any political subdivision or taxing authority of or in the United States, unless such withholding or deduction is required by law.
+In the event any withholding or deduction on payments in respect of the Notes for or on account of any present or future tax, assessment or other governmental charge is required to be deducted or withheld by the United States or any taxing authority thereof or therein, the Issuer will pay such additional amounts on the Notes as will result in receipt by each beneficial owner of a Note that is not a U.S. Person (as defined below) of such amounts (after all such withholding or deduction, including on any additional amounts) as would have been received by such beneficial owner had no such withholding or deduction been required. The Issuer will not be required, however, to make any payment of additional amounts for or on account of:
+ 
+ 	A.	any tax, assessment or other governmental charge that would not have been imposed but for (1) the existence of any present or former connection (other than a connection arising solely from the ownership of those Notes or the receipt of payments in respect of those Notes) between that Holder (or the beneficial owner for whose benefit such Holder holds such Note), or between a fiduciary, settlor, beneficiary of, member or shareholder of, or possessor of a power over, that Holder or beneficial owner (if that Holder or beneficial owner is an estate, trust, partnership or corporation) and the United States, including that Holder or beneficial owner, or that fiduciary, settlor, beneficiary, member, shareholder or possessor, being or having been a citizen or resident or treated as a resident of the United States or being or having been engaged in trade or business or present in the United States or having had a permanent establishment in the United States or (2) the presentation of a Note for payment on a date more than 30 days after the later of the date on which that payment becomes due and payable and the date on which payment is duly provided for;
+ 
+ 	B.	any estate, inheritance, gift, sales, transfer, capital gains, excise, personal property, wealth or similar tax, assessment or other governmental charge;
+ 
+ 	C.	any tax, assessment or other governmental charge imposed on foreign personal holding company income or by reason of the beneficial owner’s past or present status as a passive foreign investment company, a controlled foreign corporation, a foreign tax exempt organization or a personal holding company with respect to the United States or as a corporation that accumulates earnings to avoid U.S. federal income tax;
+ 
+ 	D.	any tax, assessment or other governmental charge which is payable otherwise than by withholding or deducting from payment of principal of or premium, if any, or interest on such Notes;
+ 	E.	any tax, assessment or other governmental charge required to be withheld by any paying agent from any payment of principal of and premium, if any, or interest on any Note if that payment can be made without withholding by any other paying agent;
+ 
+ 	F.	any tax, assessment or other governmental charge which would not have been imposed but for the failure of a beneficial owner or any Holder of Notes to comply with the Issuer’s request or a request of the Issuer’s agent to satisfy certification, information, documentation or other reporting requirements concerning the nationality, residence, identity or connections with the United States of the beneficial owner or any Holder of the Notes that such beneficial owner or Holder is legally able to deliver (including, but not limited to, the requirement to provide Internal Revenue Service Forms W-8BEN, W-8BEN-E, Forms W-8ECI, or any subsequent versions thereof or successor thereto, and including, without limitation, any documentation requirement under an applicable income tax treaty);
+ 
+ 	G.	any tax, assessment or other governmental charge imposed on interest received by (1) a 10% shareholder (as defined in Section 871(h)(3)(B) of the U.S. Internal Revenue Code of 1986, as amended (the “Code”), and the regulations that may be promulgated thereunder) of the Issuer or (2) a controlled foreign corporation that is related to the Issuer within the meaning of Section 864(d)(4) of the Code, or (3) a bank receiving interest described in Section 881(c)(3)(A) of the Code, to the extent such tax, assessment or other governmental charge would not have been imposed but for the beneficial owner’s status as described in clauses (1) through (3) of this paragraph (G);
+ 
+ 	H.	to any withholding or deduction that is required to be made pursuant to any law implementing or complying with, or introduced in order to conform to, any European Union Directive on the taxation of savings;
+ 
+ 	I.	any tax, assessment or other governmental charge required to be withheld or deducted under Sections 1471 through 1474 of the Code (or any amended or successor version of such Sections) (“FATCA”), any regulations or other guidance thereunder, or any agreement (including any intergovernmental agreement) entered into in connection therewith; or any law, regulation or other official guidance enacted in any jurisdiction implementing FATCA or an intergovernmental agreement in respect of FATCA; or
+ 
+ 	J.	any combination of items (A), (B), (C), (D), (E), (F), (G), (H) and (I);
+nor will the Issuer pay any additional amounts to any beneficial owner or Holder of Notes who is a fiduciary or partnership to the extent that a beneficiary or settlor with respect to that fiduciary or a member of that partnership or a beneficial owner thereof would not have been entitled to the payment of those additional amounts had that beneficiary, settlor, member or beneficial owner been the beneficial owner of those Notes.
+As used in this Section 8, “U.S. Person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable U.S. Treasury regulations), or any estate or trust the income of which is subject to United States federal income taxation regardless of its source.
+ 	9.	Redemption for Tax Reasons
+If, as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after September 10, 2015, the Issuer becomes, or based upon a written opinion of independent counsel selected by the Issuer, will become obligated to pay additional amounts as described under Section 8 hereof with respect to the Notes, then the Issuer may at its option redeem, in whole, but not in part, the Notes on not less than 30 nor more than 60 days prior notice, at a redemption price equal to 100% of their principal amount, together with interest accrued but unpaid on the Notes to the date fixed for redemption.
+ 
+ 	10.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	11.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	12.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	13.	Common Code/ISIN Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused Common Code/ISIN numbers to be printed on the Notes as a convenience to the Holders of the Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	14.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the laws of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	Principal amount of this
+Global Note following such
+decrease (or increase)	 	Signature of authorized
+officer of Trustee
+EXHIBIT B
+FORM OF NOTE DUE 2027
+THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN. UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR BANK, SA/NV, AS OPERATOR OF THE EUROCLEAR SYSTEM (“EUROCLEAR”) AND CLEARSTREAM BANKING, SOCIÉTÉ ANONYME, LUXEMBOURG (“CLEARSTREAM, LUXEMBOURG” AND, TOGETHER WITH EUROCLEAR, “EUROCLEAR/CLEARSTREAM”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM (AND ANY PAYMENT IS MADE TO THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED, HAS AN INTEREST HEREIN.
+APPLE INC.
+2.000% Note due 2027
+ 
+No. 1	  	COMMON CODE No.: 129238941
+  	ISIN No.: XS1292389415
+  	€1,000,000,000
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to The Bank of New York Depository (Nominees) Limited or registered assigns the principal sum of 1,000,000,000 EUROS on September 17, 2027.
+Interest Payment Date: Annually on September 17, beginning on September 17, 2016 and on the principal payment date (each, an “Interest Payment Date”).
+Interest Record Date: Each September 3 preceding the relevant Interest Payment Date (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name:
+ 	Title:
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: September 17, 2015
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+2.000% Note due 2027
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from the most recent date to which interest has been paid; or, if no interest has been paid, from September 17, 2015. Interest on this Note will be paid to but excluding the relevant Interest Payment Date. The Issuer will pay interest annually in arrears on each Interest Payment Date, commencing September 17, 2016. Interest will be computed on the basis of the actual number of days in the period for which interest is being calculated and the actual number of days from and including the last date on which interest was paid on the Notes (or September 17, 2015 if no interest has been paid on the Notes), to but excluding the next scheduled Interest Payment Date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Market Association.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Registrar.
+Initially, The Bank of New York Mellon, London Branch, (the “Paying Agent”) will act as paying agent. The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will initially act as security registrar for the Notes. The Issuer may change any paying agent or security registrar upon notice to the Trustee.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 2.000% Notes due 2027 (the “Notes”) issued under an indenture dated as of April 29, 2013 (the “Base Indenture”) by and between the Issuer and the Trustee, as trustee, as supplemented by an Officer’s Certificate dated September 17, 2015, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+“Business Day” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Payment on the Notes
+All payments of principal of, the redemption price (if any), and interest and additional amounts (as provided in Section 8 hereof, if any), on the Notes, will be payable in euro, provided, that if on or after September 10, 2015, the euro is unavailable to the Issuer due to the imposition of exchange controls or other circumstances beyond the Issuer’s control or if the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the Notes will be made in U.S. dollars until the euro is again available to the Issuer or so used. The amount payable on any date in euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the Notes so made in U.S. dollars will not constitute an Event of Default under the Notes or the Indenture. Neither the Trustee nor the Paying Agent shall have any responsibility for any calculation or conversion in connection with the foregoing.
+ 
+ 	5.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of €100,000 and any integral multiple of €1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	6.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of a Note.
+ 	7.	Optional Redemption.
+The Issuer may at its option redeem any of the Notes in whole or in part at any time, each at a redemption price calculated by the Issuer equal to the greater of:
+(A) 100% of the principal amount of the Notes to be redeemed; and
+(B) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (exclusive of interest accrued to the date of redemption) discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below), plus 20 basis points,
+plus, in each case, accrued and unpaid interest thereon to the date of redemption.
+Notwithstanding the foregoing, installments of interest on Notes that are due and payable on Interest Payment Dates falling on or prior to a redemption date will be payable on the Interest Payment Date to the registered Holders as of the close of business on the Interest Record Date according to the Notes and the Indenture.
+“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an independent investment bank selected by the Issuer, a German government bond whose maturity is closest to the maturity of the Notes being redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by the Issuer, determine to be appropriate for determining the Comparable Government Bond Rate.
+“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the Notes, if they were to be purchased at such price on the third Business Day prior to the date fixed for redemption, would be equal to the gross redemption yield on such Business Day of the Comparable Government Bond on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such Business Day as determined by an independent investment bank selected by the Issuer.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Unless the Issuer defaults in the payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed shall be selected by the applicable depository procedures, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note; provided, however, that no Notes of a principal amount of €100,000 or less shall be redeemed in part.
+ 	8.	Payment of Additional Amounts
+All payments of principal and interest in respect of the Notes will be made free and clear of, and without deduction or withholding for or on account of any present or future taxes, duties, assessments or other governmental charges of whatsoever nature required to be deducted or withheld by the United States or any political subdivision or taxing authority of or in the United States, unless such withholding or deduction is required by law.
+In the event any withholding or deduction on payments in respect of the Notes for or on account of any present or future tax, assessment or other governmental charge is required to be deducted or withheld by the United States or any taxing authority thereof or therein, the Issuer will pay such additional amounts on the Notes as will result in receipt by each beneficial owner of a Note that is not a U.S. Person (as defined below) of such amounts (after all such withholding or deduction, including on any additional amounts) as would have been received by such beneficial owner had no such withholding or deduction been required. The Issuer will not be required, however, to make any payment of additional amounts for or on account of:
+ 
+ 	A.	any tax, assessment or other governmental charge that would not have been imposed but for (1) the existence of any present or former connection (other than a connection arising solely from the ownership of those Notes or the receipt of payments in respect of those Notes) between that Holder (or the beneficial owner for whose benefit such Holder holds such Note), or between a fiduciary, settlor, beneficiary of, member or shareholder of, or possessor of a power over, that Holder or beneficial owner (if that Holder or beneficial owner is an estate, trust, partnership or corporation) and the United States, including that Holder or beneficial owner, or that fiduciary, settlor, beneficiary, member, shareholder or possessor, being or having been a citizen or resident or treated as a resident of the United States or being or having been engaged in trade or business or present in the United States or having had a permanent establishment in the United States or (2) the presentation of a Note for payment on a date more than 30 days after the later of the date on which that payment becomes due and payable and the date on which payment is duly provided for;
+ 
+ 	B.	any estate, inheritance, gift, sales, transfer, capital gains, excise, personal property, wealth or similar tax, assessment or other governmental charge;
+ 
+ 	C.	any tax, assessment or other governmental charge imposed on foreign personal holding company income or by reason of the beneficial owner’s past or present status as a passive foreign investment company, a controlled foreign corporation, a foreign tax exempt organization or a personal holding company with respect to the United States or as a corporation that accumulates earnings to avoid U.S. federal income tax;
+ 
+ 	D.	any tax, assessment or other governmental charge which is payable otherwise than by withholding or deducting from payment of principal of or premium, if any, or interest on such Notes;
+ 
+ 	E.	any tax, assessment or other governmental charge required to be withheld by any paying agent from any payment of principal of and premium, if any, or interest on any Note if that payment can be made without withholding by any other paying agent;
+ 	F.	any tax, assessment or other governmental charge which would not have been imposed but for the failure of a beneficial owner or any Holder of Notes to comply with the Issuer’s request or a request of the Issuer’s agent to satisfy certification, information, documentation or other reporting requirements concerning the nationality, residence, identity or connections with the United States of the beneficial owner or any Holder of the Notes that such beneficial owner or Holder is legally able to deliver (including, but not limited to, the requirement to provide Internal Revenue Service Forms W-8BEN, W-8BEN-E, Forms W-8ECI, or any subsequent versions thereof or successor thereto, and including, without limitation, any documentation requirement under an applicable income tax treaty);
+ 
+ 	G.	any tax, assessment or other governmental charge imposed on interest received by (1) a 10% shareholder (as defined in Section 871(h)(3)(B) of the U.S. Internal Revenue Code of 1986, as amended (the “Code”), and the regulations that may be promulgated thereunder) of the Issuer or (2) a controlled foreign corporation that is related to the Issuer within the meaning of Section 864(d)(4) of the Code, or (3) a bank receiving interest described in Section 881(c)(3)(A) of the Code, to the extent such tax, assessment or other governmental charge would not have been imposed but for the beneficial owner’s status as described in clauses (1) through (3) of this paragraph (G);
+ 
+ 	H.	to any withholding or deduction that is required to be made pursuant to any law implementing or complying with, or introduced in order to conform to, any European Union Directive on the taxation of savings;
+ 
+ 	I.	any tax, assessment or other governmental charge required to be withheld or deducted under Sections 1471 through 1474 of the Code (or any amended or successor version of such Sections) (“FATCA”), any regulations or other guidance thereunder, or any agreement (including any intergovernmental agreement) entered into in connection therewith; or any law, regulation or other official guidance enacted in any jurisdiction implementing FATCA or an intergovernmental agreement in respect of FATCA; or
+ 
+ 	J.	any combination of items (A), (B), (C), (D), (E), (F), (G), (H) and (I);
+nor will the Issuer pay any additional amounts to any beneficial owner or Holder of Notes who is a fiduciary or partnership to the extent that a beneficiary or settlor with respect to that fiduciary or a member of that partnership or a beneficial owner thereof would not have been entitled to the payment of those additional amounts had that beneficiary, settlor, member or beneficial owner been the beneficial owner of those Notes.
+As used in this Section 8, “U.S. Person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable U.S. Treasury regulations), or any estate or trust the income of which is subject to United States federal income taxation regardless of its source.
+ 	9.	Redemption for Tax Reasons
+If, as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after September 10, 2015, the Issuer becomes, or based upon a written opinion of independent counsel selected by the Issuer, will become obligated to pay additional amounts as described under Section 8 hereof with respect to the Notes, then the Issuer may at its option redeem, in whole, but not in part, the Notes on not less than 30 nor more than 60 days prior notice, at a redemption price equal to 100% of their principal amount, together with interest accrued but unpaid on the Notes to the date fixed for redemption.
+ 
+ 	10.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	11.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	12.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	13.	Common Code/ISIN Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused Common Code/ISIN numbers to be printed on the Notes as a convenience to the Holders of the Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	14.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the laws of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	Principal amount of this
+Global Note following such
+decrease (or increase)	 	Signature of authorized
+officer of Trustee

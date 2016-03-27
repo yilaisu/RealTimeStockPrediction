@@ -1,0 +1,1276 @@
+EX-4.1 3 d143184dex41.htm EX-4.1
+Exhibit 4.1
+APPLE INC.
+Officer’s Certificate
+Pursuant to Sections 102 and 301 of the Indenture, dated as of April 29, 2013 (the “Indenture”), by and between Apple Inc., a corporation duly organized and existing under the laws of the State of California (the “Issuer”), and The Bank of New York Mellon Trust Company, N.A., a national banking association duly organized and existing under the laws of the United States, as trustee (the “Trustee”), the undersigned officer does hereby certify, in connection with the issuance of (i) $500,000,000 aggregate principal amount of Floating Rate Notes due 2019 (the “2019 Floating Rate Notes”), (ii) $500,000,000 aggregate principal amount of Floating Rate Notes due 2021 (the “2021 Floating Rate Notes”), (iii) $500,000,000 aggregate principal amount of 1.300% Notes due 2018 (the “2018 Fixed Rate Notes”), (iv) $1,000,000,000 aggregate principal amount of 1.700% Notes due 2019 (the “2019 Fixed Rate Notes”), (v) $2,250,000,000 aggregate principal amount of 2.250% Notes due 2021 (the “2021 Fixed Rate Notes”), (vi) $1,500,000,000 aggregate principal amount of 2.850% Notes due 2023 (the “2023 Fixed Rate Notes”), (vii) $2,000,000,000 aggregate principal amount of 3.250% Notes due 2026 (the “2026 Fixed Rate Notes”), (viii) $1,250,000,000 aggregate principal amount of 4.500% Notes due 2036 (the “2036 Fixed Rate Notes”) and (ix) $2,500,000,000 aggregate principal amount of 4.650% Notes due 2046 (the “2046 Fixed Rate Notes” and, together with the 2019 Floating Rate Notes, the 2021 Floating Rate Notes, the 2018 Fixed Rate Notes, the 2019 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes and the 2036 Fixed Rate Notes, the “Notes”), that the terms of the Notes are as follows:
+Capitalized terms used but not otherwise defined herein shall have the meanings specified in the Indenture.
+ 
+1.	2019 Floating Rate Notes
+ 
+Title:	  	Floating Rate Notes due 2019
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$500,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 22, 2019
+Interest:	  	Floating rate equal to three-month LIBOR plus 0.82% per annum, reset quarterly
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2019 Floating Rate Notes will be paid quarterly in arrears on February 23, May 23, August 23 and November 23, beginning on May 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day, unless such next succeeding Business Day would be in the following calendar month, in which case the Interest Payment Date shall be the immediately preceding Business Day.
+Conversion:	  	None
+Sinking Fund:	  	None
+Redemption:	  	The 2019 Floating Rate Notes shall not be redeemable prior to their maturity.
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2019 Floating Rate Notes shall include such other terms as are set forth in the form of 2019 Floating Rate Notes attached hereto as Exhibit A and in the Indenture. In addition, the global notes for the 2019 Floating Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BR0 / US037833BR03
+ 
+2.	2021 Floating Rate Notes
+ 
+Title:	  	Floating Rate Notes due 2021
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$500,000,000
+Original Issue Date:	  	February 23, 2016
+ 
+2
+Maturity Date:	  	February 23, 2021
+Interest:	  	Floating rate equal to three-month LIBOR plus 1.13% per annum, reset quarterly
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2021 Floating Rate Notes will be paid quarterly in arrears on February 23, May 23, August 23 and November 23, beginning on May 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day, unless such next succeeding Business Day would be in the following calendar month, in which case the Interest Payment Date shall be the immediately preceding Business Day.
+Conversion:	  	None
+Sinking Fund:	  	None
+Redemption:	  	The 2021 Floating Rate Notes shall not be redeemable prior to their maturity.
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2021 Floating Rate Notes shall include such other terms as are set forth in the form of 2021 Floating Rate Notes attached hereto as Exhibit B and in the Indenture. In addition, the global notes for the 2021 Floating Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BT6 / US037833BT68
+ 
+3.	2018 Fixed Rate Notes
+ 
+Title:	  	1.300% Notes due 2018
+ 
+3
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$500,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2018
+Interest:	  	1.300% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2018 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+Redemption:	  	
+The Issuer may, at its option, redeem the 2018 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2018 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2018 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2018 Fixed Rate Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2018 Fixed Rate Notes) plus 10 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+4
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2018 Fixed Rate Notes shall include such other terms as are set forth in the form of 2018 Fixed Rate Notes attached hereto as Exhibit C and in the Indenture. In addition, the global notes for the 2018 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BN9 / US037833BN98
+ 
+4.	2019 Fixed Rate Notes
+ 
+Title:	  	1.700% Notes due 2019
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$1,000,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 22, 2019
+Interest:	  	1.700% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2019 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+ 
+5
+Redemption:	  	
+The Issuer may, at its option, redeem the 2019 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2019 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2019 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2019 Fixed Rate Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2019 Fixed Rate Notes) plus 12.5 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2019 Fixed Rate Notes shall include such other terms as are set forth in the form of 2019 Fixed Rate Notes attached hereto as Exhibit D and in the Indenture. In addition, the global notes for the 2019 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BQ2 / US037833BQ20
+ 
+6
+5.	2021 Fixed Rate Notes
+ 
+Title:	  	2.250% Notes due 2021
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$2,250,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2021
+Interest:	  	2.250% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2021 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+Redemption:	  	
+Prior to January 23, 2021, the Issuer may, at its option, redeem the 2021 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2021 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2021 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2021 Fixed Rate Notes to be redeemed (assuming the 2021 Fixed Rate Notes matured on January 23, 2021), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2021 Fixed Rate Notes) plus 15 basis points,
+ 
+7
+  	
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after January 23, 2021, the Issuer may redeem the 2021 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2021 Fixed Rate Notes, at a redemption price equal to 100% of the principal amount of the 2021 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2021 Fixed Rate Notes shall include such other terms as are set forth in the form of 2021 Fixed Rate Notes attached hereto as Exhibit E and in the Indenture. In addition, the global notes for the 2021 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BS8 / US037833BS85
+ 
+6.	2023 Fixed Rate Notes
+ 
+Title:	  	2.850% Notes due 2023
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$1,500,000,000
+ 
+8
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2023
+Interest:	  	2.850% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2023 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+Redemption:	  	
+Prior to December 23, 2022, the Issuer may, at its option, redeem the 2023 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2023 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2023 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2023 Fixed Rate Notes to be redeemed (assuming the 2023 Fixed Rate Notes matured on December 23, 2022), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2023 Fixed Rate Notes) plus 20 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after December 23, 2022, the Issuer may redeem the 2023 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2023 Fixed Rate Notes, at a redemption price equal to 100% of the principal amount of the 2023 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+9
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2023 Fixed Rate Notes shall include such other terms as are set forth in the form of 2023 Fixed Rate Notes attached hereto as Exhibit F and in the Indenture. In addition, the global notes for the 2023 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BU3 / US037833BU32
+ 
+7.	2026 Fixed Rate Notes
+ 
+Title:	  	3.250% Notes due 2026
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$2,000,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2026
+Interest:	  	3.250% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+ 
+10
+Interest Payment Dates:	  	Interest on the 2026 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+Redemption:	  	
+Prior to November 23, 2025, the Issuer may, at its option, redeem the 2026 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2026 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2026 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2026 Fixed Rate Notes to be redeemed (assuming the 2026 Fixed Rate Notes matured on November 23, 2025), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2026 Fixed Rate Notes) plus 25 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after November 23, 2025, the Issuer may redeem the 2026 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2026 Fixed Rate Notes, at a redemption price equal to 100% of the principal amount of the 2026 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Conversion:	  	None
+ 
+11
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2026 Fixed Rate Notes shall include such other terms as are set forth in the form of 2026 Fixed Rate Notes attached hereto as Exhibit G and in the Indenture. In addition, the global notes for the 2026 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BY5 / US037833BY53
+ 
+8.	2036 Fixed Rate Notes
+ 
+Title:	  	4.500% Notes due 2036
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$1,250,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2036
+Interest:	  	4.500% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2036 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+ 
+12
+Redemption:	  	
+Prior to August 23, 2035, the Issuer may, at its option, redeem the 2036 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2036 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2036 Fixed Rate Notes to be redeemed; or
+ 
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2036 Fixed Rate Notes to be redeemed (assuming the 2036 Fixed Rate Notes matured on August 23, 2035), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2036 Fixed Rate Notes) plus 30 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after August 23, 2035, the Issuer may redeem the 2036 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2036 Fixed Rate Notes, at a redemption price equal to 100% of the principal amount of the 2036 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2036 Fixed Rate Notes shall include such other terms as are set forth in the form of 2036 Fixed Rate Notes attached hereto as Exhibit H and in the Indenture. In addition, the global notes for the 2036 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+ 
+13
+CUSIP/ISIN:	  	037833 BW9 / US037833BW97
+ 
+9.	2046 Fixed Rate Notes
+ 
+Title:	  	4.650% Notes due 2046
+Issuer:	  	Apple Inc.
+Trustee, Security Registrar and Paying Agent:	  	The Bank of New York Mellon Trust Company, N.A.
+Aggregate Principal Amount.	  	$2,500,000,000
+Original Issue Date:	  	February 23, 2016
+Maturity Date:	  	February 23, 2046
+Interest:	  	4.650% per annum
+Date from which Interest will Accrue:	  	From the most recent date to which interest has been paid; or, if no interest has been paid, from February 23, 2016
+Interest Payment Dates:	  	Interest on the 2046 Fixed Rate Notes will be paid semi-annually in arrears on February 23 and August 23, beginning on August 23, 2016, and on the maturity date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day.
+Redemption:	  	
+Prior to August 23, 2045, the Issuer may, at its option, redeem the 2046 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2046 Fixed Rate Notes, at a redemption price, calculated by the Issuer, equal to the greater of:
+ 
+(i) 100% of the principal amount of the 2046 Fixed Rate Notes to be redeemed; or
+ 
+14
+  	
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the 2046 Fixed Rate Notes to be redeemed (assuming the 2046 Fixed Rate Notes matured on August 23, 2045), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in the 2046 Fixed Rate Notes) plus 30 basis points,
+ 
+plus, in each case, accrued and unpaid interest thereon to, but excluding, the date of redemption.
+ 
+On or after August 23, 2045, the Issuer may redeem the 2046 Fixed Rate Notes in whole or in part, at any time or from time to time prior to their maturity, on at least 30 days, but not more than 60 days, prior notice mailed or electronically delivered to the registered address of each holder of record of the 2046 Fixed Rate Notes, at a redemption price equal to 100% of the principal amount of the 2046 Fixed Rate Notes to be redeemed, plus accrued and unpaid interest thereon to, but excluding, the date of redemption.
+Conversion:	  	None
+Sinking Fund:	  	None
+Denominations:	  	$2,000 and any integral multiple of $1,000 in excess thereof.
+Miscellaneous:	  	The terms of the 2046 Fixed Rate Notes shall include such other terms as are set forth in the form of 2046 Fixed Rate Notes attached hereto as Exhibit I and in the Indenture. In addition, the global notes for the 2046 Fixed Rate Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
+CUSIP/ISIN:	  	037833 BX7 / US037833BX70
+ 
+15
+Subject to the covenants described in the Indenture, as amended or supplemented from time to time, the Issuer shall be entitled, subject to authorization by the Board of Directors of the Issuer and an Officer’s Certificate, to issue additional notes from time to time under each series of notes issued hereby. Any such additional notes of a series shall have identical terms as the 2019 Floating Rate Notes, the 2021 Floating Rate Notes, the 2018 Fixed Rate Notes, the 2019 Fixed Rate Notes, the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, as the case may be, issued on the issue date, other than with respect to the date of issuance and the issue price, the date interest begins to accrue and, in certain circumstances, the first interest payment date (together the “Additional Notes”). Any Additional Notes will be issued in accordance with Section 301 of the Indenture.
+The Officer has read and understands the provisions of the Indenture and the definitions relating thereto. The statements made in this Officer’s Certificate are based upon the examination of the provisions of the Indenture and upon the relevant books and records of the Issuer. In such Officer’s opinion, they have made such examination or investigation as is necessary to enable such Officer to express an informed opinion as to whether or not the covenants and conditions precedent of such Indenture relating to the issuance, authentication and delivery of the Notes have been complied with. In such Officer’s opinion, such covenants and conditions precedent have been complied with.
+[Signature Page Follows]
+ 
+16
+IN WITNESS WHEREOF, the undersigned officer of the Issuer has duly executed this certificate as of February 23, 2016.
+ 
+APPLE INC.
+By:	 	/s/ Gary Wipfler
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+[Signature Page to Officer’s Certificate Pursuant to the Indenture]
+EXHIBIT A
+FORM OF FLOATING RATE NOTE DUE 2019
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+Floating Rate Note due 2019
+ 
+No.	  	CUSIP No.: 037833 BR0
+  	ISIN No.: US037833BR03
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 22, 2019.
+Interest Payment Dates: February 23, May 23, August 23 and November 23, beginning on May 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: the Business Day preceding the Interest Payment Date (the “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+Floating Rate Note due 2019
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described below. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest quarterly in arrears on each Interest Payment Date, commencing May 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day the Interest Payment Date shall be postponed to the next succeeding Business Day, unless such next succeeding Business Day would be in the following calendar month, in which case the Interest Payment Date shall be the immediately preceding Business Day. Interest will be computed on the basis of a 360-day year and the actual number of days that have elapsed in the applicable interest period.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+The interest rate for each interest period will be determined by the Trustee (as defined below) or its successor. The interest rate for a particular interest period will be a per annum rate equal to three-month LIBOR as determined on the interest determination date plus 0.82%. The interest determination date for an interest period will be the second London business day preceding the first day of such interest period (or, for the interest period ending on May 23, 2016, the second London business day preceding February 23, 2016).
+A London business day is a day on which dealings in deposits in U.S. dollars are transacted in the London interbank market.
+On any interest determination date, LIBOR will be equal to the offered rate for deposits in U.S. dollars having an index maturity of three months, as such rate appears on the Reuters Page LIBOR 01 (or on such other page as may replace Reuters Page LIBOR 01 on that service, or such other service or services as may be nominated for the purpose of displaying London interbank offered rates for U.S. dollar deposits by ICE Benchmark Administration Limited (“IBA”) or its successor or such other entity assuming the responsibility of IBA or its successor in calculating LIBOR in the event IBA or its successor no longer does so) as of approximately 11:00 a.m., London time, on such interest determination date.
+If three-month LIBOR does not appear on either of the pages described above, the three-month LIBOR, in respect of such interest determination date, will be determined as follows: the Trustee will request the principal London offices of each of four major reference banks in the London interbank market, as selected by the Issuer (after consultation with the Trustee), to provide the Trustee with its offered quotation for deposits in U.S. dollars for the period of three months commencing on the applicable interest reset date to prime banks in the London interbank market at approximately 11:00 a.m., London time, on that interest determination date and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time. If at least two quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of such quotations. If fewer than two such quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of the rates quoted at approximately 11:00 a.m., New York City time, on such interest determination date by three major reference banks in New York City selected by the Issuer (after consultation with the Trustee) for loans in U.S. dollars to leading European banks, having an index maturity of three months and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time; provided, however, that if the banks selected by the Issuer (after consultation with the Trustee) are not providing quotations in the manner described by this sentence, the three-month LIBOR determined as of such interest determination date will be the three-month LIBOR in effect prior to such interest determination date.
+All percentages resulting from any calculation of any interest rate for this Note will be rounded, if necessary, to the nearest one hundred thousandth of a percentage point, with five one-millionths of a percentage point rounded upward (e.g., 3.876545% (or .03876545) would be rounded to 3.87655% (or .0387655)), and all U.S. dollar amounts will be rounded to the nearest cent, with one-half cent being rounded upward. Each calculation of the interest rate on this Note by the Trustee will (in the absence of manifest error) be final and binding on the Holders of this Note and the Issuer.
+Upon written request from any Holder of the Notes, the Trustee will provide the interest rate in effect on such Note for the current interest period and, if it has been determined, the interest rate to be in effect for the next interest period.
+The interest rate on this Note will in no event be higher than the maximum rate permitted by New York law as the same may be modified by United States law of general application.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the Floating Rate Notes due 2019 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 	7.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	8.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 
+ 	9.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	10.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT B
+FORM OF FLOATING RATE NOTE DUE 2021
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+Floating Rate Note due 2021
+ 
+No.	  	CUSIP No.: 037833 BT6
+  	ISIN No.: US037833BT68
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2021.
+Interest Payment Dates: February 23, May 23, August 23 and November 23, beginning on May 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: the Business Day preceding the Interest Payment Date (the “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+Floating Rate Note due 2021
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described below. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest quarterly in arrears on each Interest Payment Date, commencing May 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day the Interest Payment Date shall be postponed to the next succeeding Business Day, unless such next succeeding Business Day would be in the following calendar month, in which case the Interest Payment Date shall be the immediately preceding Business Day. Interest will be computed on the basis of a 360-day year and the actual number of days that have elapsed in the applicable interest period.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+The interest rate for each interest period will be determined by the Trustee (as defined below) or its successor. The interest rate for a particular interest period will be a per annum rate equal to three-month LIBOR as determined on the interest determination date plus 1.13%. The interest determination date for an interest period will be the second London business day preceding the first day of such interest period (or, for the interest period ending on May 23, 2016, the second London business day preceding February 23, 2016).
+A London business day is a day on which dealings in deposits in U.S. dollars are transacted in the London interbank market.
+On any interest determination date, LIBOR will be equal to the offered rate for deposits in U.S. dollars having an index maturity of three months, as such rate appears on the Reuters Page LIBOR 01 (or on such other page as may replace Reuters Page LIBOR 01 on that service, or such other service or services as may be nominated for the purpose of displaying London interbank offered rates for U.S. dollar deposits by ICE Benchmark Administration Limited (“IBA”) or its successor or such other entity assuming the responsibility of IBA or its successor in calculating LIBOR in the event IBA or its successor no longer does so) as of approximately 11:00 a.m., London time, on such interest determination date.
+If three-month LIBOR does not appear on either of the pages described above, the three-month LIBOR, in respect of such interest determination date, will be determined as follows: the Trustee will request the principal London offices of each of four major reference banks in the London interbank market, as selected by the Issuer (after consultation with the Trustee), to provide the Trustee with its offered quotation for deposits in U.S. dollars for the period of three months commencing on the applicable interest reset date to prime banks in the London interbank market at approximately 11:00 a.m., London time, on that interest determination date and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time. If at least two quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of such quotations. If fewer than two such quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of the rates quoted at approximately 11:00 a.m., New York City time, on such interest determination date by three major reference banks in New York City selected by the Issuer (after consultation with the Trustee) for loans in U.S. dollars to leading European banks, having an index maturity of three months and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time; provided, however, that if the banks selected by the Issuer (after consultation with the Trustee) are not providing quotations in the manner described by this sentence, the three-month LIBOR determined as of such interest determination date will be the three-month LIBOR in effect prior to such interest determination date.
+All percentages resulting from any calculation of any interest rate for this Note will be rounded, if necessary, to the nearest one hundred thousandth of a percentage point, with five one-millionths of a percentage point rounded upward (e.g., 3.876545% (or .03876545) would be rounded to 3.87655% (or .0387655)), and all U.S. dollar amounts will be rounded to the nearest cent, with one-half cent being rounded upward. Each calculation of the interest rate on this Note by the Trustee will (in the absence of manifest error) be final and binding on the Holders of this Note and the Issuer.
+Upon written request from any Holder of the Notes, the Trustee will provide the interest rate in effect on such Note for the current interest period and, if it has been determined, the interest rate to be in effect for the next interest period.
+The interest rate on this Note will in no event be higher than the maximum rate permitted by New York law as the same may be modified by United States law of general application.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the Floating Rate Notes due 2021 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 	7.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	8.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 
+ 	9.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	10.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT C
+FORM OF NOTE DUE 2018
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+1.300% Note due 2018
+ 
+No.	  	CUSIP No.: 037833 BN9
+  	ISIN No.: US037833BN98
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2018.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+1.300% Note due 2018
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 1.300% Notes due 2018 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to the maturity date, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 10 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes.
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT D
+FORM OF NOTE DUE 2019
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+1.700% Note due 2019
+ 
+No.	  	CUSIP No.: 037833 BQ2
+  	ISIN No.: US037833BQ20
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 22, 2019.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+1.700% Note due 2019
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 1.700% Notes due 2019 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to the maturity date, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (exclusive of interest accrued to, but excluding, the date of redemption) discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 12.5 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes.
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT E
+FORM OF NOTE DUE 2021
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+2.250% Note due 2021
+ 
+No.	  	CUSIP No.: 037833 BS8
+  	ISIN No.: US037833BS85
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2021.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+2.250% Note due 2021
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 2.250% Notes due 2021 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to January 23, 2021, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (assuming such Notes matured on January 23, 2021), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 15 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+On or after January 23, 2021, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed (assuming such Notes matured on January 23, 2021) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes (assuming such Notes matured on January 23, 2021).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT F
+FORM OF NOTE DUE 2023
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+2.850% Note due 2023
+ 
+No.	  	CUSIP No.: 037833 BU3
+  	ISIN No.: US037833BU32
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2023.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+2.850% Note due 2023
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 2.850% Notes due 2023 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to December 23, 2022, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (assuming such Notes matured on December 23, 2022), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 20 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+On or after December 23, 2022, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed (assuming such Notes matured on December 23, 2022) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes (assuming such Notes matured on December 23, 2022).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT G
+FORM OF NOTE DUE 2026
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+3.250% Note due 2026
+ 
+No.	  	CUSIP No.: 037833 BY5
+  	ISIN No.: US037833BY53
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2026.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+3.250% Note due 2026
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 3.250% Notes due 2026 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to November 23, 2025, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (assuming such Notes matured on November 23, 2025), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 25 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+On or after November 23, 2025, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed (assuming such Notes matured on November 23, 2025) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes (assuming such Notes matured on November 23, 2025).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT H
+FORM OF NOTE DUE 2036
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+4.500% Note due 2036
+ 
+No.	  	CUSIP No.: 037833 BW9
+  	ISIN No.: US037833BW97
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2036.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+4.500% Note due 2036
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 4.500% Notes due 2036 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to August 23, 2035, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (assuming such Notes matured on August 23, 2035), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 30 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+On or after August 23, 2035, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed (assuming such Notes matured on August 23, 2035) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes (assuming such Notes matured on August 23, 2035).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                     agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee
+EXHIBIT I
+FORM OF NOTE DUE 2046
+UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS A BENEFICIAL INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL SECURITY ARE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF.
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+APPLE INC.
+4.650% Note due 2046
+ 
+No.	  	CUSIP No.: 037833 BX7
+  	ISIN No.: US037833BX70
+  	$[●]
+APPLE INC., a California corporation (the “Issuer”), for value received promises to pay to CEDE & CO. or registered assigns the principal sum listed on the Schedule of Exchanges of Notes on February 23, 2046.
+Interest Payment Dates: February 23 and August 23, beginning on August 23, 2016 and on the maturity date (each, an “Interest Payment Date”).
+Interest Record Dates: February 9 and August 9 (each, an “Interest Record Date”).
+Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
+ 
+APPLE INC.
+By:	 	 
+ 	Name: Gary Wipfler
+ 	Title: Vice President and Corporate Treasurer
+This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
+Dated: February 23, 2016
+ 
+The Bank of New York Mellon Trust Company, N.A., as Trustee
+By:	 	 
+ 	Authorized Signatory
+(REVERSE OF NOTE)
+APPLE INC.
+4.650% Note due 2046
+ 
+ 	1.	Interest
+Apple Inc. (the “Issuer”) promises to pay interest on the principal amount of this Note at the rate per annum described above. Cash interest on the Notes will accrue from February 23, 2016 or the most recent Interest Payment Date to which payment has been paid or provided for. Interest on this Note will be paid to, but excluding, the relevant Interest Payment Date. The Issuer will pay interest semi-annually in arrears on each Interest Payment Date, commencing August 23, 2016, to Holders of record on the immediately preceding Interest Record Date; provided, that if an Interest Payment Date for this Note falls on a day that is not a Business Day, the Interest Payment Date shall be postponed to the next succeeding Business Day. Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months in a manner consistent with Rule 11620(b) of the FINRA Uniform Practice Code.
+The Issuer shall pay interest on overdue principal from time to time on demand at the rate borne by the Notes and on overdue installments of interest (without regard to any applicable grace periods) to the extent lawful.
+ 
+ 	2.	Paying Agent and Security Registrar.
+Initially, The Bank of New York Mellon Trust Company, N.A. (the “Trustee”) will act as Paying Agent and Security Registrar. The Issuer may change any Paying Agent and Security Registrar without notice to the Holders.
+ 
+ 	3.	Indenture; Defined Terms.
+This Note is one of the 4.650% Notes due 2046 (the “Notes”) issued under an indenture, dated as of April 29, 2013 (the “Base Indenture”), by and between the Issuer and the Trustee, as supplemented by an Officer’s Certificate, dated February 23, 2016, issued pursuant to Section 301 of the Indenture (together with the Base Indenture, the “Indenture”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
+For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
+ 	4.	Denominations; Transfer; Exchange.
+The Notes are in registered form, without coupons, in denominations of $2,000 and any integral multiple of $1,000 in excess thereof. A Holder shall register the transfer or exchange of Notes in accordance with the Indenture. The Issuer may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and to pay certain transfer taxes or similar governmental charges payable in connection therewith as permitted by the Indenture. The Issuer need not issue, authenticate, register the transfer of or exchange any Notes or portions thereof for a period of fifteen (15) days before the mailing of a notice of redemption, nor need the Issuer register the transfer or exchange of any Note selected for redemption in whole or in part, except the unredeemed portion of any Note being redeemed in part.
+ 
+ 	5.	Amendment; Supplement; Waiver.
+Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of the Notes in any material respect.
+ 
+ 	6.	Redemption.
+Prior to August 23, 2045, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price calculated by the Issuer equal to the greater of:
+(i) 100% of the principal amount of the Notes to be redeemed; or
+(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (assuming such Notes matured on August 23, 2045), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus 30 basis points, plus, in each case, accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+On or after August 23, 2045, the Issuer may, at its option, redeem any of the Notes in whole or in part at any time and from time to time, each at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+Notwithstanding the foregoing, installments of interest on the Notes that are due and payable on interest payment dates falling on or prior to a redemption date will be payable on the interest payment date to the registered Holders as of the close of business on the relevant record date according to the Notes and the Indenture.
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the Notes to be redeemed (assuming such Notes matured on August 23, 2045) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Notes (assuming such Notes matured on August 23, 2045).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that the Issuer shall appoint to act as the Independent Investment Banker from time to time.
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case the Issuer will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) the Issuer shall select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the Notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by the Issuer on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
+Notice of any redemption will be mailed or electronically delivered at least 30 days but not more than 60 days before the redemption date to each Holder of record of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payments will be made upon presentation and surrender of the Notes to be redeemed. Unless the Issuer defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or portions thereof called for redemption. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected by the applicable procedures of the Depositary, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
+ 
+ 	7.	Defaults and Remedies.
+If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
+ 
+ 	8.	Authentication.
+This Note shall not be valid until the Trustee manually signs the certificate of authentication on this Note.
+ 
+ 	9.	Abbreviations and Defined Terms.
+Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+ 	10.	CUSIP Numbers.
+Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of Notes. No representation is made as to the accuracy of such numbers as printed on the Notes and reliance may be placed only on the other identification numbers printed hereon.
+ 
+ 	11.	Governing Law.
+The Indenture and the Notes shall be governed by, and construed in accordance with, the law of the State of New York.
+ASSIGNMENT FORM
+To assign this Note, fill in the form below:
+I or we assign and transfer this Note to
+(Print or type assignee’s name, address and zip code)
+(Insert assignee’s soc. sec. or tax I.D. No.)
+and irrevocably appoint                                                      agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+ 
+ 
+ 
+Date:	 	 	  	        Your Signature:	  	 
+ 
+ 
+Sign exactly as your name appears on the other side of this Note.
+ 
+ 		 	Signature
+Signature Guarantee:
+ 
+Signature must be guaranteed	 		 	Signature
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
+SCHEDULE OF EXCHANGES OF NOTES
+The initial principal amount of this Global Note is $ [●].
+The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
+ 
+Date of Exchange
+ 	
+Amount of decrease in
+principal amount of this
+Global Note
+ 	
+Amount of increase in
+principal amount of this
+Global Note
+ 	
+Principal amount of this
+Global Note following such
+decrease (or increase)
+ 	
+Signature of authorized
+officer of Trustee

@@ -1,0 +1,5 @@
+2010-09-27T17:16:42Z
+Gadgetwise: BlackBerry Tablet Revealed – The PlayBook
+At Research In Motion's Web-developer conference on Monday in San Francisco, the company revealed its tablet, called the PlayBook. The 9.7mm-thick tablet has a seven-inch display, front and rear HD cameras, and full 1080p support along with H.D.M.I. output. The PlayBook has no cellular connection of its own: it works in concert with a BlackBerry hand-held, using an encrypted Bluetooth connection to tether to the phone.
+Mike Lazaridis, R.I.M. co-chief executive, did not give any price or availability information about a tablet that can be tethered to the BlackBerry.
+

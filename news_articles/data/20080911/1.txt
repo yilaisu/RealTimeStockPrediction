@@ -1,0 +1,4 @@
+2008-09-11T00:00:00Z
+Converting Video for BlackBerry
+I have a program that converts files to different video formats, but what format and conversion settings are best for watching the clips on a BlackBerry?
+

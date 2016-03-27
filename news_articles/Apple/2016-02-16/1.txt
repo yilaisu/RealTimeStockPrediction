@@ -1,0 +1,1768 @@
+424B2 1 d60003d424b2.htm FILED PURSUANT TO RULE 424B2
+Table of Contents
+
+Filed Pursuant to Rule 424(b)(2)
+Registration No. 333-188191
+ 
+The information in this preliminary prospectus supplement is not complete and may be changed. This preliminary prospectus supplement and the accompanying prospectus are not offers to sell the securities and they are not soliciting an offer to buy the securities in any jurisdiction where the offer or sale is not permitted.
+ 
+SUBJECT TO COMPLETION, DATED FEBRUARY 16, 2016
+Preliminary Prospectus Supplement
+(To Prospectus dated April 29, 2013)
+$        
+ 
+LOGO
+Apple Inc.
+$        Floating Rate Notes due 2018
+$        Floating Rate Notes due 2019
+$             % Notes due 2018
+$             % Notes due 2019
+$             % Notes due 2021
+$             % Notes due 2023
+$             % Notes due 2026
+$             % Notes due 2036
+$             % Notes due 2046
+ 
+ 
+We are offering $        of our Floating Rate Notes due 2018 (the “2018 Floating Rate Notes”), $        of our Floating Rate Notes due 2019 (the “2019 Floating Rate Notes” and, together with the 2018 Floating Rate Notes, the “floating rate notes”), $        of our     % Notes due 2018 (the “2018 Fixed Rate Notes”), $        of our     % Notes due 2019 (the “2019 Fixed Rate Notes”), $        of our     % Notes due 2021 (the “2021 Fixed Rate Notes”), $        of our     % Notes due 2023 (the “2023 Fixed Rate Notes”), $        of our     % Notes due 2026 (the “2026 Fixed Rate Notes”) , $        of our     % Notes due 2036 (the “2036 Fixed Rate Notes”) and $        of our     % Notes due 2046 (the “2046 Fixed Rate Notes” and, together with the 2018 Fixed Rate Notes, the 2019 Fixed Rate Notes, the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes and the 2036 Fixed Rate Notes, the “fixed rate notes”). We refer to the floating rate notes and the fixed rate notes collectively as the “notes.”
+The 2018 Floating Rate Notes will bear interest at a floating rate equal to three-month LIBOR plus     % and mature on                 , 2018. The 2019 Floating Rate Notes will bear interest at a floating rate equal to three-month LIBOR plus     % and mature on                 , 2019. We will pay interest on the floating rate notes quarterly in arrears on                 ,                 ,                  and                  of each year, beginning on                 , 2016.
+We will pay interest on the fixed rate notes semi-annually in arrears on                  and                  of each year, beginning on                 , 2016. The 2018 Fixed Rate Notes will mature on                 , 2018, the 2019 Fixed Rate Notes will mature on                 , 2019, the 2021 Fixed Rate Notes will mature on                 , 2021, the 2023 Fixed Rate Notes will mature on                 , 2023, the 2026 Fixed Rate Notes will mature on                 , 2026, the 2036 Fixed Rate Notes will mature on                 , 2036 and the 2046 Fixed Rate Notes will mature on                 , 2046.
+We may redeem the fixed rate notes in whole or in part at any time or from time to time at the redemption prices described under the heading “Description of the Notes—Optional Redemption” in this prospectus supplement. The floating rate notes may not be redeemed before maturity. The notes will be issued only in minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof.
+See “Risk Factors” beginning on page S-7 to read about important factors you should consider before buying the notes.
+ 
+ 
+Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or passed upon the accuracy or adequacy of this prospectus supplement or the accompanying prospectus. Any representation to the contrary is a criminal offense.
+ 
+ 
+ 
+ 	  	Public Offering Price (1)	 	  	Underwriting Discounts	 	  	Proceeds to Apple,
+Before Expenses 	 
+ 	  	Per Note	 	  	Total	 	  	Per Note	 	  	Total	 	  	Per Note	 	  	Total	 
+2018 Floating Rate Note
+
+  	 	            %	  	  	$	                	  	  	 	            %	  	  	$	                	  	  	 	            %	  	  	$	                	  
+2019 Floating Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2018 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2019 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2021 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2023 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2026 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2036 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+2046 Fixed Rate Note
+
+  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  	  	 	    %	  	  	$	                	  
+ 
+(1)	Plus accrued interest, if any, from                 , 2016.
+The notes will not be listed on any securities exchange. Currently, there is no public trading market for any series of the notes.
+The underwriters expect to deliver the notes through the book-entry delivery system of The Depository Trust Company and its direct participants, including Clearstream Banking S.A. and Euroclear Bank S.A./N.V., on or about                 , 2016, which is the fifth business day following the date of this prospectus supplement. This settlement date may affect trading of the notes. See “Underwriting.”
+ 
+ 
+Joint Book-Running Managers
+ 
+Goldman, Sachs & Co.	 	BofA Merrill Lynch	 	Deutsche Bank Securities	 	J.P. Morgan
+ 
+ 
+Prospectus Supplement dated                 , 2016.
+Table of Contents
+
+TABLE OF CONTENTS
+Prospectus Supplement
+ 
+ 	  	Page:	 
+ABOUT THIS PROSPECTUS SUPPLEMENT
+
+  	 	S-iii	  
+WHERE YOU CAN FIND MORE INFORMATION
+
+  	 	S-iv	  
+INCORPORATION BY REFERENCE
+
+  	 	S-v	  
+FORWARD-LOOKING STATEMENTS
+
+  	 	S-vi	  
+SUMMARY
+
+  	 	S-1	  
+RISK FACTORS
+
+  	 	S-7	  
+USE OF PROCEEDS
+
+  	 	S-10	  
+CAPITALIZATION
+
+  	 	S-12	  
+RATIO OF EARNINGS TO FIXED CHARGES
+
+  	 	S-14	  
+DESCRIPTION OF THE NOTES
+
+  	 	S-15	  
+CERTAIN U.S. FEDERAL INCOME TAX CONSIDERATIONS
+
+  	 	S-21	  
+UNDERWRITING
+
+  	 	S-25	  
+LEGAL MATTERS
+
+  	 	S-30	  
+EXPERTS
+
+  	 	S-30	  
+Prospectus	  			
+ABOUT THIS PROSPECTUS
+
+  	 	ii	  
+WHERE YOU CAN FIND MORE INFORMATION
+
+  	 	iii	  
+INCORPORATION BY REFERENCE
+
+  	 	iv	  
+FORWARD-LOOKING STATEMENTS
+
+  	 	v	  
+APPLE INC.
+
+  	 	1	  
+RISK FACTORS
+
+  	 	2	  
+RATIO OF EARNINGS TO FIXED CHARGES
+
+  	 	3	  
+USE OF PROCEEDS
+
+  	 	4	  
+DESCRIPTION OF THE DEBT SECURITIES
+
+  	 	5	  
+PLAN OF DISTRIBUTION
+
+  	 	19	  
+VALIDITY OF THE SECURITIES
+
+  	 	21	  
+EXPERTS
+
+  	 	21	  
+ 
+ 
+This prospectus supplement, the accompanying prospectus and any free writing prospectus that we prepare or authorize contain and/or incorporate by reference information that you should consider when making an investment decision. Neither we nor any underwriter has authorized anyone to provide any information or to make any representations other than those contained or incorporated by reference in this prospectus supplement,
+ 
+S-i
+Table of Contents
+
+the accompanying prospectus or in any free writing prospectuses prepared by us or on our behalf or to which we have referred you. We take no responsibility for, and can provide no assurance as to the reliability of, any other information that others may give you. This prospectus supplement and the accompanying prospectus is an offer to sell only the notes offered hereby, but only under circumstances and in jurisdictions where it is lawful to do so. The information contained in this prospectus supplement, the accompanying prospectus and any free writing prospectus, and the documents incorporated by reference herein or therein, are current only as of the respective dates of such documents. You should not assume that such information is accurate as of any date other than the respective dates thereof. Our business, financial condition, results of operations and prospects may have changed since those dates.
+ 
+S-ii
+Table of Contents
+
+ABOUT THIS PROSPECTUS SUPPLEMENT
+This document is in two parts. The first part is this prospectus supplement, which describes the terms of the offering of the notes. The second part is the accompanying prospectus, dated April 29, 2013, which we refer to as the “accompanying prospectus.” The accompanying prospectus contains more general information about our debt securities that we may offer from time to time, some of which may not apply to the notes. If information in this prospectus supplement is inconsistent with the accompanying prospectus, you should rely on this prospectus supplement.
+This prospectus supplement incorporates by reference important business and financial information about us that is not included in or delivered with this prospectus supplement. It is important for you to read and consider all information contained or incorporated by reference in this prospectus supplement and the accompanying prospectus in making your investment decision. See “Where You Can Find More Information” and “Incorporation by Reference” in this prospectus supplement and the accompany prospectus.
+Unless otherwise stated or the context otherwise requires, references in this prospectus supplement to “Apple,” “we,” “us” and “our” and all similar references are to Apple Inc. and its consolidated subsidiaries. However, in the “Description of the Notes” and related summary sections of this prospectus supplement and the “Description of the Debt Securities” section of the accompanying prospectus, references to “we,” “us” and “our” are to Apple Inc. and not to any of its subsidiaries.
+ 
+S-iii
+Table of Contents
+
+WHERE YOU CAN FIND MORE INFORMATION
+We file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (the “SEC”). The public may read and copy any materials filed with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Also, the SEC maintains an Internet web site that contains reports, proxy and information statements, and other information regarding issuers, including us, that file electronically with the SEC. The public can obtain any documents that we file electronically with the SEC at http://www.sec.gov.
+We also make available, free of charge, on or through our Internet web site (investor.apple.com) our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements on Schedule 14A and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Please note, however, that we have not incorporated any other information by reference from our Internet web site, other than the documents listed below under the heading “Incorporation by Reference.” In addition, you may request copies of these filings at no cost through our Investor Relations Department at: Apple Inc., 1 Infinite Loop, MS 301-4IR, Cupertino, CA 95014, telephone: (408) 974-3123 or our Internet web site (investor.apple.com).
+We have filed with the SEC a registration statement on Form S-3 relating to the debt securities covered by this prospectus supplement. This prospectus supplement is a part of the registration statement and does not contain all the information in the registration statement. Whenever a reference is made in this prospectus supplement to a contract or other document of ours that is an exhibit to the registration statement, the reference is only a summary and you should refer to the exhibits that are a part of the registration statement for a copy of the contract or other document. You may review a copy of the registration statement and the documents incorporated by reference herein at the SEC’s Public Reference Room in Washington, D.C., as well as through the SEC’s Internet web site listed above.
+ 
+S-iv
+Table of Contents
+
+INCORPORATION BY REFERENCE
+The SEC allows us to incorporate by reference information into this prospectus supplement and the accompanying prospectus. This means that we can disclose important information to you by referring you to another document. Any information referred to in this way is considered part of this prospectus supplement and the accompanying prospectus from the date we file that document. Any reports filed by us with the SEC after the date of this prospectus supplement and before the date that the offering of the notes by means of this prospectus supplement and the accompanying prospectus is terminated will automatically update and, where applicable, supersede any information contained or incorporated by reference in this prospectus supplement and the accompanying prospectus. However, we are not incorporating by reference any information provided in these documents that is described in paragraph (d)(1), (d)(2), (d)(3) or (e)(5) of Item 407 of Regulation S-K promulgated by the SEC or, except as specifically provided below, furnished under applicable SEC rules rather than filed and exhibits furnished in connection with such items.
+We incorporate by reference in this prospectus supplement and the accompanying prospectus the documents set forth below that have been previously filed with the SEC as well as any filings we make with the SEC under Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act on or after the date of this prospectus supplement and before the termination of this offering; provided, however, that, except as specifically provided below, we are not incorporating any documents or information deemed to have been furnished rather than filed in accordance with SEC rules:
+ 
+ 	•	 	
+our Annual Report on Form 10-K for the fiscal year ended September 26, 2015, including those portions of our Proxy Statement on Schedule 14A filed on January 6, 2016 that are incorporated by reference in such Annual Report;
+
+ 
+ 	•	 	
+our Quarterly Report on Form 10-Q for the fiscal quarter ended December 26, 2015; and
+
+ 
+ 	•	 	
+our Current Reports on Form 8-K filed on October 2, 2015, December 17, 2015 and December 22, 2015.
+
+To obtain copies of these filings, see “Where You Can Find More Information.”
+ 
+S-v
+Table of Contents
+
+FORWARD-LOOKING STATEMENTS
+This prospectus supplement and the accompanying prospectus, including the documents incorporated by reference herein or therein, include forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in the “Risk Factors” section of this prospectus supplement and in Part II, Item 1A of the Company’s most recent Quarterly Report on Form 10-Q for the fiscal quarter ended December 26, 2015 under the heading “Risk Factors,” which are incorporated herein by reference. The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+ 
+S-vi
+Table of Contents
+
+SUMMARY
+The following summary highlights information contained or incorporated by reference in this prospectus supplement and the accompanying prospectus. It may not contain all of the information that you should consider before investing in the notes. You should carefully read this entire prospectus supplement, as well as the accompanying prospectus and the documents incorporated by reference in this prospectus supplement and the accompanying prospectus.
+Apple Inc.
+Apple designs, manufactures and markets mobile communication and media devices, personal computers and portable digital music players, and sells a variety of related software, services, accessories, networking solutions and third-party digital content and applications. Our products and services include iPhone®, iPad®, Mac®, iPod®, Apple Watch®, Apple TV®, a portfolio of consumer and professional software applications, iOS, OS X® and watchOS™ and tvOS™ operating systems, iCloud®, Apple Pay® and a variety of accessory, service and support offerings. We sell and deliver digital content and applications through the iTunes Store®, App Store®, Mac App Store, TV App Store, iBooks Store™ and Apple Music™. We sell our products worldwide through our retail stores, online stores and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers and value-added resellers. In addition, we sell a variety of third-party Apple compatible products, including application software and various accessories through our online and retail stores. We sell to consumers, small and mid-sized businesses and education, enterprise and government customers.
+Apple Inc. is a California corporation established in 1977. Our principal executive offices are located at 1 Infinite Loop, Cupertino, CA 95014, and our main telephone number is (408) 996-1010.
+ 
+
+
+ 
+S-1
+Table of Contents
+
+The Offering
+The following is a brief summary of the terms and conditions of this offering. It does not contain all of the information that you need to consider in making your investment decision. To understand all of the terms and conditions of the offering of the notes, you should carefully read this entire prospectus supplement, as well as the accompanying prospectus and the documents incorporated by reference in this prospectus supplement and the accompanying prospectus.
+ 
+Issuer
+Apple Inc.
+ 
+Notes offered
+$        aggregate principal amount of Floating Rate Notes due 2018;
+ 
+ 	$        aggregate principal amount of Floating Rate Notes due 2019;
+ 
+ 	$        aggregate principal amount of     % Notes due 2018;
+ 
+ 	$        aggregate principal amount of     % Notes due 2019;
+ 
+ 	$        aggregate principal amount of     % Notes due 2021;
+ 
+ 	$        aggregate principal amount of     % Notes due 2023;
+ 
+ 	$        aggregate principal amount of     % Notes due 2026;
+ 
+ 	$        aggregate principal amount of     % Notes due 2036; and
+ 
+ 	$        aggregate principal amount of     % Notes due 2046.
+ 
+Original issue date
+                    , 2016.
+ 
+Maturity date
+                    , 2018 for the 2018 Floating Rate Notes;
+ 
+ 	                    , 2019 for the 2019 Floating Rate Notes;
+ 
+ 	                    , 2018 for the 2018 Fixed Rate Notes;
+ 
+ 	                    , 2019 for the 2019 Fixed Rate Notes;
+ 
+ 	                    , 2021 for the 2021 Fixed Rate Notes;
+ 
+ 	                    , 2023 for the 2023 Fixed Rate Notes;
+ 
+ 	                    , 2026 for the 2026 Fixed Rate Notes;
+ 
+ 	                    , 2036 for the 2036 Fixed Rate Notes; and
+ 
+ 	                    , 2046 for the 2046 Fixed Rate Notes.
+ 
+Interest rate
+Three-month LIBOR plus     % per annum for the 2018 Floating Rate Notes;
+ 
+ 	Three-month LIBOR plus     % per annum for the 2019 Floating Rate Notes;
+ 
+ 	    % per annum for the 2018 Fixed Rate Notes;
+ 
+
+
+ 
+S-2
+Table of Contents
+
+ 	    % per annum for the 2019 Fixed Rate Notes;
+ 
+ 	    % per annum for the 2021 Fixed Rate Notes;
+ 
+ 	    % per annum for the 2023 Fixed Rate Notes;
+ 
+ 	    % per annum for the 2026 Fixed Rate Notes;
+ 
+ 	    % per annum for the 2036 Fixed Rate Notes; and
+ 
+ 	    % per annum for the 2046 Fixed Rate Notes.
+ 
+ 	The interest rate for the floating rate notes for the initial interest period will be the three month LIBOR plus     % in the case of the 2018 Floating Rate Notes and plus     % in the case of the 2019 Floating Rate Notes, determined on the second London business day immediately preceding the scheduled closing date. Thereafter, the interest rate for the floating rate notes will reset on                     ,                     ,                      and                      of each year, beginning on                     , 2016.
+ 
+Interest payment dates
+Interest on the floating rate notes will be paid quarterly in arrears on                     ,                     ,                      and                      of each year, beginning on                     , 2016, and on the applicable maturity date for each of the series of floating rate notes.
+ 
+ 	Interest on the fixed rate notes will be paid semi-annually in arrears on          and          of each year, beginning on                     , 2016, and on the applicable maturity date for each of the series of fixed rate notes.
+ 
+Optional redemption
+We do not have the right to redeem the floating rate notes prior to maturity. Prior to (i) with respect to the 2018 Fixed Rate Notes and the 2019 Fixed Rate Notes, the maturity date of such notes, (ii) with respect to the 2021 Fixed Rate Notes,                     , 2021 (one month prior to the maturity date of such notes), (iii) with respect to the 2023 Fixed Rate Notes,                     , 2022 (two months prior to the maturity date of such notes), (iv) with respect to the 2026 Fixed Rate Notes,                     , 2025 (three months prior to the maturity date of such notes), (iv) with respect to the 2036 Fixed Rate Notes,                     , 2035 (six months prior to the maturity date of such notes), and (v) with respect to the 2046 Fixed Rate Notes,                     , 2045 (six months prior to the maturity date of such notes), such series of fixed rate notes may be redeemed at our option, at any time in whole or from time to time in part, at a redemption price equal to the greater of:
+ 
+ 	•	 	
+100% of the principal amount of the notes being redeemed; or
+
+ 
+ 	•	 	
+the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (assuming, in
+
+ 
+
+
+ 
+S-3
+Table of Contents
+
+ 	
+the case of the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, that such notes matured on their applicable Par Call Date as set forth above), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined in this prospectus supplement) plus          basis points in the case of the 2018 Fixed Rate Notes, plus          basis points in the case of the 2019 Fixed Rate Notes, plus          basis points in the case of the 2021 Fixed Rate Notes, plus          basis points in the case of the 2023 Fixed Rate Notes, plus          basis points in the case of the 2026 Fixed Rate Notes, plus          basis points in the case of the 2036 Fixed Rate Notes and plus          basis points in the case of the 2046 Fixed Rate Notes.
+
+ 
+ 	On or after (i) with respect to the 2021 Fixed Rate Notes,                     , 2021 (one month prior to the maturity date of such notes), (ii) with respect to the 2023 Fixed Rate Notes,                     , 2022 (two months prior to the maturity date of such notes), (iii) with respect to the 2026 Fixed Rate Notes,                     , 2025 (three months prior to the maturity date of such notes), (iv) with respect to the 2036 Fixed Rate Notes,                     , 2035 (six months prior to the maturity date of such notes) and (v) with respect to the 2046 Fixed Rate Notes,                     , 2045 (six months prior to the maturity date of such notes), such series of fixed rate notes may be redeemed at our option, at any time in whole or from time to time in part, at a redemption price equal to 100% of the principal amount of the notes being redeemed.
+ 
+ 	In each case, we will also pay the accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+ 
+ 	See “Description of the Notes—Optional Redemption.”
+ 
+Ranking
+The notes will be:
+ 
+ 	•	 	
+our unsecured senior indebtedness and will rank equally with each other and with all of our other unsecured and unsubordinated indebtedness from time to time outstanding;
+
+ 
+ 	•	 	
+structurally subordinated to any indebtedness and preferred stock, if any, of our subsidiaries; and
+
+ 
+ 	•	 	
+effectively subordinated to any secured indebtedness to the extent of the value of the assets securing such indebtedness.
+
+ 
+ 	The indenture does not restrict the ability of our subsidiaries to incur indebtedness. See “Description of the Notes—Ranking.”
+ 
+
+
+ 
+S-4
+Table of Contents
+
+Further issuances
+We reserve the right, from time to time and without the consent of any holders of the notes, to re-open each series of notes on terms identical in all respects to the outstanding notes of such series (except for the date of issuance, the date interest begins to accrue and, in certain circumstances, the first interest payment date), so that such additional notes will be consolidated with, form a single series with and increase the aggregate principal amount of the notes of such series. See “Description of the Notes—General.”
+ 
+Use of proceeds
+We intend to use the net proceeds from sales of the notes (other than the 2023 Fixed Rate Notes), which we estimate will be approximately $        , after deducting underwriting discounts and the pro rata offering expenses for such notes, for general corporate purposes, including repurchases of our common stock and payment of dividends under our program to return capital to shareholders, funding for working capital, capital expenditures, acquisitions and repayment of debt. We intend to use the net proceeds from sales of the 2023 Fixed Rate Notes, which we estimate will be approximately $        , after deducting underwriting discounts and the pro rata offering expenses for the 2023 Fixed Rate Notes, for the investment in one or more Eligible Projects as described under “Use of Proceeds.” See “Use of Proceeds.”
+ 
+Denominations
+The notes will be issued only in minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof.
+ 
+Form of notes
+We will issue the notes in the form of one or more fully registered global notes registered in the name of the nominee of The Depository Trust Company (“DTC”). Investors may elect to hold the interests in the global notes through any of DTC, Clearstream Banking, S.A. or Euroclear Bank S.A./N.V., as described under the heading “Description of the Notes—Global Clearance and Settlement Procedures.”
+ 
+Governing law
+New York.
+ 
+Risk factors
+An investment in the notes involves risk. You should consider carefully the specific factors set forth under the heading “Risk Factors” beginning on page S-7 of this prospectus supplement, as well as the other information set forth and incorporated by reference in this prospectus supplement and the accompanying prospectus, before investing in any of the notes offered hereby.
+ 
+Trading
+Each series of the notes is a new issue of securities with no established trading market. We do not intend to apply for listing of any series of the notes on any securities exchange. The underwriters have advised us that they currently intend to make a market in each series of the notes. However, the underwriters are not obligated to do so, and any market-making with respect to the notes may be
+
+ 
+
+
+ 
+S-5
+Table of Contents
+
+ 	
+discontinued, in their sole discretion, at any time without notice. No assurance can be given as to the liquidity of the trading markets for the notes. See “Underwriting.”
+ 
+Trustee
+The Bank of New York Mellon Trust Company, N.A.
+ 
+
+
+ 
+S-6
+Table of Contents
+
+RISK FACTORS
+Investing in the notes involves risks. Before making a decision to invest in the notes, you should carefully consider the risks described in Part II, Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended December 26, 2015 under the heading “Risk Factors,” which are incorporated by reference in this prospectus supplement and the accompanying prospectus, as well as the risks set forth below. See “Where You Can Find More Information” in this prospectus supplement and the accompanying prospectus.
+The notes are structurally subordinated to the liabilities of our subsidiaries.
+The notes are our obligations exclusively and not of any of our subsidiaries. A significant portion of our operations is conducted through our subsidiaries. Our subsidiaries are separate legal entities that have no obligation to pay any amounts due under the notes or to make any funds available therefor, whether by dividends, loans or other payments. Except to the extent we are a creditor with recognized claims against our subsidiaries, all claims of creditors (including trade creditors) and holders of preferred stock, if any, of our subsidiaries will have priority with respect to the assets of such subsidiaries over our claims (and therefore the claims of our creditors, including holders of the notes). Consequently, the notes will be effectively subordinated to all existing and future liabilities of any of our subsidiaries and any subsidiaries that we may in the future acquire or establish.
+The notes are subject to prior claims of any secured creditors, and if a default occurs, we may not have sufficient funds to fulfill our obligations under the notes.
+The notes are our unsecured general obligations, ranking equally with other unsecured and unsubordinated indebtedness. As of December 26, 2015, we had $55.5 billion of unsecured senior notes and $7.3 billion of unsecured short-term promissory notes outstanding but no secured senior debt outstanding. The indenture governing the notes permits us to incur additional debt, including secured debt. If we incur any secured debt, our assets will be subject to prior claims by our secured creditors. In the event of our bankruptcy, liquidation, reorganization or other winding up, assets that secure debt will be available to pay obligations on the notes only after all debt secured by those assets has been repaid in full. Holders of the notes will participate in our remaining assets ratably with all of our unsecured and unsubordinated creditors, including our trade creditors. If we incur any additional obligations that rank equally with the notes, including trade payables, the holders of those obligations will be entitled to share ratably with the holders of the notes and the previously issued notes in any proceeds distributed upon our insolvency, liquidation, reorganization, dissolution or other winding up. This may have the effect of reducing the amount of proceeds paid to you. If there are not sufficient assets remaining to pay all these creditors, all or a portion of the notes then outstanding would remain unpaid.
+The indenture governing the notes does not contain financial covenants and only provides limited protection against significant corporate events and other actions we may take that could adversely impact your investment in the notes.
+While the indenture governing the notes contains terms intended to provide protection to the holders of the notes upon the occurrence of certain events involving significant corporate transactions, such terms are limited and may not be sufficient to protect your investment in the notes.
+The indenture for the notes does not:
+ 
+ 	•	 	
+require us to maintain any financial ratios or specific levels of net worth, revenues, income, cash flow or liquidity and, accordingly, does not protect holders of the notes in the event we experience significant adverse changes in our financial condition;
+
+ 
+ 	•	 	
+limit our ability to incur indebtedness that is secured, senior to or equal in right of payment to the notes, or to engage in sale/leaseback transactions;
+
+ 
+S-7
+Table of Contents
+
+ 	•	 	
+restrict our subsidiaries’ ability to issue securities or otherwise incur indebtedness that would be senior to our equity interests in our subsidiaries and therefore rank effectively senior to the notes;
+
+ 
+ 	•	 	
+restrict our ability to repurchase or prepay any other of our securities or other indebtedness;
+
+ 
+ 	•	 	
+restrict our ability to make investments or to repurchase or pay dividends or make other payments in respect of our common stock or other securities ranking junior to the notes;
+
+ 
+ 	•	 	
+restrict our ability to enter into highly leveraged transactions; or
+
+ 
+ 	•	 	
+require us to repurchase the notes in the event of a change in control.
+
+As a result of the foregoing, when evaluating the terms of the notes, you should be aware that the terms of the indenture and the notes do not restrict our ability to engage in, or to otherwise be a party to, a variety of corporate transactions, circumstances and events that could have an adverse impact on your investment in the notes.
+Active trading markets for the notes may not develop.
+Each series of the notes is a new issue of securities with no established trading market. We do not intend to apply for listing of any series of the notes on any securities exchange. We cannot assure you trading markets for the notes will develop or of the ability of holders of the notes to sell their notes or of the prices at which holders may be able to sell their notes. The underwriters have advised us that they currently intend to make a market in each series of the notes. However, the underwriters are not obligated to do so, and any market-making with respect to the notes may be discontinued, in their sole discretion, at any time without notice. No assurance can be given as to the liquidity of the trading markets for the notes. If no active trading markets develop, you may be unable to resell the notes at any price or at their fair market value.
+The market prices of the notes may be volatile.
+The market prices of the notes will depend on many factors, including, but not limited to, the following:
+ 
+ 	•	 	
+ratings on our debt securities assigned by rating agencies;
+
+ 
+ 	•	 	
+the time remaining until maturity of the notes;
+
+ 
+ 	•	 	
+the prevailing interest rates being paid by other companies similar to us;
+
+ 
+ 	•	 	
+our results of operations, financial condition and prospects; and
+
+ 
+ 	•	 	
+the condition of the financial markets.
+
+The market price of the 2023 Fixed Rate Notes may also be impacted by any failure by us to use the net proceeds from such notes on Eligible Projects or to meet or continue to meet the investment requirements of certain environmentally focused investors with respect to such notes.
+In addition, the market prices of our floating rate notes will be influenced by the three-month LIBOR rate, volatility in such rate and events that affect LIBOR rates generally.
+The condition of the financial markets and prevailing interest rates have fluctuated in the past and are likely to fluctuate in the future, which could have an adverse effect on the market prices of the notes.
+Rating agencies continually review the ratings they have assigned to companies and debt securities. Negative changes in the ratings assigned to us or our debt securities could have an adverse effect on the market prices of the notes.
+ 
+S-8
+Table of Contents
+
+Our credit ratings may not reflect all risks of your investments in the notes.
+Our credit ratings are an assessment by rating agencies of our ability to pay our debts when due. Consequently, real or anticipated changes in our credit ratings will generally affect the market value of the notes. These credit ratings may not reflect the potential impact of all risks relating to the notes. Agency ratings are not a recommendation to buy, sell or hold any security, and may be revised or withdrawn at any time by the issuing organization. Each agency’s rating should be evaluated independently of any other agency’s rating.
+Redemption may adversely affect your return on the fixed rate notes.
+We have the right to redeem the fixed rate notes on the terms set forth in this prospectus supplement. We may redeem such fixed rate notes at times when prevailing interest rates may be relatively low. Accordingly, you may not be able to reinvest the amount received upon a redemption in a comparable security at an effective interest rate as high as that of such fixed rate notes.
+The amount of interest payable on the floating rate notes is set only once per quarter based on the three-month LIBOR rate on the interest determination date, which rate may fluctuate substantially.
+In the past, the level of the three-month LIBOR rate has experienced significant fluctuations. You should note that historical levels, fluctuations and trends of the three-month LIBOR rate are not necessarily indicative of future levels. Any historical upward or downward trend in the three-month LIBOR rate is not an indication that the three-month LIBOR rate is more or less likely to increase or decrease at any time during a floating rate interest period, and you should not take the historical levels of the three-month LIBOR rate as an indication of its future performance. You should further note that although the actual three-month LIBOR rate on an interest payment date or at other times during an interest period may be higher than the three-month LIBOR rate on the applicable interest determination date, you will not benefit from the three-month LIBOR rate at any time other than on the interest determination date for such interest period. As a result, changes in the three-month LIBOR rate may not result in a comparable change in the market value of the floating rate notes.
+Uncertainty relating to the LIBOR calculation process may adversely affect the value of your floating rate notes.
+Regulators and law enforcement agencies in the United Kingdom and elsewhere are conducting civil and criminal investigations into whether the banks that contribute to the British Bankers’ Association (the “BBA”), in connection with the calculation of daily LIBOR may have been under-reporting or otherwise manipulating or attempting to manipulate LIBOR. A number of BBA member banks have entered into settlements with their regulators and law enforcement agencies with respect to alleged manipulation of LIBOR.
+Actions by the BBA, regulators or law enforcement agencies may result in changes to the manner in which LIBOR is determined. At this time, it is not possible to predict the effect of any such changes and any other reforms to LIBOR that may be enacted in the United Kingdom or elsewhere. Uncertainty as to the nature of such potential changes may adversely affect the trading market for LIBOR-based securities, including the floating rate notes.
+ 
+S-9
+Table of Contents
+
+USE OF PROCEEDS
+Use of Proceeds for Floating Rate Notes and 2018, 2019, 2021, 2026, 2036, and 2046 Fixed Rate Notes
+We estimate the net proceeds from sales of the notes (other than the 2023 Fixed Rate Notes) will be approximately $        , after deducting underwriting discounts and the pro rata offering expenses for such notes. We intend to use such net proceeds for general corporate purposes, including repurchases of our common stock and payment of dividends under our program to return capital to shareholders, funding for working capital, capital expenditures, acquisitions and repayment of debt.
+We may temporarily invest funds that are not immediately needed for these purposes in short-term investments, including cash, cash equivalents and/or marketable securities.
+Use of Proceeds for 2023 Fixed Rate Notes
+We estimate the net proceeds from sales of the 2023 Fixed Rate Notes will be approximately $        , after deducting underwriting discounts and the pro rata offering expenses for the 2023 Fixed Rate Notes. An amount equal to such net proceeds will be allocated for investments in one or more Eligible Projects (as defined below), including new and ongoing development of such Eligible Projects. Eligible Projects may include projects of our subsidiaries that meet the Eligibility Criteria set forth below.
+We plan to identify Eligible Projects that fall within three environmental priorities where we believe we can make the most environmentally positive impact:
+ 
+ 	1.	Reduce our impact on climate change by using renewable energy sources and driving energy efficiency in our facilities, products and supply chain.
+ 
+ 	2.	Pioneer the use of greener materials in our products and processes.
+ 
+ 	3.	Conserve precious resources.
+“Eligible Projects” means projects that meet the Eligibility Criteria (as defined below).
+“Eligibility Criteria” means any of the following:
+ 
+ 	•	 	
+expenditures related to new and ongoing renewable energy projects, such as solar and wind projects, or associated energy storage solutions,
+
+ 
+ 	•	 	
+expenditures related to projects that have received within the last three years, or are expected to receive, certification of LEED Gold or Platinum or BREEAM Very Good, Excellent, or Outstanding “green building” standards,
+
+ 
+ 	•	 	
+expenditures related to the implementation of environmental design elements for new or ongoing building developments, such as high performance mechanical systems, natural ventilation, on-site renewable energy, and high performance lighting systems,
+
+ 
+ 	•	 	
+expenditures related to energy efficiency projects and technologies at our corporate facilities, such as heating, ventilation and air conditioning systems upgrades, lighting retrofits and energy monitors and controls,
+
+ 
+ 	•	 	
+expenditures related to water efficiency projects and technologies at our corporate facilities, such as upgrades to water efficient fixtures and water efficient irrigation and increased use of recycled water,
+
+ 
+ 	•	 	
+expenditures related to projects that enhance recycling, material recovery and reuse, and landfill waste diversion for our products and facilities, and
+
+ 
+ 	•	 	
+expenditures related to projects and technologies that facilitate the use of greener materials in our products, through (i) the use of bio-based materials, (ii) the use of recyclable materials or (iii) the
+
+ 
+S-10
+Table of Contents
+
+ 	
+elimination of toxic substances that are commonly used in the industry in accordance with our Regulated Substances Specification (available at http://www.apple.com/environment/reports/).
+
+The Green Bond Principles 2015 are a set of voluntary guidelines for the issuance of green bonds developed by a committee made up of issuers, investors and intermediaries in the green bond market. The Green Bond Principles 2015 have four components: (i) use of proceeds for qualifying projects with environmentally sustainable benefits, (ii) disclosure and use of a process for project evaluation and selection, (iii) management of proceeds through a formal process to ensure they are allocated to qualifying projects and (iv) reporting on the use of proceeds, including on the projects for which funds have been used and their expected environmentally sustainable impacts. We are in alignment with these components and intend to implement the following guidelines:
+ 
+ 	•	 	
+work with an outside consultant with recognized expertise in environmental, social and governance research and analysis to develop our Eligibility Criteria and processes for compliance with the Green Bond Principles and annually obtain and make publicly available a second party opinion from such consultant in respect of compliance with such criteria,
+
+ 
+ 	•	 	
+obtain annual assertions by management that the net proceeds of the offering of the 2023 Fixed Rate Notes were allocated to qualifying Eligible Projects, and
+
+ 
+ 	•	 	
+obtain an annual report from an independent registered public accounting firm in respect of its examination of management’s assertions conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants.
+
+During the term of the 2023 Fixed Rate Notes, until such time as the net proceeds from such notes have been fully allocated to Eligible Projects, these materials and annual update reports will be published annually on Apple’s website at http://investor.apple.com (which will be available to investors within one year from the date of issuance of the 2023 Fixed Rate Notes).
+Our Environment, Policy and Social Initiatives team will assess and determine project eligibility on a semi-annual basis and recommend an allocation of proceeds to Eligible Projects. The final allocation of net proceeds to Eligible Projects will be approved by our Vice President of Environment, Policy, and Social Initiatives.
+Pending allocation of the net proceeds from the sales of the 2023 Fixed Rate Notes to Eligible Projects, we will temporarily invest an amount equal to the balance of such net proceeds in cash, cash equivalents and/or U.S. treasury securities. Payment of principal and interest on the 2023 Fixed Rate Notes will be made from our general funds and will not be directly linked to the performance of any Eligible Project. We intend to spend the majority of the net proceeds from the sales of the 2023 Fixed Rate Notes within two years of the date of issuance.
+Information contained on our website is not and should not be deemed a part of this prospectus supplement, the accompanying prospectus or any other report or filing filed with the SEC.
+ 
+S-11
+Table of Contents
+
+CAPITALIZATION
+The following table sets forth our capitalization on a consolidated basis as of December 26, 2015. We have presented our capitalization on both an actual and an as adjusted basis to reflect the issuance and sale of the notes offered hereby, but not the application of the net proceeds from the issuance and sale of any such notes. See “Use of Proceeds.” You should read the following table along with our financial statements and the accompanying notes to those statements, together with the information set forth under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Quarterly Report on Form 10-Q for the quarter ended December 26, 2015, which is incorporated by reference in this prospectus supplement and the accompanying prospectus. See “Where You Can Find More Information.”
+ 
+ 	  	As of December 26, 2015	 
+ 	  	Actual	 	  	As Adjusted	 
+ 	  	(unaudited, $ in millions,
+except number of shares
+which are reflected in
+thousands, and par value)	 
+Term debt:
+
+  			
+Floating Rate Notes due 2018 offered hereby
+
+  	$	-	  	  	$	            	  
+Floating Rate Notes due 2019 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2018 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2019 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2021 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2023 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2026 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2036 offered hereby
+
+  	 	-	  	  			
+    % Notes due 2046 offered hereby
+
+  	 	-	  	  			
+Floating Rate Notes due 2016
+
+  	 	1,000	  	  	 	1,000	  
+Floating Rate Notes due 2017
+
+  	 	1,250	  	  	 	1,250	  
+Floating Rate Notes due 2018
+
+  	 	2,000	  	  	 	2,000	  
+Floating Rate Notes due 2019
+
+  	 	1,000	  	  	 	1,000	  
+Floating Rate Australian dollar-denominated Notes due 2019 (1)
+
+  	 	505	  	  	 	505	  
+Floating Rate Notes due 2020
+
+  	 	1,000	  	  	 	1,000	  
+0.45% Notes due 2016
+
+  	 	1,500	  	  	 	1,500	  
+0.90% Notes due 2017
+
+  	 	750	  	  	 	750	  
+1.05% Notes due 2017
+
+  	 	1,500	  	  	 	1,500	  
+1.00% Notes due 2018
+
+  	 	4,000	  	  	 	4,000	  
+2.10% Notes due 2019
+
+  	 	2,000	  	  	 	2,000	  
+2.85% Australian dollar-denominated Notes due 2019 (1)
+
+  	 	289	  	  	 	289	  
+0.35% yen-denominated Notes due 2020 (2)
+
+  	 	2,065	  	  	 	2,065	  
+1.55% Notes due 2020
+
+  	 	1,250	  	  	 	1,250	  
+2.00% Notes due 2020
+
+  	 	1,250	  	  	 	1,250	  
+2.85% Notes due 2021
+
+  	 	3,000	  	  	 	3,000	  
+1.00% euro-denominated Notes due 2022 (3)
+
+  	 	1,527	  	  	 	1,527	  
+2.15% Notes due 2022
+
+  	 	1,250	  	  	 	1,250	  
+2.70% Notes due 2022
+
+  	 	1,250	  	  	 	1,250	  
+3.70% Australian dollar-denominated Notes due 2022 (1)
+
+  	 	830	  	  	 	830	  
+2.40% Notes due 2023
+
+  	 	5,500	  	  	 	5,500	  
+0.38% Swiss franc-denominated Notes due 2024 (4)
+
+  	 	884	  	  	 	884	  
+1.375% euro-denominated Notes due 2024 (5)
+
+  	 	1,091	  	  	 	1,091	  
+3.45% Notes due 2024
+
+  	 	2,500	  	  	 	2,500	  
+2.50% Notes due 2025
+
+  	 	1,500	  	  	 	1,500	  
+3.20% Notes due 2025
+
+  	 	2,000	  	  	 	2,000	  
+1.63% euro-denominated Notes due 2026 (3)
+
+  	 	1,527	  	  	 	1,527	  
+2.000% euro-denominated Notes due 2027 (5)
+
+  	 	1,091	  	  	 	1,091	  
+3.05% sterling-denominated Notes due 2029 (6)
+
+  	 	1,116	  	  	 	1,116	  
+0.75% Swiss franc-denominated Notes due 2030 (4)
+
+  	 	379	  	  	 	379	  
+3.60% sterling-denominated Notes due 2042 (6)
+
+  	 	744	  	  	 	744	  
+3.85% Notes due 2043
+
+  	 	3,000	  	  	 	3,000	  
+4.45% Notes due 2044
+
+  	 	1,000	  	  	 	1,000	  
+3.45% Notes due 2045
+
+  	 	2,000	  	  	 	2,000	  
+4.38% Notes due 2045
+
+  	 	2,000	  	  	 	2,000	  
+  	
+ 
+
+ 
+
+ 	  	
+ 
+
+ 
+
+ 
+Total term debt
+
+  	 	55,548	  	  			
+  	
+ 
+
+ 
+
+ 	  	
+ 
+
+ 
+
+ 
+ 
+S-12
+Table of Contents
+
+ 	  	As of December 26, 2015	 
+ 	  	Actual	 	 	As Adjusted	 
+ 	  	(unaudited, $ in millions,
+except number of shares
+which are reflected in
+thousands, and par value)	 
+Shareholders’ equity:
+
+  			
+Common stock and additional paid in capital, $0.00001 par value; 12,600,000 shares authorized; 5,544,487 shares issued and outstanding
+
+  	 	28,253	  	 	 	28,253	  
+Retained earnings
+
+  	 	101,494	  	 	 	101,494	  
+Accumulated other comprehensive income
+
+  	 	(1,480	) 	 	 	(1,480	) 
+  	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+Total shareholders’ equity
+
+  	 	128,267	  	 	 	128,267	  
+  	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+Total capitalization
+
+  	$	183,815	  	 	$	 	  
+  	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+ 
+(1)	Relates to Australian dollar-denominated debt issuance of A$2.3 billion in August 2015.
+(2)	Relates to yen-denominated debt issuance of ¥250.0 billion in June 2015.
+(3)	Relates to euro-denominated debt issuance of €2.8 billion in November 2014.
+(4)	Relates to Swiss franc-denominated debt issuance of SFr 1.3 billion in February 2015.
+(5)	Relates to euro-denominated debt issuance €2.0 billion in September 2015.
+(6)	Relates to sterling-denominated debt issuance of £1.3 billion in July 2015.
+ 
+S-13
+Table of Contents
+
+RATIO OF EARNINGS TO FIXED CHARGES
+The following table sets forth the historical ratio of our earnings to our fixed charges for the periods indicated.
+ 
+ 	  	Three Months
+Ended	 	  	Year Ended	 
+ 	  	December 26,
+2015	 	  	September 26,
+2015	 	  	September 27,
+2014	 	  	September 28,
+2013	 	  	September 29,
+2012	 	  	September 24,
+2011	 
+Ratio of earnings to fixed charges (1)
+
+  	 	78x	  	  	 	82x	  	  	 	102x	  	  	 	190x	  	  	 	570x	  	  	 	504x	  
+ 
+(1)	The ratio of earnings to fixed charges is computed by dividing (i) earnings before provision for income taxes plus fixed charges by (ii) fixed charges. Fixed charges include the portion of rental expense that management believes is representative of the interest component.
+ 
+S-14
+Table of Contents
+
+DESCRIPTION OF THE NOTES
+The following description is a summary of the terms of the notes being offered. The descriptions in this prospectus supplement and the accompanying prospectus contain descriptions of certain terms of the notes and the indenture but do not purport to be complete and are subject to, and are qualified in their entirety by reference to, all of the provisions of the indenture that has been filed as an exhibit to the registration statement of which this prospectus supplement and the accompanying prospectus are a part, including the definitions of specified terms used in the indenture, and to the Trust Indenture Act of 1939, as amended. Wherever particular articles, sections or defined terms of the indenture are referred to, it is intended that those articles, sections or defined terms will be incorporated herein by reference, and the statement in connection with which reference is made is qualified in its entirety by the article, section or defined term in the indenture. This summary supplements the description of the debt securities in the accompanying prospectus and, to the extent it is inconsistent, replaces the description in the accompanying prospectus. We urge you to read the indenture because it, and not this description, defines your rights as a holder of the notes. For purposes of this description, references to the “Company,” “we,” “our” and “us” refer only to Apple Inc. and not to its subsidiaries.
+General
+The floating rate notes and the fixed rate notes (as defined below), which we refer to collectively as the “notes,” will constitute separate series of securities under the indenture referred to below and will be issued only in fully registered form in minimum denominations of $2,000 and integral multiples of $1,000 in excess thereof. The notes will mature on the dates set forth below. The accompanying prospectus describes additional provisions of the notes and of the indenture, dated as of April 29, 2013 (the “indenture”), between us and The Bank of New York Mellon Trust Company, N.A., as trustee, under which we will issue the notes. There is no limit on the aggregate principal amount of notes that we may issue under the indenture. We reserve the right, from time to time and without the consent of any holders of the notes, to re-open each series of notes on terms identical in all respects to the outstanding notes of such series (except for the date of issuance, the date interest begins to accrue and, in certain circumstances, the first interest payment date), so that such additional notes will be consolidated with, form a single series with and increase the aggregate principal amount of the notes of such series; provided that the additional notes will have a separate CUSIP number unless: (i) the additional notes are issued within thirteen days of the issuance of the outstanding notes of the original series, (ii) the additional notes are issued pursuant to a “qualified reopening” of the outstanding notes of the original series for U.S. federal income tax purposes or (iii) the additional notes are, and the outstanding notes of the original series were, issued without original issue discount for U.S. federal income tax purposes. Such additional notes will have the same terms as to ranking, redemption, waivers, amendments or otherwise, as the applicable series of notes, and will vote together as one class on all matters with respect to such series of notes.
+Fixed Rate Notes
+The     % Notes due 2018 (the “2018 Fixed Rate Notes”) will mature on                 , 2018, the     % Notes due 2019 (the “2019 Fixed Rate Notes”) will mature on                 , 2019, the     % Notes due 2021 (the “2021 Fixed Rate Notes”) will mature on                 , 2021, the     % Notes due 2023 (the “2023 Fixed Rate Notes”) will mature on                 , 2023, the     % Notes due 2026 (the “2026 Fixed Rate Notes”) will mature on                 , 2026, the     % Notes due 2036 (the “2036 Fixed Rate Notes”) will mature on                 , 2036, and the     % Notes due 2046 (the “2046 Fixed Rate Notes” and, together with the 2018 Fixed Rate Notes, the 2019 Fixed Rate Notes, the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes and the 2036 Fixed Rate Notes, the “fixed rate notes”) will mature on                 , 2046. The 2018 Fixed Rate Notes will bear interest at     % per annum, the 2019 Fixed Rate Notes will bear interest at     % per annum, the 2021 Fixed Rate Notes will bear interest at     % per annum, the 2023 Fixed Rate Notes will bear interest at     % per annum, the 2026 Fixed Rate Notes will bear interest at     % per annum, the 2036 Fixed Rate Notes will bear interest at     % per annum and the 2046 Fixed Rate Notes will bear interest at     % per annum. We will pay interest on the fixed rate notes semi-annually in arrears on                  and                  of each year, beginning on                 , 2016, and on
+ 
+S-15
+Table of Contents
+
+the applicable maturity date for each of the series of fixed rate notes, to the record holders at the close of business on the preceding                  or                  (whether or not such record date is a business day). Interest will be computed on the basis of a 360-day year consisting of twelve 30-day months.
+Floating Rate Notes
+The Floating Rate Notes due 2018 (the “2018 Floating Rate Notes”) will mature on                 , 2018, and the Floating Rate Notes due 2019 (the “2019 Floating Rate Notes” and, together with the 2018 Floating Rate Notes, the “floating rate notes”) will mature on                 , 2019. We will pay interest on the floating rate notes quarterly in arrears on                 ,                 ,                  and                  of each year, beginning on                 , 2016, and on the applicable maturity date for each of the series of floating rate notes, to the record holders at the close of business on the business day preceding the interest payment date.
+The floating rate notes will bear interest for each interest period at a rate calculated by the trustee (or its successor). The interest rate on the floating rate notes for a particular interest period will be a rate equal to three-month LIBOR on the interest determination date plus     %, in the case of the 2018 Floating Rate Notes, and plus     %, in the case of the 2019 Floating Rate Notes. The interest determination date for an interest period will be the second London business day preceding the first day of such interest period. Promptly upon calculation, the trustee will inform us of the interest rate for the next interest period. The interest rate for the initial interest period will be the three month LIBOR plus     %, in the case of the 2018 Floating Rate Notes, and plus     %, in the case of the 2019 Floating Rate Notes, determined on the second London business day immediately preceding the scheduled closing date. Interest will be computed on the basis of a 360-day year and the actual number of days that have elapsed in the applicable interest period.
+On any interest determination date, LIBOR will be equal to the offered rate for deposits in U.S. dollars having an index maturity of three months, as such rate appears on the Reuters Page LIBOR 01 (or on such other page as may replace Reuters Page LIBOR 01 on that service, or such other service or services as may be nominated for the purpose of displaying London interbank offered rates for U.S. dollar deposits by ICE Benchmark Administration Limited (“IBA”) or its successor or such other entity assuming the responsibility of IBA or its successor in calculating LIBOR in the event IBA or its successor no longer does so), as of approximately 11:00 a.m., London time, on such interest determination date.
+If three-month LIBOR does not appear on either of the pages described above, the three-month LIBOR, in respect of such interest determination date, will be determined as follows: the trustee will request the principal London offices of each of four major reference banks in the London interbank market, as selected by us (after consultation with the trustee), to provide the trustee with its offered quotation for deposits in U.S. dollars for the period of three months commencing on the applicable interest reset date to prime banks in the London interbank market at approximately 11:00 a.m., London time, on that interest determination date and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time. If at least two quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of such quotations. If fewer than two such quotations are provided, then the three-month LIBOR on such interest determination date will be the arithmetic mean of the rates quoted at approximately 11:00 a.m., New York City time, on such interest determination date by three major reference banks in New York City selected by us (after consultation with the trustee) for loans in U.S. dollars to leading European banks, having an index maturity of three months and in a principal amount of not less than $1,000,000 for a single transaction in U.S. dollars in such market at such time; provided, however, that if the banks selected by us (after consultation with the trustee) are not providing quotations in the manner described by this sentence, the three-month LIBOR determined as of such interest determination date will be the three-month LIBOR in effect prior to such interest determination date.
+All percentages resulting from any calculation of any interest rate for the floating rate notes will be rounded, if necessary, to the nearest one hundred thousandth of a percentage point, with five one-millionths of a
+ 
+S-16
+Table of Contents
+
+percentage point rounded upward (e.g., 3.876545% (or .03876545) would be rounded to 3.87655% (or .0387655)), and all U.S. dollar amounts will be rounded to the nearest cent, with one-half cent being rounded upward. Each calculation of the interest rate on the floating rate notes by the trustee will (in the absence of manifest error) be final and binding on the holders of the floating rate notes and us.
+Upon written request from any holder of floating rate notes, the trustee will provide the interest rate in effect on such floating rate notes for the current interest period and, if it has been determined, the interest rate to be in effect for the next interest period.
+The interest rate on the floating rate notes will in no event be higher than the maximum rate permitted by New York law as the same may be modified by United States law of general application.
+Ranking
+The notes will be our unsecured senior indebtedness and will rank equally with each other and with all of our other unsecured and unsubordinated indebtedness from time to time outstanding. However, the notes will be structurally subordinated to any indebtedness and preferred stock, if any, of our subsidiaries and will be effectively subordinated to any secured indebtedness to the extent of the value of the assets securing such indebtedness. Claims of the creditors of our subsidiaries will generally have priority with respect to the assets and earnings of such subsidiaries over the claims of our creditors, including holders of the notes. Accordingly, the notes will be effectively subordinated to creditors, including trade creditors and preferred stockholders, if any, of our subsidiaries. The indenture does not restrict the ability of our subsidiaries to incur indebtedness.
+Optional Redemption
+We do not have the right to redeem the floating rate notes prior to maturity.
+Prior to its maturity date, in the case of the 2018 Fixed Rate Notes and the 2019 Fixed Rate Notes, or its applicable Par Call Date, in the case of the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, we may redeem such series of fixed rate notes at our option, at any time in whole or from time to time in part, at a redemption price equal to the greater of:
+ 
+ 	•	 	
+100% of the principal amount of the notes to be redeemed; or
+
+ 
+ 	•	 	
+the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (assuming, in the case of the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, that such notes matured on their applicable Par Call Date), exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at a rate equal to the sum of the applicable Treasury Rate (as defined below) plus          basis points in the case of the 2018 Fixed Rate Notes, plus          basis points in the case of the 2019 Fixed Rate Notes, plus          basis points in the case of the 2021 Fixed Rate Notes, plus          basis points in the case of the 2023 Fixed Rate Notes, plus          basis points in the case of the 2026 Fixed Rate Notes, plus          basis points in the case of the 2036 Fixed Rate Notes and plus          basis points in the case of the 2046 Fixed Rate Notes.
+
+On or after its applicable Par Call Date, we may redeem the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes at our option, at any time in whole or from time to time in part, at a redemption price equal to 100% of the principal amount of the notes being redeemed.
+In each case, we will also pay the accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
+ 
+S-17
+Table of Contents
+
+“Comparable Treasury Issue” means the United States Treasury security selected by an Independent Investment Banker as having a maturity comparable to the remaining term (“Remaining Life”) of the notes to be redeemed (assuming, in the case of the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, that such notes matured on their applicable Par Call Date) that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such notes (assuming, in the case of the 2021 Fixed Rate Notes, the 2023 Fixed Rate Notes, the 2026 Fixed Rate Notes, the 2036 Fixed Rate Notes and the 2046 Fixed Rate Notes, that such notes matured on their applicable Par Call Date).
+“Comparable Treasury Price” means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Independent Investment Banker” means one of the Reference Treasury Dealers that we appoint to act as the Independent Investment Banker from time to time.
+“Par Call Date” means (i) with respect to the 2021 Fixed Rate Notes,                    , 2021 (one month prior to the maturity date of such notes), (ii) with respect to the 2023 Fixed Rate Notes,                    , 2022 (two months prior to the maturity date of such notes), (iii) with respect to the 2026 Fixed Rate Notes,                      , 2025 (three months prior to the maturity date of such notes), (iv) with respect to the 2036 Fixed Rate Notes,                     , 2035 (six months prior to the maturity date of such notes) and (v) with respect to the 2046 Fixed Rate Notes,                    , 2045 (six months prior to the maturity date of such notes).
+“Reference Treasury Dealer” means (1) each of Goldman, Sachs & Co., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC, Merrill Lynch, Pierce, Fenner & Smith Incorporated and their respective successors, unless any of them ceases to be a primary U.S. Government securities dealer in New York City (a “Primary Treasury Dealer”), in which case we will substitute another Primary Treasury Dealer and (2) any other Primary Treasury Dealer(s) we select.
+“Reference Treasury Dealer Quotations” means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the applicable Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker by such Reference Treasury Dealer at 5:00 p.m., New York City time, on the third business day preceding such redemption date.
+“Treasury Rate” means, with respect to any redemption date, the rate per year equal to: (1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated “H.15(519)” or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption “Treasury Constant Maturities,” for the maturity corresponding to the applicable Comparable Treasury Issue; provided that, if no maturity is within three months before or after the Remaining Life of the notes to be redeemed, yields for the two published maturities most closely corresponding to the applicable Comparable Treasury Issue will be determined and the Treasury Rate will be interpolated or extrapolated from those yields on a straight line basis, rounding to the nearest month; or (2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per year equal to the semiannual equivalent yield to maturity of the applicable Comparable Treasury Issue, calculated using a price for the applicable Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the related Comparable Treasury Price for such redemption date. The Treasury Rate will be calculated by us on the third business day preceding the redemption date. As used in the immediately preceding sentence and in the definition of “Reference Treasury Dealer
+ 
+S-18
+Table of Contents
+
+Quotations” above, the term “business day” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or obligated by law or executive order to close.
+Notice of redemption will be mailed or electronically delivered at least 30 but not more than 60 days before the redemption date to each holder of record of the notes to be redeemed at its registered address. The notice of redemption for the notes will state, among other things, the amount of notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payment will be made upon presentation and surrender of notes to be redeemed. Unless we default in the payment of the redemption price, interest will cease to accrue on any notes that have been called for redemption at the redemption date. If less than all of the notes of a series are to be redeemed, the notes of such series to be redeemed will be selected according to DTC procedures, in the case of notes represented by a global note, or by lot, in the case of notes that are not represented by a global note.
+Open Market Purchases
+The Company may acquire the fixed rate notes or the floating rate notes by means other than a redemption, whether by tender offer, open market purchases, negotiated transactions or otherwise, in accordance with applicable securities laws, so long as such acquisition does not otherwise violate the terms of the indenture.
+Defeasance
+The provisions of the indenture relating to defeasance, which are described under the caption “Description of the Debt Securities—Discharge, Defeasance and Covenant Defeasance” in the accompanying prospectus, will apply to the notes.
+Global Clearance and Settlement Procedures
+Initial settlement for the notes will be made in immediately available funds. Secondary market trading between DTC participants will occur in the ordinary way in accordance with DTC rules and will be settled in immediately available funds using DTC’s Same Day Funds Settlement System. Secondary market trading between Clearstream participants and/or Euroclear participants will occur in the ordinary way in accordance with the applicable rules and operating procedures of Clearstream and Euroclear and will be settled using the procedures applicable to conventional eurobonds in immediately available funds.
+Cross market transfers between persons holding directly or indirectly through DTC, on the one hand, and directly or indirectly through Clearstream participants or Euroclear participants, on the other, will be effected through DTC in accordance with DTC rules on behalf of the relevant European international clearing system by its U.S. depositary; however, such cross market transactions will require delivery of instructions to the relevant European international clearing system by the counterparty in such system in accordance with its rules and procedures and within its established deadlines (European time). The relevant European international clearing system will, if the transaction meets its settlement requirements, deliver instructions to its U.S. depositary to take action to effect final settlement on its behalf by delivering or receiving notes through DTC, and making or receiving payment in accordance with normal procedures for same day funds settlement applicable to DTC. Clearstream participants and Euroclear participants may not deliver instructions directly to their respective U.S. depositaries.
+Because of time zone differences, credits of notes received through Clearstream or Euroclear as a result of a transaction with a DTC participant will be made during subsequent securities settlement processing and dated the business day following the DTC settlement date. Such credits or any transactions in such notes settled during such processing will be reported to the relevant Euroclear participants or Clearstream participants on such business day. Cash received in Clearstream or Euroclear as a result of sales of notes by or through a Clearstream participant or a Euroclear participant to a DTC participant will be received with value on the DTC settlement date but will be available in the relevant Clearstream or Euroclear cash account only as of the business day following settlement in DTC.
+ 
+S-19
+Table of Contents
+
+Although DTC, Clearstream and Euroclear have agreed to the foregoing procedures in order to facilitate transfers of notes among participants of DTC, Clearstream and Euroclear, they are under no obligation to perform or continue to perform such procedures and such procedures may be modified or discontinued at any time. We will not have any responsibility for the performance by DTC, Euroclear or Clearstream or their respective direct or indirect participants of their obligations under the rules and procedures governing their operations.
+ 
+S-20
+Table of Contents
+
+CERTAIN U.S. FEDERAL INCOME TAX CONSIDERATIONS
+The following is a summary of certain U.S. federal income tax considerations of the ownership and disposition of the notes. This summary is based upon provisions of the Internal Revenue Code of 1986, as amended, or the “Code,” applicable regulations, administrative rulings and judicial decisions in effect as of the date of this prospectus supplement, any of which may subsequently be changed, possibly retroactively, or interpreted differently by the Internal Revenue Service, or the “IRS,” so as to result in U.S. federal income tax consequences different from those discussed below. Except where noted, this summary deals only with a note held as a capital asset by a beneficial owner who purchases the note on original issuance at the first price, which we refer to as the “issue price,” at which a substantial portion of the notes is sold for cash to persons other than bond houses, brokers, or similar persons or organizations acting in the capacity of underwriters, placement agents or wholesalers. This summary does not address all aspects of U.S. federal income taxes and does not deal with all tax consequences that may be relevant to holders in light of their personal circumstances or particular situations, such as:
+ 
+ 	•	 	
+tax consequences to dealers in securities or currencies, financial institutions, regulated investment companies, real estate investment trusts, tax-exempt entities, insurance companies and traders in securities that elect to use a mark-to-market method of tax accounting for their securities;
+
+ 
+ 	•	 	
+tax consequences to persons holding notes as a part of a hedging, integrated, conversion or constructive sale transaction or a straddle;
+
+ 
+ 	•	 	
+tax consequences to U.S. holders, as defined below, whose “functional currency” is not the U.S. dollar;
+
+ 
+ 	•	 	
+tax consequences to entities treated as partnerships for U.S. federal income tax purposes and investors therein;
+
+ 
+ 	•	 	
+tax consequences to certain former citizens or residents of the United States;
+
+ 
+ 	•	 	
+alternative minimum tax consequences, if any;
+
+ 
+ 	•	 	
+any state, local or foreign tax consequences; and
+
+ 
+ 	•	 	
+estate or gift taxes.
+
+If an entity that is treated as a partnership for U.S. federal income tax purposes holds notes, the tax treatment of a partner or member generally will depend upon the status of the partner or member and the activities of the entity. If you are a partner or member in such an entity, you should consult your tax advisors.
+If you are considering the purchase of notes, you should consult your tax advisors concerning the U.S. federal income tax consequences to you in light of your own specific situation, as well as consequences arising under the U.S. federal estate or gift tax laws or under the laws of any other taxing jurisdiction.
+In this discussion, we use the term “U.S. holder” to refer to a beneficial owner of notes that is, for U.S. federal income tax purposes:
+ 
+ 	•	 	
+an individual citizen or resident of the United States;
+
+ 
+ 	•	 	
+a corporation (or any other entity treated as a corporation for U.S. federal income tax purposes) created or organized in or under the laws of the United States, any state thereof or the District of Columbia;
+
+ 
+ 	•	 	
+an estate the income of which is subject to U.S. federal income taxation regardless of its source; or
+
+ 
+ 	•	 	
+a trust, if it (1) is subject to the primary supervision of a court within the United States and one or more U.S. persons have the authority to control all substantial decisions of the trust, or (2) has a valid election in effect under applicable U.S. Treasury regulations to be treated as a U.S. person.
+
+We use the term “non-U.S. holder” to describe a beneficial owner of notes that is neither a U.S. holder nor a partnership or other entity that is treated as a partnership for U.S. federal income tax purposes.
+ 
+S-21
+Table of Contents
+
+YOU SHOULD CONSULT WITH YOUR TAX ADVISOR REGARDING THE FEDERAL, STATE, LOCAL AND FOREIGN INCOME, FRANCHISE, PERSONAL PROPERTY AND ANY OTHER TAX CONSEQUENCES OF THE OWNERSHIP AND DISPOSITION OF THE NOTES.
+Taxation of U.S. Holders
+Interest Income
+It is anticipated, and this discussion assumes, that the notes will be issued with no more than a de minimis amount (as set forth in the applicable Treasury Regulations) of original issue discount. In such case, interest paid on the notes generally will be taxable to a U.S. holder as ordinary interest income at the time such payments are accrued or received (in accordance with the holder’s regular method of tax accounting). If, however, the notes are issued for an amount less than the principal amount and the difference is more than a de minimis amount, a U.S. holder will be required to include the difference in income as original issue discount as it accrues in accordance with a constant-yield method, based on compounding of interest before the receipt of cash attributable to this income. A U.S. holder generally must include any amount of de minimis original issue discount in income at the time principal payments on the notes are made in proportion to the amount paid. Any amount of de minimis original issue discount that a U.S. holder has included in income will be treated as capital gain.
+Sale, Exchange, Redemption, Repurchase of the Notes
+A U.S. holder will generally recognize gain or loss equal to the difference between the amount realized on the sale, exchange, redemption, repurchase by us or other disposition of a note (except to the extent the amount realized is attributable to accrued interest not previously included in income, which will be taxable as ordinary interest income) and the holder’s adjusted tax basis in such note. A holder’s adjusted tax basis in the note generally will be the initial purchase price for such note. Any gain or loss recognized on a taxable disposition of the note will be capital gain or loss. If, at the time of the sale, exchange, redemption, repurchase or other taxable disposition of the note, a U.S. holder is treated as holding the note for more than one year, such capital gain or loss will be a long-term capital gain or loss. Otherwise, such capital gain or loss will be a short-term capital gain or loss. In the case of certain non-corporate U.S. holders (including individuals), long-term capital gains are generally eligible for reduced rates of U.S. federal income taxation. A U.S. holder’s ability to deduct capital losses may be limited.
+Medicare Tax on Unearned Income
+Certain U.S. holders that are individuals, estates or trusts are subject to an additional 3.8% Medicare tax on “net investment income,” which includes, among other things, interest on and gains from the sale or other disposition of notes. U.S. holders should consult their tax advisors regarding the 3.8% Medicare tax.
+Information Reporting and Backup Withholding
+Information reporting requirements generally will apply to interest on the notes and the proceeds of a sale of a note paid to a U.S. holder unless the U.S. holder is an exempt recipient (such as a corporation). Backup withholding will apply to those payments if the U.S. holder fails to provide its correct taxpayer identification number, or certification of exempt status, or if the U.S. holder is notified by the IRS that it has failed to report in full payments of interest and dividend income. Any amounts withheld under the backup withholding rules will be allowed as a refund or a credit against a U.S. holder’s U.S. federal income tax liability provided the required information is furnished timely to the IRS.
+ 
+S-22
+Table of Contents
+
+Taxation of Non-U.S. Holders
+Payments of Interest
+Subject to the discussion of backup withholding and FATCA below, U.S. federal withholding tax will not be applied to any payment of interest on a note to a non-U.S. holder provided that:
+ 
+ 	•	 	
+interest paid on the note is not effectively connected with the non-U.S. holder’s conduct of a trade or business in the United States;
+
+ 
+ 	•	 	
+the non-U.S. holder does not actually or constructively own 10% or more of the total combined voting power of all classes of our stock that are entitled to vote within the meaning of section 871(h)(3) of the Code;
+
+ 
+ 	•	 	
+the non-U.S. holder is not a controlled foreign corporation that is related to us (actually or constructively) through stock ownership; and
+
+ 
+ 	•	 	
+the non-U.S. holder provides its name and address, and certifies, under penalties of perjury, that it is not a U.S. person (which certification may be made on the applicable IRS Form W-8) or (2) the non-U.S. holder holds the notes through certain foreign intermediaries or certain foreign partnerships, and the non-U.S. holder and the foreign intermediary or foreign partnership satisfy the certification requirements of applicable Treasury Regulations.
+
+If a non-U.S. holder cannot satisfy the requirements described above, payments of interest made to the holder will be subject to the 30% U.S. federal withholding tax, unless the non-U.S. holder provides us with a properly executed (1) applicable IRS Form W-8-BEN or W-8BEN-E, as applicable, claiming an exemption from or reduction in withholding under the benefit of an applicable income tax treaty or (2) IRS Form W-8ECI (or other applicable form) stating that interest paid on the notes is not subject to U.S. federal withholding tax because it is effectively connected with the non-U.S. holder’s conduct of a trade or business in the United States. If a non-U.S. holder is engaged in a trade or business in the United States and interest on the notes is effectively connected with the conduct of that trade or business and, if required by an applicable income tax treaty, is attributable to a U.S. permanent establishment, then, although the non-U.S. holder will be exempt from the 30% withholding tax provided the certification requirements discussed above are satisfied, the non-U.S. holder will be subject to U.S. federal income tax on that interest on a net income basis in the same manner as if the non-U.S. holder were a U.S. holder. In addition, if a non-U.S. holder is a foreign corporation, it may be subject to a branch profits tax equal to 30% (or lower rate under an applicable income tax treaty).
+Sales, Redemptions or Other Taxable Dispositions of Notes
+Gain recognized by a non-U.S. holder on the sale, redemption or other taxable disposition of a note will not be subject to U.S. federal income tax unless:
+ 
+ 	•	 	
+that gain is effectively connected with a non-U.S. holder’s conduct of a trade or business in the United States (and, if required by an applicable income treaty, is attributable to a U.S. permanent establishment); or
+
+ 
+ 	•	 	
+the non-U.S. holder is an individual who is present in the United States for 183 days or more in the taxable year of that disposition and certain other conditions are met.
+
+If a non-U.S. holder is an individual or foreign corporation described in the first bullet point above, it will be subject to tax on the net gain derived from the sale, redemption or other taxable disposition under regular graduated U.S. federal income tax rates and in the same manner as if the non-U.S. holder were a U.S. holder. In addition, if a non-U.S. holder is a foreign corporation that falls under the first bullet point above, it may be subject to the branch profits tax equal to 30% (or lesser rate as may be specified under an applicable income tax treaty). If a non-U.S. holder is eligible for the benefits of a tax treaty between the United States and its country of residence, any such gain will be subject to U.S. federal income tax in the manner specified by the treaty and generally will only be subject to such tax if such gain is attributable to a permanent establishment maintained by the non-U.S. holder in the United States.
+ 
+S-23
+Table of Contents
+
+If a non-U.S. holder is an individual described in the second bullet point above, such holder will be subject to a flat 30% tax on the gain derived from the sale, redemption or other taxable disposition, which may be offset by U.S. source capital losses, even though such holder is not considered a resident of the United States.
+Information Reporting and Backup Withholding
+Generally, the amount of interest paid to non-U.S. holders and the amount of tax, if any, withheld with respect to those payments must be reported annually to the IRS and to non-U.S. holders. Copies of the information returns reporting such interest and withholding may also be made available to the tax authorities in the country in which a non-U.S. holder resides under the provisions of an applicable income tax treaty.
+In general, a non-U.S. holder will not be subject to backup withholding with respect to payments of interest that we make, provided the statement described above in the last bullet point under “—Payments of Interest” has been provided and the applicable withholding agent does not have actual knowledge or reason to know that the holder is a U.S. person, as defined under the Code, that is not an exempt recipient. In addition, a non-U.S. holder will be subject to information reporting and, depending on the circumstances, backup withholding with respect to payments of the proceeds of the sale of a note within the United States or conducted through certain U.S.-related financial intermediaries, unless the statement described above has been received, and the payor does not have actual knowledge or reason to know that a holder is a U.S. person, as defined under the Code, that is not an exempt recipient, or the non-U.S. holder otherwise establishes an exemption. Any amounts withheld under the backup withholding rules will be allowed as a refund or a credit against a non-U.S. holder’s U.S. federal income tax liability provided the required information is furnished timely to the IRS.
+Foreign Account Tax Compliance Act (FATCA)
+A 30% U.S. federal withholding tax may apply to interest income paid on notes, and the gross proceeds from a disposition of notes occurring after December 31, 2018, in each case paid to (i) a “foreign financial institution” (as specifically defined in the Code), whether such foreign financial institution is the beneficial owner or an intermediary, unless such foreign financial institution agrees to verify, report and disclose its “United States account” holders (as specifically defined in the Code) and meets certain other specified requirements or (ii) a “non-financial foreign entity” (as specifically defined in the Code), whether such non-financial foreign entity is the beneficial owner or an intermediary, unless such entity provides a certification that the beneficial owner of the payment does not have any substantial U.S. owners or provides the name, address and taxpayer identification number of each substantial U.S. owner and certain other specified requirements are met. In certain cases, the relevant foreign financial institution or non-financial foreign entity may qualify for an exemption from, or be deemed to be in compliance with, these rules. If an interest payment is subject both to withholding under FATCA and to the withholding tax discussed above under “—Taxation of Non-U.S. Holders—Payments of Interest,” the withholding under FATCA may be credited against, and therefore reduce, such other withholding tax. Holders should consult their own tax advisors regarding these rules and whether they may be relevant to their ownership and disposition of notes.
+ 
+S-24
+Table of Contents
+
+UNDERWRITING
+We and the underwriters for the offering named below have entered into an underwriting agreement with respect to the notes. Subject to certain conditions, each underwriter has severally agreed to purchase from us the principal amount of notes indicated in the following table.
+ 
+Underwriters
+
+ 	Principal
+Amount  of
+2018
+Floating
+Rate Notes	 	 	Principal
+Amount  of
+2019
+Floating
+Rate Notes	 	 	Principal
+Amount of
+2018 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2019 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2021 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2023 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2026 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2036 Fixed
+Rate Notes	 	 	Principal
+Amount of
+2046 Fixed
+Rate Notes	 
+Goldman, Sachs & Co.
+
+ 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  	 	$	            	  
+Deutsche Bank Securities Inc.
+
+ 				 				 				 				 				 				 				 				 			
+J.P. Morgan Securities LLC
+
+ 				 				 				 				 				 				 				 				 			
+Merrill Lynch, Pierce, Fenner & Smith
+                      Incorporated
+ 				 				 				 				 				 				 				 				 			
+ 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+Total
+
+ 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  	 	$	 	  
+ 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 	 	
+ 
+
+ 
+
+ 
+The underwriters are committed to take and pay for all of the notes being offered, if any are taken.
+The underwriters initially propose to offer part of the notes of each series directly to the public at the offering prices described on the cover page of this prospectus supplement. In addition, the underwriters initially propose to offer part of the 2018 Floating Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2018 Floating Rate Notes, part of the 2019 Floating Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2019 Floating Rate Notes, part of the 2018 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2018 Fixed Rate Notes, part of the 2019 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2019 Fixed Rate Notes, part of the 2021 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2021 Fixed Rate Notes, part of the 2023 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2023 Fixed Rate Notes, part of the 2026 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2026 Fixed Rate Notes, part of the 2036 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2036 Fixed Rate Notes and part of the 2046 Fixed Rate Notes to securities dealers at a discount from the initial public offering price of up to     % of the principal amount of the 2046 Fixed Rate Notes. Any such securities dealers may resell at a discount of     % of the principal amount of the 2018 Floating Rate Notes,     % of the principal amount of the 2019 Floating Rate Notes,     % of the principal amount of the 2018 Fixed Rate Notes,     % of the principal amount of the 2019 Fixed Rate Notes,     % of the principal amount of the 2021 Fixed Rate Notes,     % of the principal amount of the 2023 Fixed Rate Notes,     % of the principal amount of the 2026 Fixed Rate Notes,     % of the principal amount of the 2036 Fixed Rate Notes and     % of the principal amount of the 2046 Fixed Rate Notes to certain other brokers or dealers. If all the notes are not sold at the initial offering price, the underwriters may change the offering price and the other selling terms. The offering of the notes by the underwriters is subject to receipt and acceptance and subject to the underwriters’ right to reject any order in whole or in part.
+ 
+S-25
+Table of Contents
+
+The following table shows the underwriting discounts that we will pay to the underwriters in connection with this offering:
+ 
+ 	  	Paid By Us	 
+Per 2018 Floating Rate Note
+
+  	 	    	% 
+Per 2019 Floating Rate Note
+
+  	 	    	% 
+Per 2018 Fixed Rate Note
+
+  	 	    	% 
+Per 2019 Fixed Rate Note
+
+  	 	    	% 
+Per 2021 Fixed Rate Note
+
+  	 	    	% 
+Per 2023 Fixed Rate Note
+
+  	 	    	% 
+Per 2026 Fixed Rate Note
+
+  	 	    	% 
+Per 2036 Fixed Rate Note
+
+  	 	    	% 
+Per 2046 Fixed Rate Note
+
+  	 	    	% 
+  	
+ 
+
+ 
+
+ 
+Total
+
+  	$	            	  
+  	
+ 
+
+ 
+
+ 
+Each series of the notes is a new issue of securities with no established trading market. We do not intend to apply for listing of any series of the notes on any securities exchange. The underwriters have advised us that they currently intend to make a market in each series of the notes. However, the underwriters are not obligated to do so, and any market-making with respect to the notes may be discontinued, in their sole discretion, at any time without notice. No assurance can be given as to the liquidity of the trading markets for the notes.
+In connection with the offering, the underwriters may purchase and sell notes in the open market. These transactions may include short sales, stabilizing transactions and purchases to cover positions created by short sales. Short sales involve the sale by the underwriters of a greater number of notes than they are required to purchase in the offering. Stabilizing transactions consist of certain bids or purchases made for the purpose of preventing or retarding a decline in the market price of the notes while the offering is in progress.
+The underwriters also may impose a penalty bid. This occurs when a particular underwriter repays to the underwriters a portion of the underwriting discount received by it because the representatives have repurchased notes sold by or for the account of such underwriter in stabilizing or short covering transactions.
+These activities by the underwriters, as well as other purchases by the underwriters for their own accounts, may stabilize, maintain or otherwise affect the market price of the notes. As a result, the price of the notes may be higher than the price that otherwise might exist in the open market. The underwriters are not required to engage in these activities, but if these activities are commenced, they may be discontinued by the underwriters at any time. These transactions may be effected in the over-the-counter market or otherwise.
+We expect to deliver the notes against payment for the notes on or about the date specified in the last paragraph of the cover page of this prospectus supplement, which will be the fifth business day following the date of the pricing of the notes (“T+5”). Under Rule 15c6-1 of the Exchange Act, trades in the secondary market generally are required to settle in three business days, unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the third business day before the settlement date will be required, by virtue of the fact that the notes initially will settle in T+5, to specify alternative settlement arrangements to prevent a failed settlement.
+Sales Outside the United States
+The notes may be offered and sold in the United States and certain jurisdictions outside the United States in which such offer and sale is permitted.
+ 
+S-26
+Table of Contents
+
+Canada
+The notes may be sold in Canada only to purchasers purchasing, or deemed to be purchasing, as principal that are accredited investors, as defined in National Instrument 45-106 Prospectus Exemptions or subsection 73.3(1) of the Securities Act (Ontario), and are permitted clients, as defined in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations. Any resale of the notes must be made in accordance with an exemption from, or in a transaction not subject to, the prospectus requirements of applicable securities laws.
+Securities legislation in certain provinces or territories of Canada may provide a purchaser with remedies for rescission or damages if this prospectus (including any amendment thereto) contains a misrepresentation, provided that the remedies for rescission or damages are exercised by the purchaser within the time limit prescribed by the securities legislation of the purchaser’s province or territory. The purchaser should refer to any applicable provisions of the securities legislation of the purchaser’s province or territory for particulars of these rights or consult with a legal advisor.
+Pursuant to section 3A.3 of National Instrument 33-105 Underwriting Conflicts (NI 33-105), the underwriters are not required to comply with the disclosure requirements of NI 33-105 regarding underwriter conflicts of interest in connection with this offering.
+European Economic Area
+In relation to each Member State of the European Economic Area which has implemented the Prospectus Directive (each, a “Relevant Member State”), with effect from and including the date on which the Prospectus Directive is implemented in that Relevant Member State no offer of notes which are the subject of the offering contemplated by this prospectus may be made to the public in that Relevant Member State other than:
+ 
+ 	(a)	to any legal entity which is a “qualified investor” as defined in the Prospectus Directive;
+ 
+ 	(b)	to fewer than 150 natural or legal persons (other than “qualified investors” as defined in the Prospectus Directive), subject to obtaining the prior consent of the relevant underwriter or underwriters nominated by the issuer for any such offer; or
+ 
+ 	(c)	in any other circumstances falling within Article 3(2) of the Prospectus Directive,
+provided that no such offer of notes shall result in a requirement for the issuer or any underwriter to publish a prospectus pursuant to Article 3 of the Prospectus Directive or a supplemental prospectus pursuant to Article 16 of the Prospectus Directive.
+For the purposes of this provision, the expression an “offer of notes to the public” in relation to any notes in any Relevant Member State means the communication in any form and by any means of sufficient information on the terms of the offer and the notes to be offered so as to enable an investor to decide to purchase or subscribe for the notes, as the same may be varied in that Relevant Member State by any measure implementing the Prospectus Directive in that Relevant Member State. The expression “Prospectus Directive” means Directive 2003/71/EC (as amended, including by Directive 2010/73/EU), and includes any relevant implementing measure in the Relevant Member State.
+United Kingdom
+In the United Kingdom, this prospectus is being distributed only to, and is directed only at, persons who are “qualified investors” (as defined in the Prospectus Directive) who are (i) persons having professional experience in matters relating to investments falling within Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the “Order”), or (ii) high net worth entities falling within Article 49(2)(a) to (d) of the Order, or (iii) persons to whom it would otherwise be lawful to distribute it, all such persons together
+ 
+S-27
+Table of Contents
+
+being referred to as “Relevant Persons”. The notes are only available to, and any invitation, offer or agreement to subscribe, purchase or otherwise acquire such notes will be engaged in only with, Relevant Persons. This prospectus and its contents are confidential and should not be distributed, published or reproduced (in whole or in part) or disclosed by any recipients to any other person in the United Kingdom. Any person in the United Kingdom that is not a Relevant Person should not act or rely on this prospectus or its contents. The notes are not being offered to the public in the United Kingdom.
+In addition, in the United Kingdom, the notes may not be offered other than by an underwriter that:
+ 
+ 	(a)	has only communicated or caused to be communicated and will only communicate or cause to be communicated an invitation or inducement to engage in investment activity (within the meaning of Section 21 of the Financial Services and Markets Act 2000 (the “FSMA”)) received by it in connection with the issue or sale of the notes in circumstances in which Section 21(1) of the FSMA would not apply to the issuer; and
+ 
+ 	(b)	has complied and will comply with all applicable provisions of the FSMA with respect to anything done by it in relation to the notes in, from or otherwise involving the United Kingdom.
+Hong Kong
+The notes may not be offered or sold by means of any document other than (i) in circumstances which do not constitute an offer to the public within the meaning of the Companies Ordinance (Cap.32, Laws of Hong Kong), or (ii) to “professional investors” within the meaning of the Securities and Futures Ordinance (Cap.571, Laws of Hong Kong) and any rules made thereunder, or (iii) in other circumstances which do not result in the document being a “prospectus” within the meaning of the Companies Ordinance (Cap.32, Laws of Hong Kong), and no advertisement, invitation or document relating to the notes may be issued or may be in the possession of any person for the purpose of issue (in each case whether in Hong Kong or elsewhere), which is directed at, or the contents of which are likely to be accessed or read by, the public in Hong Kong (except if permitted to do so under the laws of Hong Kong) other than with respect to notes which are or are intended to be disposed of only to persons outside Hong Kong or only to “professional investors” within the meaning of the Securities and Futures Ordinance (Cap. 571, Laws of Hong Kong) and any rules made thereunder.
+Japan
+The notes have not been and will not be registered under the Financial Instruments and Exchange Law of Japan (the Financial Instruments and Exchange Law) and each underwriter has agreed that it will not offer or sell any notes, directly or indirectly, in Japan or to, or for the benefit of, any resident of Japan (which term as used herein means any person resident in Japan, including any corporation or other entity organized under the laws of Japan), or to others for re-offering or resale, directly or indirectly, in Japan or to a resident of Japan, except pursuant to an exemption from the registration requirements of, and otherwise in compliance with, the Financial Instruments and Exchange Law and any other applicable laws, regulations and ministerial guidelines of Japan.
+Singapore
+This prospectus has not been registered as a prospectus with the Monetary Authority of Singapore. Accordingly, this prospectus and any other document or material in connection with the offer or sale, or invitation for subscription or purchase, of the notes may not be circulated or distributed, nor may the notes be offered or sold, or be made the subject of an invitation for subscription or purchase, whether directly or indirectly, to persons in Singapore other than (i) to an institutional investor under Section 274 of the Securities and Futures Act, Chapter 289 of Singapore (the “SFA”), (ii) to a relevant person, or any person pursuant to Section 275(1A), and in accordance with the conditions, specified in Section 275 of the SFA or (iii) otherwise pursuant to, and in accordance with the conditions of, any other applicable provision of the SFA. Where the notes are subscribed or purchased under Section 275 by a relevant person which is: (a) a corporation (which is not an
+ 
+S-28
+Table of Contents
+
+accredited investor) the sole business of which is to hold investments and the entire share capital of which is owned by one or more individuals, each of whom is an accredited investor; or (b) a trust (where the trustee is not an accredited investor) whose sole purpose is to hold investments and each beneficiary is an accredited investor, shares, debentures and units of shares and debentures of that corporation or the beneficiaries’ rights and interest in that trust shall not be transferable for 6 months after that corporation or that trust has acquired the notes under Section 275 except: (1) to an institutional investor under Section 274 of the SFA or to a relevant person, or any person pursuant to Section 275(1A), and in accordance with the conditions, specified in Section 275 of the SFA; (2) where no consideration is given for the transfer; or (3) by operation of law.
+We estimate that our share of the total expenses of the offering, excluding underwriting discounts and commissions, will be approximately $        .
+We have agreed to indemnify the several underwriters against certain liabilities, including liabilities under the Securities Act of 1933, as amended, or to contribute to payments which the underwriters may be required to make in respect of such liabilities.
+Other Relationships
+The underwriters and their respective affiliates are full service financial institutions engaged in various activities, which may include securities trading, commercial and investment banking, financial advisory, investment management, investment research, principal investment, hedging, financing and brokerage activities. Certain of the underwriters and their respective affiliates have provided, and may in the future provide, a variety of these services to the issuer and to persons and entities with relationships with the issuer, for which they received or will receive customary fees and expenses.
+In the ordinary course of their various business activities, the underwriters and their respective affiliates, officers, directors and employees may purchase, sell or hold a broad array of investments and actively trade securities, derivatives, loans, commodities, currencies, credit default swaps and other financial instruments for their own account and for the accounts of their customers, and such investment and trading activities may involve or relate to assets, securities and/or instruments of the issuer (directly, as collateral securing other obligations or otherwise) and/or persons and entities with relationships with the issuer. If any of the underwriters or their affiliates have a lending relationship with us, certain of those underwriters or their affiliates routinely hedge, and certain other of those underwriters may hedge, their credit exposure to us consistent with their customary risk management policies. Typically, these underwriters and their affiliates would hedge such exposure by entering into transactions which consist of either the purchase of credit default swaps or the creation of short positions in our securities, including potentially the notes offered hereby. The underwriters and their respective affiliates may also communicate independent investment recommendations, market color or trading ideas and/or publish or express independent research views in respect of such assets, securities or instruments and may at any time hold, or recommend to clients that they should acquire, long and/or short positions in such assets, securities and instruments.
+ 
+S-29
+Table of Contents
+
+LEGAL MATTERS
+The validity of the notes will be passed upon for us by O’Melveny & Myers LLP, New York, NY. Certain legal matters will be passed upon for the underwriters by Simpson Thacher & Bartlett LLP, Palo Alto, CA.
+EXPERTS
+Ernst & Young LLP, independent registered public accounting firm, has audited our consolidated financial statements included in our Annual Report on Form 10-K for the year ended September 26, 2015, and the effectiveness of our internal control over financial reporting as of September 26, 2015, as set forth in their reports, which are included in our Annual Report on Form 10-K for the year ended September 26, 2015 and incorporated by reference in this prospectus supplement. Our financial statements are incorporated by reference in reliance on Ernst & Young LLP’s report, given on their authority as experts in accounting and auditing.
+ 
+S-30
+Table of Contents
+
+PROSPECTUS
+ 
+LOGO
+Apple Inc.
+Debt Securities
+ 
+ 
+We may, from time to time, offer to sell debt securities in one or more offerings. This prospectus describes some of the general terms and conditions that may apply to these securities. We will provide the specific terms and conditions of these securities in prospectus supplements to this prospectus.
+We may offer and sell these debt securities to or through one or more underwriters, dealers and agents or directly to purchasers, on a continuous or delayed basis.
+ 
+ 
+Investing in our debt securities involves risks. You should consider the risk factors described in any accompanying prospectus supplement or any documents we incorporate by reference.
+Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved of these securities or passed upon the adequacy or accuracy of this prospectus. Any representation to the contrary is a criminal offense.
+ 
+ 
+This prospectus is dated April 29, 2013
+Table of Contents
+
+You should rely only on the information contained or incorporated by reference in this prospectus, in any accompanying prospectus supplement or in any free writing prospectus filed by us with the Securities and Exchange Commission, or the SEC. We have not authorized any other person to provide you with different information. If anyone provides you with different or inconsistent information, you should not rely on it. You should not assume that the information contained or incorporated by reference in this prospectus and any prospectus supplement or in any such free writing prospectus is accurate as of any date other than the respective dates thereof. Our business, financial condition, results of operations and prospects may have changed since those dates.
+We are not making an offer to sell these debt securities in any jurisdiction where the offer or sale is not permitted.
+TABLE OF CONTENTS
+ 
+ABOUT THIS PROSPECTUS
+
+  	 	ii	  
+WHERE YOU CAN FIND MORE INFORMATION
+
+  	 	iii	  
+INCORPORATION BY REFERENCE
+
+  	 	iv	  
+FORWARD-LOOKING STATEMENTS
+
+  	 	v	  
+APPLE INC.
+
+  	 	1	  
+RISK FACTORS
+
+  	 	2	  
+RATIO OF EARNINGS TO FIXED CHARGES
+
+  	 	3	  
+USE OF PROCEEDS
+
+  	 	4	  
+DESCRIPTION OF THE DEBT SECURITIES
+
+  	 	5	  
+PLAN OF DISTRIBUTION
+
+  	 	19	  
+VALIDITY OF THE SECURITIES
+
+  	 	21	  
+EXPERTS
+
+  	 	21	  
+ 
+i
+Table of Contents
+
+ABOUT THIS PROSPECTUS
+This prospectus is part of a registration statement that we filed with the SEC under the Securities Act of 1933, as amended, or the Securities Act, utilizing a “shelf” registration process. Under this shelf registration process, we may, at any time and from time to time, sell in one or more offerings any of our debt securities described in this prospectus.
+This prospectus provides you with a general description of the debt securities that we may offer. Each time we sell debt securities, we will provide a prospectus supplement that will contain specific information about the terms of that offering, including, but not limited to, the specific amounts, prices and terms of the securities offered. The prospectus supplement may also add, update or change information contained in this prospectus.
+You should carefully read both this prospectus and any prospectus supplement together with additional information described below under the heading “Where You Can Find More Information.”
+References in this prospectus to “Apple,” “we,” “us” and “our” and all similar references are to Apple Inc. and its consolidated subsidiaries, unless otherwise stated or the context otherwise requires. However, in the “Description of the Debt Securities” section of this prospectus, references to “we,” “us” and “our” are to Apple Inc. (parent company only) and not to any of its subsidiaries.
+ 
+ii
+Table of Contents
+
+WHERE YOU CAN FIND MORE INFORMATION
+We file annual, quarterly and current reports, proxy statements and other information with the SEC. The public may read and copy any materials filed with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Also, the SEC maintains an Internet web site that contains reports, proxy and information statements, and other information regarding issuers, including us, that file electronically with the SEC. The public can obtain any documents that we file electronically with the SEC at http://www.sec.gov.
+We also make available, free of charge, on or through our Internet web site (www.apple.com/investor) our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements on Schedule 14A and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Please note, however, that we have not incorporated any other information by reference from our Internet web site, other than the documents listed below under the heading “Incorporation by Reference.” In addition, you may request copies of these filings at no cost through our Investor Relations Department at: Apple Inc., 1 Infinite Loop, MS 301-4IR, Cupertino, CA 95014, telephone: (408) 974-3123 or our Internet web site (www.apple.com/investor).
+We have filed with the SEC a registration statement on Form S-3 relating to the debt securities covered by this prospectus. This prospectus is a part of the registration statement and does not contain all the information in the registration statement. Whenever a reference is made in this prospectus to a contract or other document of ours, the reference is only a summary and you should refer to the exhibits that are a part of the registration statement for a copy of the contract or other document. You may review a copy of the registration statement and the documents incorporated by reference herein at the SEC’s Public Reference Room in Washington, D.C., as well as through the SEC’s Internet web site listed above.
+ 
+iii
+Table of Contents
+
+INCORPORATION BY REFERENCE
+The SEC allows us to incorporate by reference information into this prospectus. This means that we can disclose important information to you by referring you to another document. Any information referred to in this way is considered part of this prospectus from the date we file that document. Any reports filed by us with the SEC after the date of this prospectus and before the date that the offering of the debt securities by means of this prospectus is terminated will automatically update and, where applicable, supersede any information contained in this prospectus or incorporated by reference in this prospectus.
+We incorporate by reference in this prospectus the documents set forth below; provided, however, that we are not incorporating any documents or information deemed to have been furnished rather than filed in accordance with SEC rules:
+ 
+ 	•	 	our Annual Report on Form 10-K for the fiscal year ended September 29, 2012;
+ 
+ 	•	 	our Quarterly Report on Form 10-Q for the fiscal quarter ended December 29, 2012 and our Quarterly Report on Form 10-Q for the fiscal quarter ended March 30, 2013;
+ 
+ 	•	 	our Current Reports on Form 8-K filed on March 1, 2013 and April 24, 2013; and
+ 
+ 	•	 	any filings we make with the SEC under Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act on or after the date of this prospectus and before the termination of this offering.
+To obtain copies of these filings, see “Where You Can Find More Information.”
+ 
+iv
+Table of Contents
+
+FORWARD-LOOKING STATEMENTS
+Certain statements in this prospectus, any prospectus supplement and the documents incorporated by reference herein are forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements also can be identified by words such as “anticipates,” “expects,” “believes,” “plans,” “will,” “would,” “could,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of the Company’s most recent Quarterly Report on Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference. The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+ 
+v
+Table of Contents
+
+APPLE INC.
+Apple designs, manufactures, and markets mobile communication and media devices, personal computers, and portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. Our products and services include iPhone®, iPad®, Mac®, iPod®, Apple TV®, a portfolio of consumer and professional software applications, the iOS and OS X® operating systems, iCloud®, and a variety of accessory, service and support offerings. We also sell and deliver digital content and applications through the iTunes Store®, App Store™, iBookstore™, and Mac App Store. Apple sells its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In addition, we sell a variety of third-party iPhone, iPad, Mac and iPod compatible products, including application software, and various accessories through our online and retail stores. Apple sells to consumers; small and mid-sized businesses; and education, enterprise and government customers.
+Apple Inc. is a California corporation established in 1977. Our principal executive offices are located at 1 Infinite Loop, Cupertino, CA 95014, and our main telephone number is (408) 996-1010.
+ 
+1
+Table of Contents
+
+RISK FACTORS
+Investing in the debt securities involves risks. Before making a decision to invest in the debt securities, in addition to the other information contained in this prospectus and any prospectus supplement, you should carefully consider the risks described under “Risk Factors” in Part II, Item 1A of our Quarterly Report on Form 10-Q for the fiscal quarter ended March 30, 2013, and in other documents that we include or incorporate by reference in this prospectus. See “Where You Can Find More Information.”
+ 
+2
+Table of Contents
+
+RATIO OF EARNINGS TO FIXED CHARGES
+The following table sets forth the historical ratio of our earnings to our fixed charges for the periods indicated.
+ 
+ 	 	Six Months
+Ended
+March 30,
+2013	 	 	Year Ended	 
+ 	 	 	September 29,
+2012	 	 	September 24,
+2011	 	 	September 25,
+2010	 	 	September 26,
+2009	 	 	September 27,
+2008	 
+Ratio of earnings to fixed charges (1)
+
+ 	 	486x	  	 	 	570x	  	 	 	504x	  	 	 	344x	  	 	 	263x	  	 	 	219x	  
+ 
+(1)	The ratio of earnings to fixed charges is computed by dividing (i) income before income taxes plus fixed charges by (ii) fixed charges. Fixed charges include the portion of rental expense that management believes is representative of the interest component.
+ 
+3
+Table of Contents
+
+USE OF PROCEEDS
+Except as otherwise set forth in the applicable prospectus supplement, we intend to use the net proceeds from sales of the debt securities for general corporate purposes, which may include, but are not limited to, funding for working capital, payment of dividends, capital expenditures, repurchases of our common stock, and acquisitions. We may temporarily invest funds that are not immediately needed for these purposes in short-term investments, including, but not limited to, marketable securities.
+ 
+4
+Table of Contents
+
+DESCRIPTION OF THE DEBT SECURITIES
+We have summarized below general terms and conditions of the debt securities that we will offer and sell pursuant to this prospectus. When we offer to sell a particular series of debt securities, we will describe the specific terms and conditions of the series in a prospectus supplement to this prospectus. We will also indicate in the applicable prospectus supplement whether the general terms and conditions described in this prospectus apply to the series of debt securities. The terms and conditions of the debt securities of a series may be different in one or more respects from the terms and conditions described below. If so, those differences will be described in the applicable prospectus supplement.
+We will issue the debt securities in one or more series under an indenture between us and The Bank of New York Mellon Trust Company, N.A., as trustee. The following summary of provisions of the indenture does not purport to be complete and is subject to, and qualified in its entirety by reference to, all of the provisions of the indenture, including, but not limited to, definitions therein of certain terms. This summary may not contain all of the information that you may find useful. The terms and conditions of the debt securities of each series will be set forth in those debt securities and in the indenture and in the applicable prospectus supplement. For a comprehensive description of any series of debt securities being offered to you pursuant to this prospectus, you should read both this prospectus and the applicable prospectus supplement.
+The indenture has been filed as an exhibit to the registration statement of which this prospectus forms a part. A form of each debt security, reflecting the specific terms and provisions of that series of debt securities, will be filed with the SEC in connection with each offering and will be incorporated by reference in the registration statement of which this prospectus forms a part. You may obtain a copy of the indenture and any form of debt security that has been filed in the manner described under “Where You Can Find More Information.”
+Capitalized terms used and not defined in this summary have the meanings specified in the indenture. For purposes of this section of this prospectus, references to “we,” “us” and “our” are to Apple Inc. (parent company only) and not to any of its subsidiaries. References to the “applicable prospectus supplement” are to the prospectus supplement to this prospectus that describes the specific terms and conditions of a series of debt securities.
+General
+We may offer the debt securities from time to time in as many distinct series as we may determine. The indenture does not limit the amount of debt securities that we may issue under that indenture. We may, without the consent of the holders of the debt securities of any series, issue additional debt securities ranking equally with, and otherwise similar in all respects to, the debt securities of the series (except for the public offering price and the issue date) so that those additional debt securities will be consolidated and form a single series with the debt securities of the series previously offered and sold.
+The debt securities of each series will be issued in fully registered form without interest coupons. We currently anticipate that the debt securities of each series offered and sold pursuant to this prospectus will be issued as global debt securities as described under “—Book-Entry; Delivery and Form; Global Securities” and will trade in book-entry form only.
+Debt securities denominated in U.S. dollars will be issued in denominations of $2,000 and any integral multiple of $1,000 in excess thereof, unless otherwise specified in the applicable prospectus supplement. If the debt securities of a series are denominated in a foreign or composite currency, the applicable prospectus supplement will specify the denomination or denominations in which those debt securities will be issued.
+Unless otherwise specified in the applicable prospectus supplement, we will repay the debt securities of each series at 100% of their principal amount, together with any premium and accrued and unpaid interest thereon at maturity, except if those debt securities have been previously redeemed or purchased and cancelled.
+ 
+5
+Table of Contents
+
+Unless otherwise specified in the applicable prospectus supplement, the debt securities of each series will not be listed on any securities exchange.
+Provisions of Indenture
+The indenture provides that debt securities may be issued under it from time to time in one or more series. For each series of debt securities, this prospectus and the applicable prospectus supplement will describe the following terms and conditions of that series of debt securities:
+ 
+ 	•	 	the title of the series;
+ 
+ 	•	 	the maximum aggregate principal amount, if any, established for debt securities of the series, provided, however, that such amount may from time to time be increased by a board resolution;
+ 
+ 	•	 	the price or prices at which the debt securities will be sold;
+ 
+ 	•	 	the person to whom any interest on a debt security of the series will be payable, if other than the person in whose name that debt security (or one or more predecessor debt securities) is registered at the close of business on the regular record date for such interest;
+ 
+ 	•	 	the date or dates on which the principal and premium, if any, of any debt securities of the series will be payable or the method used to determine or extend those dates;
+ 
+ 	•	 	the rate or rates at which any debt securities of the series will bear interest, if any, or the method by which such rate or rates shall be determined, the date or dates from which any such interest will accrue, or the method by which such date or dates shall be determined, the interest payment dates on which any such interest will be payable and the regular record date, if any, for any such interest payable on any interest payment date, or the method by which such date or dates shall be determined, and the basis upon which interest shall be calculated if other than that of a 360-day year of twelve 30-day months, the right, if any, to extend or defer interest payments and the duration of such extension or deferral;
+ 
+ 	•	 	the place or places where the principal of and any premium and interest on any debt securities of the series will be payable, the place or places where the debt securities of such series may be presented for registration of transfer or exchange, the place or places where notices and demands to or upon us in respect of the debt securities of such series may be made and the manner in which any payment may be made;
+ 
+ 	•	 	the period or periods within which or the date or dates on which, the price or prices at which, the currency or currency units in which, and the terms and conditions upon which any debt securities of the series may be redeemed, in whole or in part, at our option and, if other than by a board resolution, the manner in which any election by us to redeem the debt securities will be evidenced;
+ 
+ 	•	 	our obligation or right, if any, to redeem or purchase any debt securities of the series pursuant to any sinking fund, amortization or analogous provisions or at the option of the holder thereof and the period or periods within which, the price or prices at which, the currency or currency units in which, and the terms and conditions upon which any debt securities of the series will be redeemed or purchased, in whole or in part, pursuant to such obligation;
+ 
+ 	•	 	if other than denominations of $2,000 and any integral multiple of $1,000 in excess thereof, the denominations in which any debt securities of the series will be issuable;
+ 
+ 	•	 	if other than the trustee, the identity of each security registrar and/or paying agent;
+ 
+ 	•	 	if the amount of principal of or premium, if any, or interest on any debt securities of the series may be determined with reference to a financial or economic measure or index or pursuant to a formula, the manner in which such amounts will be determined;
+ 
+ 	•	 	if other than U.S. dollars, the currency, currencies or currency units in which the principal of or premium, if any, or interest on any debt securities of the series will be payable and the manner of determining the equivalent thereof in U.S. dollars for any purpose;
+ 
+6
+Table of Contents
+
+ 	•	 	if the principal of or premium, if any, or interest on any debt securities of the series is to be payable, at our election or the election of the holder thereof, in one or more currencies or currency units other than that or those in which such debt securities are stated to be payable, the currency, currencies or currency units in which the principal of or premium, if any, or interest on such debt securities as to which such election is made will be payable, the periods within which or the dates on which and the terms and conditions upon which such election is to be made and the amount so payable (or the manner in which such amount will be determined);
+ 
+ 	•	 	if the provisions of the indenture relating to satisfaction and discharge thereof shall apply to the debt securities of that series as set forth therein, or if provisions for the satisfaction and discharge of the indenture other than as set forth therein shall apply to the debt securities of that series;
+ 
+ 	•	 	if other than the entire principal amount thereof, the portion of the principal amount of any debt securities of the series which will be payable upon declaration of acceleration of the maturity thereof pursuant to the indenture or the method by which such portion shall be determined;
+ 
+ 	•	 	if the principal amount payable at the stated maturity of any debt securities of the series will not be determinable as of any one or more dates prior to the stated maturity, the amount which will be deemed to be the principal amount of such debt securities as of any such date for any purpose thereunder or hereunder, including the principal amount thereof which will be due and payable upon any maturity other than the stated maturity or which will be deemed to be outstanding as of any date prior to the stated maturity (or, in any such case, the manner in which such amount deemed to be the principal amount will be determined);
+ 
+ 	•	 	if other than by a board resolution, the manner in which any election by us to defease any debt securities of the series pursuant to the indenture will be evidenced; whether any debt securities of the series other than debt securities denominated in U.S. dollars and bearing interest at a fixed rate are to be subject to the defeasance provisions of the indenture; or, in the case of debt securities denominated in U.S. dollars and bearing interest at a fixed rate, if applicable, that the debt securities of the series, in whole or any specified part, will not be defeasible pursuant to the indenture;
+ 
+ 	•	 	if applicable, that any debt securities of the series shall be issuable in whole or in part in the form of one or more global securities and, in such case, the respective depositaries for such global securities, the form of any legend or legends which shall be borne by any such global security in addition to or in lieu of that set forth in the indenture and any circumstances in which any such global security may be exchanged in whole or in part for debt securities registered, and any transfer of such global security in whole or in part may be registered, in the name or names of persons other than the depositary for such global security or a nominee thereof;
+ 
+ 	•	 	any addition to, deletion from or change in the events of default applicable to any debt securities of the series and any change in the right of the trustee or the requisite holders of such debt securities to declare the principal amount thereof due and payable;
+ 
+ 	•	 	any addition to, deletion from or change in the covenants applicable to debt securities of the series;
+ 
+ 	•	 	the terms of any right to convert or exchange debt securities of such series into any other securities or property of ours or of any other corporation or person, and the additions or changes, if any, to the indenture with respect to the debt securities of such series to permit or facilitate such conversion or exchange;
+ 
+ 	•	 	whether the debt securities of the series will be guaranteed by any persons and, if so, the identity of such persons, the terms and conditions upon which such debt securities will be guaranteed and, if applicable, the terms and conditions upon which such guarantees may be subordinated to other indebtedness of the respective guarantors;
+ 
+ 	•	 	whether the debt securities of the series will be secured by any collateral and, if so, the terms and conditions upon which such debt securities will be secured and, if applicable, upon which such liens may be subordinated to other liens securing other indebtedness of us or of any guarantor;
+ 
+7
+Table of Contents
+
+ 	•	 	whether the debt securities will be issued in a transaction registered under the Securities Act and any restriction or condition on the transferability of the debt securities of such series;
+ 
+ 	•	 	the exchanges, if any, on which the debt securities may be listed; and
+ 
+ 	•	 	any other terms of the debt securities of the series (which terms will not be inconsistent with the provisions of the indenture, except as permitted thereunder).
+Interest and Interest Rates
+General
+In the applicable prospectus supplement, we will designate the debt securities of a series as being either debt securities bearing interest at a fixed rate of interest or debt securities bearing interest at a floating rate of interest. Each debt security will begin to accrue interest from the date on which it is originally issued. Interest on each such debt security will be payable in arrears on the interest payment dates set forth in the applicable prospectus supplement and as otherwise described below and at maturity or, if earlier, the redemption date described below. Interest will be payable to the holder of record of the debt securities at the close of business on the record date for each interest payment date, which record dates will be specified in such prospectus supplement.
+As used in the indenture, the term “business day” means, with respect to debt securities of a series, unless otherwise specified in the applicable prospectus supplement, any day, other than a Saturday or Sunday, that is not a day on which banking institutions are authorized or obligated by law or executive order to close in the place where the principal of and premium, if any, and interest on the debt securities are payable.
+If any interest payment date, redemption date, repayment date or stated maturity of a debt security, or any date on which a holder has the right to convert such debt security, falls on a date that is not a business day, then payment of principal and premium, if any, or interest, or the redemption price or conversion of such debt security, will be made on the next succeeding business day at such place of payment with the same force and effect as if made on the interest payment date, redemption date or repayment date, or at the stated maturity, or on such conversion date. In the case, however, of debt securities bearing interest at a floating rate based on the London Interbank Offered Rate (LIBOR), if the interest payment date (other than the redemption date, repayment date or stated maturity) falls on a date that is not a business day and the following business day falls in the next succeeding calendar month, then the interest payment date for such debt securities shall be the business day immediately preceding the scheduled interest payment date. No interest shall accrue for the period from and after any such interest payment date, redemption date, repayment date, stated maturity or conversion date, as the case may be, to the date of such payment.
+Optional Redemption
+Redemption at Our Option
+If specified in the applicable prospectus supplement, we may elect to redeem all or part of the outstanding debt securities of a series from time to time before the maturity date of the debt securities of that series. Upon such election, we will notify the trustee of the redemption date and the principal amount of debt securities of the series to be redeemed. If less than all the debt securities of the series are to be redeemed, the particular debt securities of that series to be redeemed will be selected by the trustee by such method as the trustee deems fair and appropriate. If we shall so direct, debt securities registered in our name or the name of any of our affiliates or subsidiaries shall not be included in the debt securities for redemption. The applicable prospectus supplement will specify the redemption price for the debt securities to be redeemed (or the method of calculating such price), in each case in accordance with the terms and conditions of those debt securities.
+Notice of redemption will be given to each holder of the debt securities to be redeemed not less than 30 nor more than 60 days prior to the date set for such redemption (or within such period as otherwise specified as contemplated by the indenture for debt securities of a series). This notice will identify the debt securities to be
+ 
+8
+Table of Contents
+
+redeemed and will include the following information: the redemption date; the redemption price (or the method of calculating such price); if less than all of the outstanding debt securities of such series are to be redeemed, the identification (and, in the case of partial redemption, the respective principal amounts) of the particular debt securities to be redeemed; the place or places where such debt securities are to be surrendered for payment of the redemption price; and, if applicable, the CUSIP number of the debt securities to be redeemed.
+By no later than 11:00 a.m. (New York City time) on the redemption date, we will deposit or cause to be deposited with the trustee or with a paying agent (or, if we are acting as our own paying agent with respect to the debt securities being redeemed, we will segregate and hold in trust as provided in the indenture) an amount of money sufficient to pay the aggregate redemption price of, and (except if the redemption date shall be an interest payment date or the debt securities of such series provide otherwise) accrued interest on, all of the debt securities or the part thereof to be redeemed on that date. On the redemption date, the redemption price will become due and payable upon all of the debt securities to be redeemed, and interest, if any, on the debt securities to be redeemed will cease to accrue from and after that date. Upon surrender of any such debt securities for redemption, we will pay those debt securities surrendered at the redemption price together, if applicable, with accrued interest to the redemption date. If the redemption date is after a regular record date and on or prior to the applicable interest payment date, the accrued and unpaid interest shall be payable to the holder of the redeemed securities registered on the relevant regular record date.
+Any debt securities to be redeemed only in part must be surrendered at the office or agency established by us for such purpose, and we will execute, and the trustee will authenticate and deliver to a holder without service charge, new debt securities of the same series and of like tenor, of any authorized denominations as requested by that holder, in a principal amount equal to and in exchange for the unredeemed portion of the debt securities that holder surrenders.
+Repayment at Holder’s Option
+If specified in the applicable prospectus supplement, the holders of the debt securities of a series will have the option to elect repayment of those debt securities by us prior to the stated maturity of the debt securities of that series at time or times and subject to the conditions specified in the applicable prospectus supplement. If the holders of those debt securities have that option, the applicable prospectus supplement will specify the optional repayment date or dates on which the debt security may be repaid and the optional repayment price, or the method by which such price will be determined. The optional repayment price is the price at which, together with accrued interest to the optional repayment date, the debt security may be repaid at the holder’s option on each such optional repayment date.
+Except as otherwise may be provided by the terms of the debt securities, any tender of a debt security by the holder for repayment will be irrevocable unless waived by us. Any repayment option of a holder may be exercised by the holder of debt securities for less than the entire principal amount of the debt security; provided that the principal amount of the debt security remaining outstanding after repayment will be an authorized denomination. Upon such partial repayment, the debt securities will be canceled and new debt securities for the remaining principal amount will be issued in the name of the holder of the repaid debt securities.
+If debt securities are represented by a global security as described under “—Book-Entry; Delivery and Form; Global Securities,” the securities depository for the global security or its nominee will be the holder of the debt security and, therefore, will be the only person that can exercise a right to repayment. In order to ensure that the depository or its nominee will timely exercise a right to repayment relating to a particular debt security, the beneficial owner of the debt security must instruct the broker or other direct or indirect participant in the depository through which it holds an interest in the debt security to notify the depository of its desire to exercise a right to repayment by the appropriate cut-off time for notifying the participant. Different firms have different cut-off times for accepting instructions from their customers. Accordingly, you should consult the broker or other direct or indirect participant through which you hold an interest in a debt security in order to ascertain the cut-off time by which such an instruction must be given for timely notice to be delivered to the appropriate depository.
+ 
+9
+Table of Contents
+
+Payment and Transfer or Exchange
+Principal of and premium, if any, and interest on the debt securities of each series will be payable, and the debt securities may be exchanged or transferred, at the office or agency maintained by us for such purpose (which initially will be the trustee’s office located at 400 South Hope Street, Suite 400, Los Angeles, California 90071, Attention: Corporate Trust Unit). Payment of principal of and premium, if any, and interest on a global security registered in the name of or held by The Depository Trust Company, or DTC, or its nominee will be made in immediately available funds to DTC or its nominee, as the case may be, as the registered holder of such global security. If any of the debt securities is no longer represented by a global security, payment of interest on certificated debt securities in definitive form may, at our option, be made by check mailed directly to holders at their registered addresses. See “—Book-Entry; Delivery and Form; Global Securities.”
+A holder may transfer or exchange any certificated debt securities in definitive form at the same location given in the preceding paragraph. No service charge will be made for any registration of transfer or exchange of debt securities, but we may require payment of a sum sufficient to cover any transfer tax or other similar governmental charge payable in connection therewith.
+We are not required to transfer or exchange any debt security selected for redemption for a period of 15 days before mailing of a notice of redemption of the debt security to be redeemed.
+The registered holder of a debt security will be treated as the owner of it for all purposes.
+All amounts of principal of and premium, if any, or interest on the debt securities paid by us that remain unclaimed two years after such payment was due and payable will be repaid to us, and the holders of such debt securities will thereafter look solely to us for payment.
+Covenants
+The indenture sets forth limited covenants that will apply to each series of debt securities issued under the indenture, unless otherwise specified in the applicable prospectus supplement. However, these covenants do not, among other things:
+ 
+ 	•	 	limit the amount of indebtedness or lease obligations that may be incurred by us and our subsidiaries;
+ 
+ 	•	 	limit our ability or that of our subsidiaries to issue, assume or guarantee debt secured by liens; or
+ 
+ 	•	 	restrict us from paying dividends or making distributions on our capital stock or purchasing or redeeming our capital stock.
+Consolidation, Merger and Sale of Assets
+The indenture provides that we may consolidate with or merge with or into any other person, and may sell, transfer, or lease or convey all or substantially all of our properties and assets to another person; provided that the following conditions are satisfied:
+ 
+ 	•	 	we are the continuing entity, or the resulting, surviving or transferee person (the “Successor”) is a person (if such person is not a corporation, then the Successor will include a corporate co-issuer of the debt securities) organized and existing under the laws of the United States of America, any state thereof or the District of Columbia and the Successor (if not us) will expressly assume, by supplemental indenture, all of our obligations under the debt securities and the indenture and, for each security that by its terms provides for conversion, provide for the right to convert such security in accordance with its terms;
+ 
+ 	•	 	immediately after giving effect to such transaction, no default or event of default under the indenture has occurred and is continuing; and
+ 
+10
+Table of Contents
+
+ 	•	 	the trustee receives from us an officers’ certificate and an opinion of counsel that the transaction and such supplemental indenture, as the case may be, complies with the applicable provisions of the indenture.
+If we consolidate or merge with or into any other person or sell, transfer, lease or convey all or substantially all of our properties and assets in accordance with the indenture, the Successor will be substituted for us in the indenture, with the same effect as if it had been an original party to the indenture. As a result, the Successor may exercise our rights and powers under the indenture, and we will be released from all our liabilities and obligations under the indenture and under the debt securities.
+Any substitution of the Successor for us might be deemed for federal income tax purposes to be an exchange of the debt securities for “new” debt securities, resulting in recognition of gain or loss for such purposes and possibly certain other adverse tax consequences to beneficial owners of the debt securities. Holders should consult their own tax advisors regarding the tax consequences of any such substitution.
+For purposes of this covenant, “person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organization or government or any agency or political subdivision thereof or any other entity.
+Events of Default
+Each of the following events are defined in the indenture as an “event of default” (whatever the reason for such event of default and whether or not it will be voluntary or involuntary or be effected by operation of law or pursuant to any judgment, decree or order of any court or any order, rule or regulation of any administrative or governmental body) with respect to the debt securities of any series:
+(1) default in the payment of any installment of interest on any debt securities of such series for 30 days after becoming due;
+(2) default in the payment of principal of or premium, if any, on any debt securities of such series when it becomes due and payable at its stated maturity, upon optional redemption, upon declaration or otherwise;
+(3) default in the performance, or breach, of any covenant or agreement of ours in the indenture with respect to the debt securities of such series (other than a covenant or agreement, a default in the performance of which or a breach of which is elsewhere in the indenture specifically dealt with or that has expressly been included in the indenture solely for the benefit of a series of debt securities other than such series), which continues for a period of 90 days after written notice to us by the trustee or to us and the trustee by the holders of at least 25% in aggregate principal amount of the outstanding debt securities of that series;
+(4) we pursuant to or within the meaning of the Bankruptcy Law:
+ 
+ 	•	 	commence a voluntary case or proceeding;
+ 
+ 	•	 	consent to the entry of an order for relief against us in an involuntary case or proceeding;
+ 
+ 	•	 	consent to the appointment of a custodian of us or for all or substantially all of our property;
+ 
+ 	•	 	make a general assignment for the benefit of our creditors;
+ 
+ 	•	 	file a petition in bankruptcy or answer or consent seeking reorganization or relief;
+ 
+ 	•	 	consent to the filing of such petition or the appointment of or taking possession by a custodian; or
+ 
+ 	•	 	take any comparable action under any foreign laws relating to insolvency;
+ 
+11
+Table of Contents
+
+(5) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+ 
+ 	•	 	is for relief against us in an involuntary case, or adjudicates us insolvent or bankrupt;
+ 
+ 	•	 	appoints a custodian of us or for all or substantially all of our property; or
+ 
+ 	•	 	orders the winding-up or liquidation of us (or any similar relief is granted under any foreign laws);
+and the order or decree remains unstayed and in effect for 90 days; or
+(6) any other event of default provided with respect to debt securities of such series occurs.
+“Bankruptcy Law” means Title 11, United States Code or any similar federal or state or foreign law for the relief of debtors. “Custodian” means any custodian, receiver, trustee, assignee, liquidator or other similar official under any Bankruptcy Law.
+If an event of default with respect to debt securities of any series (other than an event of default relating to certain events of bankruptcy, insolvency, or reorganization of us) occurs and is continuing, the trustee by notice to us, or the holders of at least 25% in aggregate principal amount of the outstanding debt securities of such series by notice to us and the trustee, may, and the trustee at the request of these holders will, declare the principal of and premium, if any, and accrued and unpaid interest on all the debt securities of such series to be due and payable. Upon such a declaration, such principal, premium and accrued and unpaid interest will be due and payable immediately. If an event of default relating to certain events of bankruptcy, insolvency, or reorganization of us occurs and is continuing, the principal of and premium, if any, and accrued and unpaid interest on the debt securities of such series will become and be immediately due and payable without any declaration or other act on the part of the trustee or any holders.
+The holders of not less than a majority in aggregate principal amount of the outstanding debt securities of any series may rescind a declaration of acceleration and its consequences, if we have deposited certain sums with the trustee and all events of default with respect to the debt securities of such series, other than the non-payment of the principal or interest which have become due solely by such acceleration, have been cured or waived, as provided in the indenture.
+An event of default for a particular series of debt securities does not necessarily constitute an event of default for any other series of debt securities issued under the indenture.
+We are required to furnish the trustee annually within 120 days after the end of our fiscal year a statement by one of our officers to the effect that, to the best knowledge of such officer, we are not in default in the fulfillment of any of our obligations under the indenture or, if there has been a default in the fulfillment of any such obligation, specifying each such default and the nature and status thereof.
+No holder of any debt securities of any series will have any right to institute any judicial or other proceeding with respect to the indenture, or for the appointment of a receiver or trustee, or for any other remedy unless:
+(1) an event of default has occurred and is continuing and such holder has given the trustee prior written notice of such continuing event of default with respect to the debt securities of such series;
+(2) the holders of not less than 25% of the aggregate principal amount of the outstanding debt securities of such series have requested the trustee to institute proceedings in respect of such event of default;
+(3) the trustee has been offered indemnity reasonably satisfactory to it against its costs, expenses and liabilities in complying with such request;
+(4) the trustee has failed to institute proceedings 60 days after the receipt of such notice, request and offer of indemnity; and
+ 
+12
+Table of Contents
+
+(5) no direction inconsistent with such written request has been given for 60 days by the holders of a majority in aggregate principal amount of the outstanding debt securities of such series.
+The holders of a majority in aggregate principal amount of outstanding debt securities of a series will have the right, subject to certain limitations, to direct the time, method and place of conducting any proceeding for any remedy available to the trustee with respect to the debt securities of that series or exercising any trust or power conferred to the trustee, and to waive certain defaults. The indenture provides that if an event of default occurs and is continuing, the trustee will exercise such of its rights and powers under the indenture, and use the same degree of care and skill in their exercise, as a prudent person would exercise or use under the circumstances in the conduct of such person’s own affairs. Subject to such provisions, the trustee will be under no obligation to exercise any of its rights or powers under the indenture at the request of any of the holders of the debt securities of a series unless they will have offered to the trustee security or indemnity satisfactory to the trustee against the costs, expenses and liabilities which might be incurred by it in compliance with such request.
+Notwithstanding the foregoing, the holder of any debt security will have an absolute and unconditional right to receive payment of the principal of and premium, if any, and interest on that debt security on or after the due dates expressed in that debt security and to institute suit for the enforcement of payment.
+Modification and Waivers
+Modification and amendments of the indenture and the debt securities of any series may be made by us and the trustee with the consent of the holders of not less than a majority in aggregate principal amount of the outstanding debt securities of that series affected thereby; provided, however, that no such modification or amendment may, without the consent of the holder of each outstanding debt security of that series affected thereby:
+ 
+ 	•	 	change the stated maturity of the principal of, or installment of interest on, any debt security;
+ 
+ 	•	 	reduce the principal amount of any debt security or reduce the amount of the principal of any debt security which would be due and payable upon a declaration of acceleration of the maturity thereof or reduce the rate of interest on any debt security;
+ 
+ 	•	 	reduce any premium payable on the redemption of any debt security or change the date on which any debt security may or must be redeemed;
+ 
+ 	•	 	change the coin or currency in which the principal of, premium, if any, or interest on any debt security is payable;
+ 
+ 	•	 	impair the right of any holder to institute suit for the enforcement of any payment on or after the stated maturity of any debt security (or, in the case of redemption, on or after the redemption date);
+ 
+ 	•	 	reduce the percentage in principal amount of the outstanding debt securities, the consent of whose holders is required in order to take certain actions;
+ 
+ 	•	 	reduce the requirements for quorum or voting by holders of debt securities in the indenture or the debt security;
+ 
+ 	•	 	modify any of the provisions in the indenture regarding the waiver of past defaults and the waiver of certain covenants by the holders of debt securities except to increase any percentage vote required or to provide that certain other provisions of the indenture cannot be modified or waived without the consent of the holder of each debt security affected thereby;
+ 
+ 	•	 	make any change that adversely affects the right to convert or exchange any debt security or decreases the conversion or exchange rate or increases the conversion price of any convertible or exchangeable debt security, unless such decrease or increase is permitted by the terms of the debt securities; or
+ 
+ 	•	 	modify any of the above provisions.
+ 
+13
+Table of Contents
+
+We and the trustee may, without the consent of any holders, modify or amend the terms of the indenture and the debt securities of any series with respect to the following:
+ 
+ 	•	 	to add to our covenants for the benefit of holders of the debt securities of all or any series or to surrender any right or power conferred upon us;
+ 
+ 	•	 	to evidence the succession of another person to, and the assumption by the successor of our covenants, agreements and obligations under, the indenture pursuant to the covenant described under “—Covenants—Consolidation, Merger and Sale of Assets”;
+ 
+ 	•	 	to add any additional events of default for the benefit of holders of the debt securities of all or any series;
+ 
+ 	•	 	to add one or more guarantees for the benefit of holders of the debt securities;
+ 
+ 	•	 	to secure the debt securities pursuant to the covenants of the indenture;
+ 
+ 	•	 	to add or appoint a successor or separate trustee or other agent;
+ 
+ 	•	 	to provide for the issuance of additional debt securities of any series;
+ 
+ 	•	 	to establish the form or terms of debt securities of any series as permitted by the indenture;
+ 
+ 	•	 	to comply with the rules of any applicable securities depository;
+ 
+ 	•	 	to provide for uncertificated debt securities in addition to or in place of certificated debt securities;
+ 
+ 	•	 	to add to, change or eliminate any of the provisions of the indenture in respect of one or more series of debt securities; provided that any such addition, change or elimination (a) shall neither (1) apply to any debt security of any series created prior to the execution of such supplemental indenture and entitled to the benefit of such provision nor (2) modify the rights of the holder of any such debt security with respect to such provision or (b) shall become effective only when there is no debt security described in clause (a)(1) outstanding;
+ 
+ 	•	 	to cure any ambiguity, omission, defect or inconsistency;
+ 
+ 	•	 	to change any other provision; provided that the change does not adversely affect the interests of the holders of debt securities of any series in any material respect;
+ 
+ 	•	 	to supplement any of the provisions of the indenture to such extent as shall be necessary to permit or facilitate the defeasance and discharge of any series of debt securities pursuant to the indenture; provided that any such action shall not adversely affect the interests of the holders of debt securities of such series or any other series of debt securities in any material respect;
+ 
+ 	•	 	to comply with the rules or regulations of any securities exchange or automated quotation system on which any of the debt securities may be listed or traded; and
+ 
+ 	•	 	to add to, change or eliminate any of the provisions of the indenture as shall be necessary or desirable in accordance with any amendments to the Trust Indenture Act, provided that such action does not adversely affect the rights or interests of any holder of debt securities in any material respect.
+The holders of at least a majority in aggregate principal amount of the outstanding debt securities of any series may, on behalf of the holders of all debt securities of that series, waive compliance by us with certain restrictive provisions of the indenture. The holders of not less than a majority in aggregate principal amount of the outstanding debt securities of a series may, on behalf of the holders of all debt securities of that series, waive any past default and its consequences under the indenture with respect to the debt securities of that series, except a default (1) in the payment of principal or premium, if any, or interest on debt securities of that series or (2) in respect of a covenant or provision of the indenture that cannot be modified or amended without the consent of the holder of each debt security of that series. Upon any such waiver, such default will cease to exist, and any event of default arising therefrom will be deemed to have been cured, for every purpose of the indenture; however, no such waiver will extend to any subsequent or other default or event of default or impair any rights consequent thereon.
+ 
+14
+Table of Contents
+
+Discharge, Defeasance and Covenant Defeasance
+We may discharge certain obligations to holders of the debt securities of a series that have not already been delivered to the trustee for cancellation and that either have become due and payable or will become due and payable within one year (or scheduled for redemption within one year) by depositing with the trustee, in trust, funds in U.S. dollars in an amount sufficient to pay the entire indebtedness including, but not limited to, the principal and premium, if any, and interest to the date of such deposit (if the debt securities have become due and payable) or to the maturity thereof or the redemption date of the debt securities of that series, as the case may be. We may direct the trustee to invest such funds in U.S. Treasury securities with a maturity of one year or less or in a money market fund that invests solely in short-term U.S. Treasury securities.
+The indenture provides that we may elect either (1) to defease and be discharged from any and all obligations with respect to the debt securities of a series (except for, among other things, obligations to register the transfer or exchange of the debt securities, to replace temporary or mutilated, destroyed, lost or stolen debt securities, to maintain an office or agency with respect to the debt securities and to hold moneys for payment in trust) (“legal defeasance”) or (2) to be released from our obligations to comply with the restrictive covenants under the indenture, and any omission to comply with such obligations will not constitute a default or an event of default with respect to the debt securities of a series and clauses (3) and (6) under “—Events of Default” will no longer be applied (“covenant defeasance”). Legal defeasance or covenant defeasance, as the case may be, will be conditioned upon, among other things, the irrevocable deposit by us with the trustee, in trust, of an amount in U.S. dollars, or U.S. government obligations, or both, applicable to the debt securities of that series which through the scheduled payment of principal and interest in accordance with their terms will provide money in an amount sufficient to pay the principal or premium, if any, and interest on the debt securities on the scheduled due dates therefor.
+If we effect covenant defeasance with respect to the debt securities of any series, the amount in U.S. dollars, or U.S. government obligations, or both, on deposit with the trustee will be sufficient, in the opinion of a nationally recognized firm of independent accountants, to pay amounts due on the debt securities of that series at the time of the stated maturity but may not be sufficient to pay amounts due on the debt securities of that series at the time of the acceleration resulting from such event of default. However, we would remain liable to make payment of such amounts due at the time of acceleration.
+We will be required to deliver to the trustee an opinion of counsel that the deposit and related defeasance will not cause the holders and beneficial owners of the debt securities of that series to recognize income, gain or loss for federal income tax purposes. If we elect legal defeasance, that opinion of counsel must be based upon a ruling from the U.S. Internal Revenue Service or a change in law to that effect.
+We may exercise our legal defeasance option notwithstanding our prior exercise of our covenant defeasance option.
+Same-Day Settlement and Payment
+Unless otherwise provided in the applicable prospectus supplement, the debt securities will trade in the same-day funds settlement system of DTC until maturity or until we issue the debt securities in certificated form. DTC will therefore require secondary market trading activity in the debt securities to settle in immediately available funds. We can give no assurance as to the effect, if any, of settlement in immediately available funds on trading activity in the debt securities.
+Book-Entry; Delivery and Form; Global Securities
+Unless otherwise specified in the applicable prospectus supplement, the debt securities of each series will be issued in the form of one or more global debt securities, in definitive, fully registered form without interest coupons, each of which we refer to as a “global security.” Each such global security will be deposited with the trustee as custodian for DTC and registered in the name of a nominee of DTC in New York, New York for the accounts of participants in DTC.
+ 
+15
+Table of Contents
+
+Investors may hold their interests in a global security directly through DTC if they are DTC participants, or indirectly through organizations that are DTC participants. Except in the limited circumstances described below, holders of debt securities represented by interests in a global security will not be entitled to receive their debt securities in fully registered certificated form.
+DTC has advised us as follows: DTC is a limited-purpose trust company organized under New York Banking Law, a “banking organization” within the meaning of the New York Banking Law, a member of the Federal Reserve System, a “clearing corporation” within the meaning of the New York Uniform Commercial Code and a “clearing agency” registered pursuant to the provisions of Section 17A of the Exchange Act. DTC was created to hold securities of institutions that have accounts with DTC (“participants”) and to facilitate the clearance and settlement of securities transactions among its participants in such securities through electronic book-entry changes in accounts of the participants, thereby eliminating the need for physical movement of securities certificates. DTC’s participants include both U.S. and non-U.S. securities brokers and dealers, banks, trust companies, clearing corporations and certain other organizations. Access to DTC’s book-entry system is also available to others such as both U.S. and non-U.S. securities brokers and dealers, banks, trust companies and clearing corporations that clear through or maintain a custodial relationship with a participant, whether directly or indirectly.
+Ownership of Beneficial Interests
+Upon the issuance of each global security, DTC will credit, on its book-entry registration and transfer system, the respective principal amount of the individual beneficial interests represented by the global security to the accounts of participants. Ownership of beneficial interests in each global security will be limited to participants or persons that may hold interests through participants. Ownership of beneficial interests in each global security will be shown on, and the transfer of those ownership interests will be effected only through, records maintained by DTC (with respect to participants’ interests) and such participants (with respect to the owners of beneficial interests in the global security other than participants).
+So long as DTC or its nominee is the registered holder and owner of a global security, DTC or such nominee, as the case may be, will be considered the sole legal owner of the debt security represented by the global security for all purposes under the indenture, the debt securities and applicable law. Except as set forth below, owners of beneficial interests in a global security will not be entitled to receive certificated debt securities and will not be considered to be the owners or holders of any debt securities represented by the global security. We understand that under existing industry practice, in the event an owner of a beneficial interest in a global security desires to take any actions that DTC, as the holder of the global security, is entitled to take, DTC would authorize the participants to take such action, and that participants would authorize beneficial owners owning through such participants to take such action or would otherwise act upon the instructions of beneficial owners owning through them. No beneficial owner of an interest in a global security will be able to transfer such interest except in accordance with DTC’s applicable procedures, in addition to those provided for under the indenture. Because DTC can only act on behalf of participants, who in turn act on behalf of others, the ability of a person having a beneficial interest in a global security to pledge that interest to persons that do not participate in the DTC system, or otherwise to take actions in respect of that interest, may be impaired by the lack of a physical certificate representing that interest.
+All payments on the debt securities represented by a global security registered in the name of and held by DTC or its nominee will be made to DTC or its nominee, as the case may be, as the registered owner and holder of the global security.
+We expect that DTC or its nominee, upon receipt of any payment of principal, premium, if any, or interest in respect of a global security, will credit participants’ accounts with payments in amounts proportionate to their respective beneficial interests in the principal amount of the global security as shown on the records of DTC or its nominee. We also expect that payments by participants to owners of beneficial interests in the global security held through such participants will be governed by standing instructions and customary practices as is now the
+ 
+16
+Table of Contents
+
+case with securities held for accounts for customers registered in the names of nominees for such customers. These payments, however, will be the responsibility of such participants and indirect participants, and neither we, the trustee nor any paying agent will have any responsibility or liability for any aspect of the records relating to, or payments made on account of, beneficial ownership interests in any global security or for maintaining, supervising or reviewing any records relating to such beneficial ownership interests or for any other aspect of the relationship between DTC and its participants or the relationship between such participants and the owners of beneficial interests in the global security.
+Unless and until it is exchanged in whole or in part for certificated debt securities, each global security may not be transferred except as a whole by DTC to a nominee of DTC or by a nominee of DTC to DTC or another nominee of DTC. Transfers between participants in DTC will be effected in the ordinary way in accordance with DTC rules and will be settled in same-day funds.
+We expect that DTC will take any action permitted to be taken by a holder of debt securities only at the direction of one or more participants to whose account the DTC interests in a global security are credited and only in respect of such portion of the aggregate principal amount of the debt securities as to which such participant or participants has or have given such direction. However, if there is an event of default under the debt securities, DTC will exchange each global security for certificated debt securities, which it will distribute to its participants.
+Although we expect that DTC will agree to the foregoing procedures in order to facilitate transfers of interests in each global security among participants of DTC, DTC is under no obligation to perform or continue to perform such procedures, and such procedures may be discontinued at any time. None of we, the underwriters or the trustee will have any responsibility for the performance or nonperformance by DTC or its participants or indirect participants of their respective obligations under the rules and procedures governing their operations.
+The indenture provides that the global securities will be exchanged for debt securities in certificated form of like tenor and of an equal principal amount, in authorized denominations in the following limited circumstances:
+(1) DTC notifies us that it is unwilling or unable to continue as depository or if DTC ceases to be eligible under the indenture and we do not appoint a successor depository within 90 days;
+(2) we determine that the debt securities will no longer be represented by global securities and execute and deliver to the trustee an order to such effect; or
+(3) an event of default with respect to the debt securities will have occurred and be continuing.
+These certificated debt securities will be registered in such name or names as DTC will instruct the trustee. It is expected that such instructions may be based upon directions received by DTC from participants with respect to ownership of beneficial interests in global securities.
+The information in this section of this prospectus concerning DTC and DTC’s book-entry system has been obtained from sources that we believe to be reliable, but we do not take responsibility for this information.
+Euroclear and Clearstream
+If the depositary for a global security is DTC, you may hold interests in the global security through Clearstream Banking, société anonyme, which we refer to as “Clearstream,” or Euroclear Bank SA/NV, as operator of the Euroclear System, which we refer to as “Euroclear,” in each case, as a participant in DTC. Euroclear and Clearstream will hold interests, in each case, on behalf of their participants through customers’ securities accounts in the names of Euroclear and Clearstream on the books of their respective depositaries, which in turn will hold such interests in customers’ securities in the depositaries’ names on DTC’s books.
+ 
+17
+Table of Contents
+
+Payments, deliveries, transfers, exchanges, notices and other matters relating to the debt securities made through Euroclear or Clearstream must comply with the rules and procedures of those systems. Those systems could change their rules and procedures at any time. We have no control over those systems or their participants, and we take no responsibility for their activities. Transactions between participants in Euroclear or Clearstream, on one hand, and other participants in DTC, on the other hand, would also be subject to DTC’s rules and procedures.
+Investors will be able to make and receive through Euroclear and Clearstream payments, deliveries, transfers, exchanges, notices and other transactions involving any securities held through those systems only on days when those systems are open for business. Those systems may not be open for business on days when banks, brokers and other institutions are open for business in the United States.
+In addition, because of time-zone differences, U.S. investors who hold their interests in the debt securities through these systems and wish on a particular day, to transfer their interests, or to receive or make a payment or delivery or exercise any other right with respect to their interests, may find that the transaction will not be effected until the next business day in Luxembourg or Brussels, as applicable. Thus, investors who wish to exercise rights that expire on a particular day may need to act before the expiration date. In addition, investors who hold their interests through both DTC and Euroclear or Clearstream may need to make special arrangements to finance any purchase or sales of their interests between the U.S. and European clearing systems, and those transactions may settle later than transactions within one clearing system.
+Governing Law
+The indenture and the debt securities will be governed by, and construed in accordance with, the laws of the State of New York.
+Regarding the Trustee
+The Bank of New York Mellon Trust Company, N.A. is the trustee under the indenture.
+The trustee is permitted to engage in transactions, including commercial banking and other transactions, with us and our subsidiaries from time to time; provided that if the trustee acquires any conflicting interest it must eliminate such conflict upon the occurrence of an event of default, or else resign.
+ 
+18
+Table of Contents
+
+PLAN OF DISTRIBUTION
+We may sell the debt securities described in this prospectus from time to time in one or more transactions:
+ 
+ 	•	 	to purchasers directly;
+ 
+ 	•	 	to underwriters for public offering and sale by them;
+ 
+ 	•	 	through agents;
+ 
+ 	•	 	through dealers; or
+ 
+ 	•	 	through a combination of any of the foregoing methods of sale.
+We may sell the debt securities directly to institutional investors or others who may be deemed to be underwriters within the meaning of the Securities Act, with respect to any resale of the debt securities. A prospectus supplement will describe the terms of any sale of debt securities we are offering hereunder. Direct sales may be arranged by a securities broker-dealer or other financial intermediary.
+The applicable prospectus supplement will name any underwriter involved in a sale of debt securities. Underwriters may offer and sell debt securities at a fixed price or prices, which may be changed, or from time to time at market prices or at negotiated prices. Underwriters may be deemed to have received compensation from us from sales of debt securities in the form of underwriting discounts or commissions and may also receive commissions from purchasers of debt securities for whom they may act as agent. Underwriters may be involved in any at the market offering of debt securities by or on our behalf.
+Underwriters may sell debt securities to or through dealers, and such dealers may receive compensation in the form of discounts, concessions or commissions from the underwriters and/or commissions (which may be changed from time to time) from the purchasers for whom they may act as agent.
+Unless otherwise specified in the applicable prospectus supplement, the obligations of any underwriters to purchase debt securities will be subject to certain conditions precedent, and the underwriters will be obligated to purchase all the debt securities if any are purchased.
+The applicable prospectus supplement will set forth whether or not underwriters may over-allot or effect transactions that stabilize, maintain or otherwise affect the market price of the debt securities at levels above those that might otherwise prevail in the open market, including, for example, by entering stabilizing bids, effecting syndicate covering transactions or imposing penalty bids.
+We will name any agent involved in a sale of debt securities, as well as any commissions payable by us to such agent, in the applicable prospectus supplement. Unless otherwise specified in the applicable prospectus supplement, any such agent will be acting on a reasonable efforts basis for the period of its appointment.
+If we utilize a dealer in the sale of the debt securities being offered pursuant to this prospectus, we will sell the debt securities to the dealer, as principal. The dealer may then resell the debt securities to the public at varying prices to be determined by the dealer at the time of resale.
+Underwriters, dealers and agents participating in a sale of the debt securities may be deemed to be underwriters as defined in the Securities Act, and any discounts and commissions received by them and any profit realized by them on resale of the debt securities may be deemed to be underwriting discounts and commissions, under the Securities Act. We may have agreements with underwriters, dealers and agents to indemnify them against certain civil liabilities, including liabilities under the Securities Act, and to reimburse them for certain expenses.
+ 
+19
+Table of Contents
+
+Underwriters or agents and their affiliates may be customers of, engage in transactions with or perform services for us or our affiliates in the ordinary course of business.
+Unless otherwise specified in the applicable prospectus supplement, we will not list the debt securities on any securities exchange. The debt securities will be a new issue of securities with no established trading market. Any underwriters that purchase the debt securities for public offering and sale may make a market in such debt securities, but such underwriters will not be obligated to do so and may discontinue any market making at any time without notice. We make no assurance as to the liquidity of or the trading markets for any debt securities.
+ 
+20
+Table of Contents
+
+VALIDITY OF THE SECURITIES
+The validity of the securities will be passed upon for us by Hogan Lovells US LLP, Palo Alto, CA and Washington, DC, and for any underwriters or agents by counsel named in the applicable prospectus supplement.
+EXPERTS
+Ernst & Young LLP, independent registered public accounting firm, has audited our consolidated financial statements included in our Current Report on Form 8-K dated April 24, 2013, and the effectiveness of our internal control over financial reporting as of September 29, 2012, as set forth in their reports, which are included in our Current Report on Form 8-K dated April 24, 2013 and our Annual Report on Form 10-K for the year ended September 29, 2012, respectively, and incorporated by reference in this prospectus and elsewhere in the registration statement. Our financial statements are incorporated by reference in reliance on Ernst & Young LLP’s report given on their authority as experts in accounting and auditing.
+ 
+21
+Table of Contents
+
+$        
+ 
+LOGO
+Apple Inc.
+$        Floating Rate Notes due 2018
+$        Floating Rate Notes due 2019
+$             % Notes due 2018
+$             % Notes due 2019
+$             % Notes due 2021
+$             % Notes due 2023
+$             % Notes due 2026
+$             % Notes due 2036
+$             % Notes due 2046
+ 
+ 
+Prospectus Supplement
+                    , 2016
+ 
+ 
+Joint Book-Running Managers
+ 
+Goldman, Sachs & Co.	 	BofA Merrill Lynch	 	Deutsche Bank Securities	 	J.P. Morgan
+ 
+ 
+ 
+ 

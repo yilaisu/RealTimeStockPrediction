@@ -1,0 +1,4 @@
+2009-08-27T00:00:00Z
+Tip of the Week: Copying Text From a Browser
+AutoCopy automatically copies whatever text you select on a Web page to the computer’s clipboard.
+
